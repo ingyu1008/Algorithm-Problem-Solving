@@ -1,0 +1,148 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:[m[K In function '[01m[Kbool solve(int)[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:89:[m[K [01;31m[Kerror: [m[Kno match for '[01m[Koperator<<[m[K' (operand types are '[01m[Kstd::__cxx11::basic_string<char>[m[K' and '[01m[Kconst char [2][m[K')
+   18 |         std::cout << res.substr(res.size() - i, i) == [32m[Kres.substr(res.size() - 2 * i, i)[m[K [01;31m[K<<[m[K [34m[K"\n"[m[K;
+      |                                                       [32m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K [01;31m[K^~[m[K [34m[K~~~~[m[K
+      |                                                                 [32m[K|[m[K                          [34m[K|[m[K
+      |                                                                 [32m[K|[m[K                          [34m[Kconst char [2][m[K
+      |                                                                 [32m[Kstd::__cxx11::basic_string<char>[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:48[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string_view:582:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, std::basic_string_view<_CharT, _Traits>)[m[K'
+  582 |     [01;36m[Koperator[m[K<<(basic_ostream<_CharT, _Traits>& __os,
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string_view:582:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<_CharT, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6416:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _CharT, class _Traits, class _Alloc> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::__cxx11::basic_string<_CharT, _Traits, _Allocator>&)[m[K'
+ 6416 |     [01;36m[Koperator[m[K<<(basic_ostream<_CharT, _Traits>& __os,
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6416:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<_CharT, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:46[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\system_error:217:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const std::error_code&)[m[K'
+  217 |     [01;36m[Koperator[m[K<<(basic_ostream<_CharT, _Traits>& __os, const error_code& __e)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\system_error:217:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<_CharT, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:506:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, _CharT)[m[K'
+  506 |     [01;36m[Koperator[m[K<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:506:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<_CharT, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:511:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, char)[m[K'
+  511 |     [01;36m[Koperator[m[K<<(basic_ostream<_CharT, _Traits>& __out, char __c)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:511:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<_CharT, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:517:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, char)[m[K'
+  517 |     [01;36m[Koperator[m[K<<(basic_ostream<char, _Traits>& __out, char __c)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:517:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<char, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:523:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, signed char)[m[K'
+  523 |     [01;36m[Koperator[m[K<<(basic_ostream<char, _Traits>& __out, signed char __c)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:523:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<char, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:528:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, unsigned char)[m[K'
+  528 |     [01;36m[Koperator[m[K<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:528:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<char, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:548:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const _CharT*)[m[K'
+  548 |     [01;36m[Koperator[m[K<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:548:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<_CharT, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:702[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ostream.tcc:321:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _CharT, class _Traits> std::basic_ostream<_CharT, _Traits>& std::operator<<(std::basic_ostream<_CharT, _Traits>&, const char*)[m[K'
+  321 |     [01;36m[Koperator[m[K<<(basic_ostream<_CharT, _Traits>& __out, const char* __s)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ostream.tcc:321:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<_CharT, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:565:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const char*)[m[K'
+  565 |     [01;36m[Koperator[m[K<<(basic_ostream<char, _Traits>& __out, const char* __s)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:565:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<char, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:578:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const signed char*)[m[K'
+  578 |     [01;36m[Koperator[m[K<<(basic_ostream<char, _Traits>& __out, const signed char* __s)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:578:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<char, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:583:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Traits> std::basic_ostream<char, _Traits>& std::operator<<(std::basic_ostream<char, _Traits>&, const unsigned char*)[m[K'
+  583 |     [01;36m[Koperator[m[K<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:583:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K [01;36m[Knote: [m[K  '[01m[Kstd::__cxx11::basic_string<char>[m[K' is not derived from '[01m[Kstd::basic_ostream<char, _Traits>[m[K'
+   18 |         std::cout << res.substr(res.size() - i, i) == res.substr(res.size() - 2 * i, i) << [01;36m[K"\n"[m[K;
+      |                                                                                            [01;36m[K^~~~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:691:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Ostream, class _Tp> typename std::enable_if<std::__and_<std::__not_<std::is_lvalue_reference<_Tp> >, std::__is_convertible_to_basic_ostream<_Ostream>, std::__is_insertable<typename std::__is_convertible_to_basic_ostream<_Tp>::__ostream_type, const _Tp&, void> >::value, typename std::__is_convertible_to_basic_ostream<_Tp>::__ostream_type>::type std::operator<<(_Ostream&&, const _Tp&)[m[K'
+  691 |     [01;36m[Koperator[m[K<<(_Ostream&& __os, const _Tp& __x)
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:691:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream: In substitution of '[01m[Ktemplate<class _Ostream, class _Tp> typename std::enable_if<std::__and_<std::__not_<std::is_lvalue_reference<_Tp> >, std::__is_convertible_to_basic_ostream<_Ostream>, std::__is_insertable<typename std::__is_convertible_to_basic_ostream<_Tp>::__ostream_type, const _Tp&, void> >::value, typename std::__is_convertible_to_basic_ostream<_Tp>::__ostream_type>::type std::operator<<(_Ostream&&, const _Tp&) [with _Ostream = std::__cxx11::basic_string<char>; _Tp = char [2]][m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\��������\solution.cpp:18:92:[m[K   required from here
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:691:5:[m[K [01;31m[Kerror: [m[Kno type named '[01m[Ktype[m[K' in '[01m[Kstruct std::enable_if<false, void>[m[K'
