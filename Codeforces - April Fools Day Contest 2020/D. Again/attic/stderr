@@ -1,0 +1,6 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - April Fools Day Contest 2020\D. Again\solution.cpp:[m[K In function '[01m[Kint main()[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - April Fools Day Contest 2020\D. Again\solution.cpp:14:22:[m[K [01;31m[Kerror: [m[Kinvalid operands of types '[01m[Kint[m[K' and '[01m[Kconst char [2][m[K' to binary '[01m[Koperator<<[m[K'
+   14 |     std::cout << x&[32m[K1[m[K [01;31m[K<<[m[K [34m[K"\n"[m[K;
+      |                    [32m[K~[m[K [01;31m[K^~[m[K [34m[K~~~~[m[K
+      |                    [32m[K|[m[K    [34m[K|[m[K
+      |                    [32m[Kint[m[K  [34m[Kconst char [2][m[K
