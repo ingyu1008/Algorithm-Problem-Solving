@@ -37,7 +37,7 @@ int main(int argc, char const *argv[])
 
 void readmeInit(std::ofstream &out)
 {
-    out << "#대충 레포 제목\n\n";
+    out << "# 대충 레포 제목\n\n";
 }
 
 bool bojStats(std::ofstream &out, std::ofstream &err)
