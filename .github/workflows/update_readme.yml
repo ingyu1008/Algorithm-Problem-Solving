@@ -44,3 +44,22 @@ jobs:
 
             - name: Run Updater
               run: ./updateReadMe
+
+            - name: Remove Compiled File
+              run: rm updateReadMe
+
+            - name: Git Configs
+              run: |
+                  git config --local user.email "ingyu1008@gmail.com"
+                  git config --local user.name "BOT"
+
+            - name: Git Commit
+              run: |
+                  git add .
+                  git commit -m "AUTO : Update readme.md"
+
+            - name: Git Push
+              uses: ad-m/github-push-action@master
+              with:
+                  branch: "main"
+                  github_token: $
