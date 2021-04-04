@@ -1,0 +1,9 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\le francais\solution.cpp:[m[K In function '[01m[Kint main()[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\le francais\solution.cpp:118:37:[m[K [01;31m[Kerror: [m[K'[01m[Kwhcar_t[m[K' was not declared in this scope; did you mean '[01m[Kwchar_t[m[K'?
+  118 |             res += !!std::iswalpha(([01;31m[Kwhcar_t[m[K)c);
+      |                                     [01;31m[K^~~~~~~[m[K
+      |                                     [32m[Kwchar_t[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\le francais\solution.cpp:[m[K In function '[01m[Kstd::string get(int, int)[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\le francais\solution.cpp:70:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   70 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
