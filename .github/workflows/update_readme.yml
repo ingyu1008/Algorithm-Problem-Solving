@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Auto Update ReadMe
 
 # Controls when the action will run.
 on:
@@ -61,5 +61,5 @@ jobs:
             - name: Git Push
               uses: ad-m/github-push-action@master
               with:
-                  branch: "master"
+                  branch: "auto"
                   github_token: $
