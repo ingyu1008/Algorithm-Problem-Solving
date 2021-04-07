@@ -7,6 +7,7 @@ BOJ Problem Count = 7
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 7469 | [K번째 수](https://www.acmicpc.net/problem/7469) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | [링크](https://ingyu1008.github.io/boj/ps/BOJ7469) |
 | 14645 | [와이버스 부릉부릉](https://www.acmicpc.net/problem/14645) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> | NONE |
 | 21293 | [No Description 2](https://www.acmicpc.net/problem/21293) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> | NONE |
 | 21294 | [와 쿼리](https://www.acmicpc.net/problem/21294) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> | NONE |
@@ -106,4 +107,3 @@ BOJ Problem Count = 7
 | 17386 | [선분 교차 1](https://www.acmicpc.net/problem/17386) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | NONE |
 | 17374 | [비트베리](https://www.acmicpc.net/problem/17374) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> | NONE |
 | 17370 | [육각형 우리 속의 개미](https://www.acmicpc.net/problem/17370) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | NONE |
-| 17363 | [우유가 넘어지면?](https://www.acmicpc.net/problem/17363) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> | NONE |
