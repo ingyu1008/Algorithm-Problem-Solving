@@ -12,5 +12,5 @@ if __name__ == "__main__":
             id = problem["id"]
             title = problem["title"]
             level = problem["level"]
-            f.write(f"| {id} | {title} | <img height=\"25px\" width=\"25px=\" src=\"https://static.solved.ac/tier_small/{level}.svg\"/> | NONE |\n")
+            f.write(f"| {id} | [{title}](https://www.acmicpc.net/problem/{id}) | <img height=\"25px\" width=\"25px=\" src=\"https://static.solved.ac/tier_small/{level}.svg\"/> | NONE |\n")
         f.close()
