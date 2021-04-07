@@ -58,7 +58,7 @@ jobs:
             - name: Git Commit
               run: |
                   git add .
-                  git commit -m "AUTO : Update readme.md"
+                  git commit -m "AUTO : Update recent.json"
 
             - name: Git Push
               uses: ad-m/github-push-action@master
