@@ -51,7 +51,6 @@ jobs:
 
             - name: Remove Temporary Files
               run : |
-                rm database.json
                 rm diff.json
 
             - name: Git Configs
