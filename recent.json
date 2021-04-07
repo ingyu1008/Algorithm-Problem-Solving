@@ -1,6 +1,69 @@
 {
 	"problems": [
 		{
+			"id": 18122,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc0c9\uae54 \ud558\ub178\uc774 \ud0d1",
+			"solved_count": 134,
+			"average_try": 2.8731
+		},
+		{
+			"id": 17481,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ucd5c\uc560 \uc815\ud558\uae30",
+			"solved_count": 95,
+			"average_try": 1.6632
+		},
+		{
+			"id": 16975,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 21",
+			"solved_count": 589,
+			"average_try": 1.944
+		},
+		{
+			"id": 14286,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uac04\uc120 \ub04a\uc5b4\uac00\uae30 2",
+			"solved_count": 89,
+			"average_try": 1.6629
+		},
+		{
+			"id": 14245,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "XOR",
+			"solved_count": 324,
+			"average_try": 1.5586
+		},
+		{
+			"id": 13537,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 1",
+			"solved_count": 675,
+			"average_try": 2.1689
+		},
+		{
+			"id": 12899,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub370\uc774\ud130 \uad6c\uc870",
+			"solved_count": 306,
+			"average_try": 2.7974
+		},
+		{
 			"id": 11871,
 			"level": 17,
 			"level_locked": 0,
@@ -836,69 +899,6 @@
 			"title": "Array and Operations",
 			"solved_count": 32,
 			"average_try": 1.2812999999999999
-		},
-		{
-			"id": 19277,
-			"level": 25,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "ADD, DIV, MAX",
-			"solved_count": 28,
-			"average_try": 2.7142999999999997
-		},
-		{
-			"id": 18702,
-			"level": 25,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Array Queries",
-			"solved_count": 29,
-			"average_try": 11.2759
-		},
-		{
-			"id": 17476,
-			"level": 25,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 28",
-			"solved_count": 62,
-			"average_try": 4.2258
-		},
-		{
-			"id": 14899,
-			"level": 25,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 19",
-			"solved_count": 53,
-			"average_try": 2.9811
-		},
-		{
-			"id": 13727,
-			"level": 25,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "5\ucc28\uc6d0 \uad6c\uc0ac\uacfc \ucd08\ucf5c\ub9bf",
-			"solved_count": 30,
-			"average_try": 2.4
-		},
-		{
-			"id": 19455,
-			"level": 26,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Bitwise Queries",
-			"solved_count": 28,
-			"average_try": 2.2142999999999997
-		},
-		{
-			"id": 17473,
-			"level": 26,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 25",
-			"solved_count": 52,
-			"average_try": 7.9423
 		}
 	]
 }
