@@ -1,4 +1,5 @@
 import json  # json 파일을 다루기 위한 모듈
+import requests
 from Database import Database
 
 if __name__ == "__main__":
@@ -12,5 +13,11 @@ if __name__ == "__main__":
             id = problem["id"]
             title = problem["title"]
             level = problem["level"]
-            f.write(f"| {id} | [{title}](https://www.acmicpc.net/problem/{id}) | <img height=\"25px\" width=\"25px=\" src=\"https://static.solved.ac/tier_small/{level}.svg\"/> | NONE |\n")
+            URL = f"https://ingyu1008.github.io/boj/ps/BOJ{id}"
+            with requests.get(URL) as res:
+                if(res.status_code == 200):
+                    solution = f"[링크](https://ingyu1008.github.io/boj/ps/BOJ{id})"
+                else:
+                    solution = "NONE"
+            f.write(f"| {id} | [{title}](https://www.acmicpc.net/problem/{id}) | <img height=\"25px\" width=\"25px=\" src=\"https://static.solved.ac/tier_small/{level}.svg\"/> | {solution} |\n")
         f.close()
