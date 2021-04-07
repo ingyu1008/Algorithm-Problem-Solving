@@ -6,6 +6,10 @@ name: Auto Update Database
 on:
   schedule:
     - cron: '30 21 * * *'
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
   #allows manual run
   workflow_dispatch:
 
@@ -63,5 +67,5 @@ jobs:
             - name: Git Push
               uses: ad-m/github-push-action@master
               with:
-                  branch: "master"
+                  branch: "auto"
                   github_token: $
