@@ -7,6 +7,20 @@ BOJ Problem Count = 7
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 19455 | Bitwise Queries | 26 | NONE |
+| 17473 | 수열과 쿼리 25 | 26 | NONE |
+| 19277 | ADD, DIV, MAX | 25 | NONE |
+| 18702 | Array Queries | 25 | NONE |
+| 17476 | 수열과 쿼리 28 | 25 | NONE |
+| 14899 | 수열과 쿼리 19 | 25 | NONE |
+| 13727 | 5차원 구사과 초콜릿 | 25 | NONE |
+| 18122 | 색깔 하노이 탑 | 17 | NONE |
+| 17481 | 최애 정하기 | 17 | NONE |
+| 16975 | 수열과 쿼리 21 | 17 | NONE |
+| 14286 | 간선 끊어가기 2 | 17 | NONE |
+| 14245 | XOR | 17 | NONE |
+| 13537 | 수열과 쿼리 1 | 17 | NONE |
+| 12899 | 데이터 구조 | 17 | NONE |
 | 11871 | 님 게임 홀짝 | 17 | NONE |
 | 11869 | 님블 | 17 | NONE |
 | 11868 | 님 게임 2 | 17 | NONE |
@@ -93,17 +107,3 @@ BOJ Problem Count = 7
 | 8464 | Non-Squarefree Numbers | 21 | NONE |
 | 2626 | 헬기착륙장 | 21 | NONE |
 | 2389 | 세상의 중심에서... | 21 | NONE |
-| 1792 | 공약수 | 21 | NONE |
-| 1557 | 제곱 ㄴㄴ | 21 | NONE |
-| 17410 | 수열과 쿼리 1.5 | 22 | NONE |
-| 13705 | Ax+Bsin(x)=C | 22 | NONE |
-| 13323 | BOJ 수열 1 | 23 | NONE |
-| 17474 | 수열과 쿼리 26 | 24 | NONE |
-| 19472 | Array and Operations | 25 | NONE |
-| 19277 | ADD, DIV, MAX | 25 | NONE |
-| 18702 | Array Queries | 25 | NONE |
-| 17476 | 수열과 쿼리 28 | 25 | NONE |
-| 14899 | 수열과 쿼리 19 | 25 | NONE |
-| 13727 | 5차원 구사과 초콜릿 | 25 | NONE |
-| 19455 | Bitwise Queries | 26 | NONE |
-| 17473 | 수열과 쿼리 25 | 26 | NONE |
