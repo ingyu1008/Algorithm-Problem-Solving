@@ -45,7 +45,7 @@ def calculateDiff(old, new):
     # diff.json 이라는 임시 파일로 저장
     with open("diff.json", "w") as out:
         tmp = dict()
-        tmp["problems"] = diff[:100]
+        tmp["problems"] = diff[-100:]
         json.dump(tmp, out, indent='\t')
         out.close()
 
