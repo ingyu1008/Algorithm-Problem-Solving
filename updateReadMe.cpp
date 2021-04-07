@@ -5,6 +5,7 @@ namespace fs = std::filesystem;
 
 void readmeInit(std::ofstream &out);
 bool bojStats(std::ofstream &out, std::ofstream &err);
+void copy(std::string source, std::ofstream &out);
 
 int main(int argc, char const *argv[])
 {
@@ -59,12 +60,33 @@ bool bojStats(std::ofstream &out, std::ofstream &err)
 
     for (auto &p : fs::directory_iterator(BOJ))
     {
-        if(fs::is_directory(p)){
+        if (fs::is_directory(p))
+        {
             cnt++;
         }
     }
 
     out << "BOJ Problem Count = " << cnt << "\n\n";
 
+    out << "---\n\n";
+
+    out << "## 최근 푼 문제 (BaekJoon)\n";
+
+    copy("recent.md", out);
+
     return false;
+}
+
+void copy(std::string source, std::ofstream &out)
+{
+    std::ifstream src;
+    src.open(source);
+    
+    char c;
+    while (src >> c)
+    {
+        out << c;
+    }
+
+    src.close();
 }
