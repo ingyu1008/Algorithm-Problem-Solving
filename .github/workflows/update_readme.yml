@@ -6,7 +6,6 @@ name: Auto Update ReadMe
 on:
     workflow_run:
       workflows: ["Auto Update Database"]
-      branches: ["auto"]
       types: [completed]
 
     # Allows you to run this workflow manually from the Actions tab
@@ -64,5 +63,5 @@ jobs:
             - name: Git Push
               uses: ad-m/github-push-action@master
               with:
-                  branch: "auto"
+                  branch: "master"
                   github_token: $
