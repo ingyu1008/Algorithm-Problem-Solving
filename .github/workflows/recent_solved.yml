@@ -42,6 +42,14 @@ jobs:
             - name: Update Database
               run: python makeDatabase.py
 
+            - name: Parse Recent
+              run: python parseRecentProbs.py
+
+            - name: Remove Temporary Files
+              run : |
+                rm database.json
+                rm diff.json
+
             - name: Git Configs
               run: |
                   git config --local user.email "ingyu1008@gmail.com"
