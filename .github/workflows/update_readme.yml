@@ -38,6 +38,14 @@ jobs:
             #   run: |
             #     echo Add other actions to build,
             #     echo test, and deploy your project.
+            - name: Git Configs
+              run: |
+                  git config --local user.email "ingyu1008@gmail.com"
+                  git config --local user.name "BOT"
+            
+            - name: Git Pull
+              run: git pull
+
             - name: Compile Updater
               run: g++ -std=c++17 updateReadMe.cpp -o updateReadMe
 
@@ -47,10 +55,6 @@ jobs:
             - name: Remove Compiled File
               run: rm updateReadMe
 
-            - name: Git Configs
-              run: |
-                  git config --local user.email "ingyu1008@gmail.com"
-                  git config --local user.name "BOT"
 
             - name: Git Commit
               run: |
