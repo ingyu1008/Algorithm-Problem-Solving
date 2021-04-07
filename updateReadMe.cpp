@@ -82,10 +82,10 @@ void copy(std::string source, std::ofstream &out)
     std::ifstream src;
     src.open(source);
     
-    char c;
-    while (src >> c)
+    std::string line;
+    while (std::getline(src, line))
     {
-        out << c;
+        out << line << "\n";
     }
 
     src.close();
