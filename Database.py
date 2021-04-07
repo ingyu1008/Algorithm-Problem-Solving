@@ -35,7 +35,7 @@ class Database:
         total = 1
 
         while page <= total:
-            URL = f"https://api.solved.ac/v2/search/problems.json?query=solved_by:{userId}&page={page}&sort=level&sort_direction=asc"
+            URL = f"https://api.solved.ac/v2/search/problems.json?query=solved_by:{userId}&page={page}&sort=id&sort_direction=asc"
             res = requests.get(URL)
 
             if res.status_code == 200:
