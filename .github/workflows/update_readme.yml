@@ -61,5 +61,5 @@ jobs:
             - name: Git Push
               uses: ad-m/github-push-action@master
               with:
-                  branch: "auto"
+                  branch: "master"
                   github_token: $
