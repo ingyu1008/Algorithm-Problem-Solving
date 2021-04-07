@@ -2,3 +2,6 @@
 
 BOJ Problem Count = 7
 
+---
+
+## 최근 푼 문제 (BaekJoon)
