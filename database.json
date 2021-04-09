@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 691,
+		"total_problems": 693,
 		"total_page": 7,
 		"problems": [
 			{
@@ -2235,6 +2235,15 @@
 				"title": "\ud654\uc131 \uc9c0\ub3c4",
 				"solved_count": 752,
 				"average_try": 2.8510999999999997
+			},
+			{
+				"id": 3444,
+				"level": 23,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Robotic Sort",
+				"solved_count": 54,
+				"average_try": 2.1852
 			},
 			{
 				"id": 3613,
@@ -5979,6 +5988,15 @@
 				"title": "\uc2f8\uc774\ubc84\uac1c\uac15\ucd1d\ud68c",
 				"solved_count": 238,
 				"average_try": 2.1387
+			},
+			{
+				"id": 19589,
+				"level": 23,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uce74\ub4dc \uc154\ud50c",
+				"solved_count": 23,
+				"average_try": 2.4783
 			},
 			{
 				"id": 19617,

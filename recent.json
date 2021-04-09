@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 19589,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uce74\ub4dc \uc154\ud50c",
+			"solved_count": 23,
+			"average_try": 2.4783
+		},
+		{
+			"id": 3444,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Robotic Sort",
+			"solved_count": 54,
+			"average_try": 2.1852
+		},
+		{
 			"id": 14131,
 			"level": 23,
 			"level_locked": 0,
@@ -881,24 +899,6 @@
 			"title": "\uc6b0\uc6b8\ud55c \ubc29\ud559",
 			"solved_count": 199,
 			"average_try": 3.4271
-		},
-		{
-			"id": 17391,
-			"level": 10,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubb34\ud55c\ubd80\uc2a4\ud130",
-			"solved_count": 303,
-			"average_try": 2.1749
-		},
-		{
-			"id": 17390,
-			"level": 8,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc774\uac74 \uaf2d \ud480\uc5b4\uc57c \ud574!",
-			"solved_count": 486,
-			"average_try": 2.2613000000000003
 		}
 	]
 }
