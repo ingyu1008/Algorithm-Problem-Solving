@@ -1,12 +1,14 @@
 # 대충 레포 제목
 
-BOJ Problem Count = 11
+BOJ Problem Count = 13
 
 ---
 
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 19589 | [카드 셔플](https://www.acmicpc.net/problem/19589) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> | NONE |
+| 3444 | [Robotic Sort](https://www.acmicpc.net/problem/3444) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> | NONE |
 | 14131 | [Okret](https://www.acmicpc.net/problem/14131) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> | NONE |
 | 13159 | [배열](https://www.acmicpc.net/problem/13159) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> | NONE |
 | 16994 | [로프와 쿼리](https://www.acmicpc.net/problem/16994) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | NONE |
@@ -105,5 +107,3 @@ BOJ Problem Count = 11
 | 17394 | [핑거 스냅](https://www.acmicpc.net/problem/17394) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | NONE |
 | 17393 | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | NONE |
 | 17392 | [우울한 방학](https://www.acmicpc.net/problem/17392) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | NONE |
-| 17391 | [무한부스터](https://www.acmicpc.net/problem/17391) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | NONE |
-| 17390 | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | NONE |
