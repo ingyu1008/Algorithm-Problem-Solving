@@ -39,7 +39,7 @@ void rotate(Node *x)
     Node *b;
 
     lazy(p);
-    lazy(b);
+    lazy(x);
 
     if (x == p->l)
     {
