@@ -1,12 +1,13 @@
 # 대충 레포 제목
 
-BOJ Problem Count = 8
+BOJ Problem Count = 10
 
 ---
 
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 13159 | [배열](https://www.acmicpc.net/problem/13159) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> | NONE |
 | 16994 | [로프와 쿼리](https://www.acmicpc.net/problem/16994) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> | NONE |
 | 8452 | [그래프와 쿼리](https://www.acmicpc.net/problem/8452) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> | NONE |
 | 1107 | [리모컨](https://www.acmicpc.net/problem/1107) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | NONE |
@@ -106,4 +107,3 @@ BOJ Problem Count = 8
 | 17391 | [무한부스터](https://www.acmicpc.net/problem/17391) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | NONE |
 | 17390 | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | NONE |
 | 17389 | [보너스 점수](https://www.acmicpc.net/problem/17389) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | NONE |
-| 17388 | [와글와글 숭고한](https://www.acmicpc.net/problem/17388) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | NONE |
