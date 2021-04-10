@@ -1,0 +1,46 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\������\solution.cpp:[m[K In function '[01m[Kint main()[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\������\solution.cpp:81:63:[m[K [01;31m[Kerror: [m[Kno matching function for call to '[01m[Kmin(int&, double)[m[K'
+   81 |         mn = std::min(mn, abs(N-i) + std::floor(std::log10(i))[01;31m[K)[m[K;
+      |                                                               [01;31m[K^[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:198:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Tp> constexpr const _Tp& std::min(const _Tp&, const _Tp&)[m[K'
+  198 |     [01;36m[Kmin[m[K(const _Tp& __a, const _Tp& __b)
+      |     [01;36m[K^~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:198:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\������\solution.cpp:81:63:[m[K [01;36m[Knote: [m[K  deduced conflicting types for parameter '[01m[Kconst _Tp[m[K' ('[01m[Kint[m[K' and '[01m[Kdouble[m[K')
+   81 |         mn = std::min(mn, abs(N-i) + std::floor(std::log10(i))[01;36m[K)[m[K;
+      |                                                               [01;36m[K^[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\������\solution.cpp:1[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:246:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Tp, class _Compare> constexpr const _Tp& std::min(const _Tp&, const _Tp&, _Compare)[m[K'
+  246 |     [01;36m[Kmin[m[K(const _Tp& __a, const _Tp& __b, _Compare __comp)
+      |     [01;36m[K^~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:246:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\������\solution.cpp:81:63:[m[K [01;36m[Knote: [m[K  deduced conflicting types for parameter '[01m[Kconst _Tp[m[K' ('[01m[Kint[m[K' and '[01m[Kdouble[m[K')
+   81 |         mn = std::min(mn, abs(N-i) + std::floor(std::log10(i))[01;36m[K)[m[K;
+      |                                                               [01;36m[K^[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\algorithm:62[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\������\solution.cpp:3[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algo.h:3444:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Tp> constexpr _Tp std::min(std::initializer_list<_Tp>)[m[K'
+ 3444 |     [01;36m[Kmin[m[K(initializer_list<_Tp> __l)
+      |     [01;36m[K^~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algo.h:3444:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\������\solution.cpp:81:63:[m[K [01;36m[Knote: [m[K  mismatched types '[01m[Kstd::initializer_list<_Tp>[m[K' and '[01m[Kint[m[K'
+   81 |         mn = std::min(mn, abs(N-i) + std::floor(std::log10(i))[01;36m[K)[m[K;
+      |                                                               [01;36m[K^[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\algorithm:62[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\������\solution.cpp:3[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algo.h:3450:5:[m[K [01;36m[Knote: [m[Kcandidate: '[01m[Ktemplate<class _Tp, class _Compare> constexpr _Tp std::min(std::initializer_list<_Tp>, _Compare)[m[K'
+ 3450 |     [01;36m[Kmin[m[K(initializer_list<_Tp> __l, _Compare __comp)
+      |     [01;36m[K^~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algo.h:3450:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\������\solution.cpp:81:63:[m[K [01;36m[Knote: [m[K  mismatched types '[01m[Kstd::initializer_list<_Tp>[m[K' and '[01m[Kint[m[K'
+   81 |         mn = std::min(mn, abs(N-i) + std::floor(std::log10(i))[01;36m[K)[m[K;
+      |                                                               [01;36m[K^[m[K
