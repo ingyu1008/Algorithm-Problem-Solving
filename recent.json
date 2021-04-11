@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 16586,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Linked List",
+			"solved_count": 14,
+			"average_try": 3.1429
+		},
+		{
 			"id": 19589,
 			"level": 23,
 			"level_locked": 0,
@@ -890,15 +899,6 @@
 			"title": "\ub2e4\uc774\ub098\ubbf9 \ub864\ub7ec",
 			"solved_count": 165,
 			"average_try": 2.3697
-		},
-		{
-			"id": 17392,
-			"level": 10,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc6b0\uc6b8\ud55c \ubc29\ud559",
-			"solved_count": 199,
-			"average_try": 3.4271
 		}
 	]
 }
