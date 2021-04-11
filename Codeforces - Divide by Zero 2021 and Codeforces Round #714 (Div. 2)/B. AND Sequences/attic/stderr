@@ -1,0 +1,6 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Divide by Zero 2021 and Codeforces Round #714 (Div. 2)\B. AND Sequences\solution.cpp:28:17:[m[K [01;31m[Kerror: [m[Kredefinition of '[01m[Kstd::vector<long long int> fact[m[K'
+   28 | std::vector<ll> [01;31m[Kfact[m[K(202020);
+      |                 [01;31m[K^~~~[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Divide by Zero 2021 and Codeforces Round #714 (Div. 2)\B. AND Sequences\solution.cpp:10:17:[m[K [01;36m[Knote: [m[K'[01m[Kstd::vector<long long int> fact[m[K' previously declared here
+   10 | std::vector<ll> [01;36m[Kfact[m[K;
+      |                 [01;36m[K^~~~[m[K

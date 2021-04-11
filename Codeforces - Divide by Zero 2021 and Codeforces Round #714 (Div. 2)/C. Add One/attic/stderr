@@ -1,0 +1,7 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Divide by Zero 2021 and Codeforces Round #714 (Div. 2)\C. Add One\solution.cpp:[m[K In function '[01m[Kll find(ll, ll)[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Divide by Zero 2021 and Codeforces Round #714 (Div. 2)\C. Add One\solution.cpp:27:18:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K;[m[K' before '[01m[Kret[m[K'
+   27 |         ret *= 10
+      |                  [01;31m[K^[m[K
+      |                  [32m[K;[m[K
+   28 |         [32m[Kret[m[K += x;
+      |         [32m[K~~~[m[K       
