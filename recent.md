@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 16586 | [Linked List](https://www.acmicpc.net/problem/16586) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> | NONE |
 | 19589 | [카드 셔플](https://www.acmicpc.net/problem/19589) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> | NONE |
 | 3444 | [Robotic Sort](https://www.acmicpc.net/problem/3444) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> | NONE |
 | 14131 | [Okret](https://www.acmicpc.net/problem/14131) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> | NONE |
@@ -99,4 +100,3 @@
 | 17395 | [이진수 변환](https://www.acmicpc.net/problem/17395) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | NONE |
 | 17394 | [핑거 스냅](https://www.acmicpc.net/problem/17394) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | NONE |
 | 17393 | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | NONE |
-| 17392 | [우울한 방학](https://www.acmicpc.net/problem/17392) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> | NONE |
