@@ -107,3 +107,9 @@ BOJ Problem Count = 14
 | 17395 | [이진수 변환](https://www.acmicpc.net/problem/17395) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | NONE |
 | 17394 | [핑거 스냅](https://www.acmicpc.net/problem/17394) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | NONE |
 | 17393 | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | NONE |
+
+
+---
+
+last updated : Tue Apr 13 14:21:13 2021
+
