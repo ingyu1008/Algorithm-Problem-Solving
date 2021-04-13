@@ -80,7 +80,7 @@ bool bojStats(std::ofstream &out, std::ofstream &err)
     time_t t;
     time(&t);
 
-    out << "last updated : " << asctime(localtime(&t));
+    out << "last updated : " << asctime(localtime(&t)) << "\n";
 
     return false;
 }
