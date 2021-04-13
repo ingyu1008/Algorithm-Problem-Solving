@@ -1,7 +1,10 @@
 import requests
 import json
+from datetime import datetime
 
 # 두 딕셔너리 병합
+
+
 def merge(old, new):
     if len(old) == 0:
         return new
@@ -26,10 +29,13 @@ class Database:
 
     # Write New DB
     def writeDB(self, file="database.json"):
+        now = datetime.now()
+        self.DB["last_updated"] = now.strftime("%c")
+
         with open(file, 'w') as f:
             json.dump(self.DB, f, indent='\t')
             f.close()
-    
+
     # Save All Solved Problems on DB
     def getSolvedProblems(self, userId="ingyu1008", page=1):
         total = 1
