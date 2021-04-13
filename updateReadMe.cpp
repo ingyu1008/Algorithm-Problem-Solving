@@ -1,5 +1,6 @@
 #include <filesystem>
 #include <fstream>
+#include <ctime>
 
 namespace fs = std::filesystem;
 
@@ -73,6 +74,13 @@ bool bojStats(std::ofstream &out, std::ofstream &err)
     out << "## 최근 푼 문제 (BaekJoon)\n";
 
     copy("recent.md", out);
+
+    out << "\n\n---\n\n";
+
+    time_t t;
+    time(&t);
+
+    out << "last updated : " << asctime(localtime(&t));
 
     return false;
 }
