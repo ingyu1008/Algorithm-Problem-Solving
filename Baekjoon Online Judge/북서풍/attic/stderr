@@ -1,0 +1,11 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\�ϼ�ǳ\solution.cpp:[m[K In function '[01m[Kint main()[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\�ϼ�ǳ\solution.cpp:85:42:[m[K [01;31m[Kerror: [m[Kcannot convert '[01m[K__gnu_cxx::__normal_iterator<int*, std::vector<int> >[m[K' to '[01m[Kint[m[K' in assignment
+   85 |             v[i].first = [01;31m[Kstd::lower_bound(x.begin(), x.end(), v[i].first)[m[K;
+      |                          [01;31m[K~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                          [01;31m[K|[m[K
+      |                                          [01;31m[K__gnu_cxx::__normal_iterator<int*, std::vector<int> >[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\�ϼ�ǳ\solution.cpp:86:43:[m[K [01;31m[Kerror: [m[Kcannot convert '[01m[K__gnu_cxx::__normal_iterator<int*, std::vector<int> >[m[K' to '[01m[Kint[m[K' in assignment
+   86 |             v[i].second = [01;31m[Kstd::lower_bound(y.begin(), y.end(), v[i].second)[m[K;
+      |                           [01;31m[K~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                           [01;31m[K|[m[K
+      |                                           [01;31m[K__gnu_cxx::__normal_iterator<int*, std::vector<int> >[m[K
