@@ -45,7 +45,7 @@ def calculateDiff(old, new):
     # diff.json 이라는 임시 파일로 저장
     with open("diff.json", "w") as out:
         tmp = dict()
-        tmp["problems"] = diff[-100:]
+        tmp["problems"] = diff[-10:]
         json.dump(tmp, out, indent='\t')
         out.close()
 
@@ -58,7 +58,7 @@ def updateRecent(recent, diff):
         if not item in recent.DB["problems"]:
             recent.DB["problems"].insert(0,item)
 
-    while len(recent.DB["problems"]) > 100:
+    while len(recent.DB["problems"]) > 10:
         recent.DB["problems"].pop()
 
 if __name__ == "__main__":
