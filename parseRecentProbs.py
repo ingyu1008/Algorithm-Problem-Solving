@@ -16,8 +16,15 @@ if __name__ == "__main__":
             URL = f"https://ingyu1008.github.io/boj/ps/BOJ{id}"
             with requests.get(URL) as res:
                 if(res.status_code == 200):
-                    solution = f"[링크](https://ingyu1008.github.io/boj/ps/BOJ{id})"
+                    solution = f"[풀이](https://ingyu1008.github.io/boj/ps/BOJ{id})"
                 else:
                     solution = "NONE"
+            URL = f"https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/{title}"
+            if solution == "NONE":
+                with requests.get(URL) as res:
+                    if(res.status_code == 200):
+                        solution = f"[코드](https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/{title}/solution.cpp)"
+                    else:
+                        solution = ""
             f.write(f"| {id} | [{title}](https://www.acmicpc.net/problem/{id}) | <img height=\"25px\" width=\"25px=\" src=\"https://static.solved.ac/tier_small/{level}.svg\"/> | {solution} |\n")
         f.close()
