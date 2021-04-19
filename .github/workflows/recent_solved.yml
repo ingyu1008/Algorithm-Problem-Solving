@@ -8,8 +8,6 @@ on:
     - cron: '30 21 * * *'
   push:
     branches: [master]
-  pull_request:
-    branches: [master]
   #allows manual run
   workflow_dispatch:
 
