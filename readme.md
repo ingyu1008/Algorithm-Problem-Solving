@@ -1,6 +1,6 @@
 # 대충 레포 제목
 
-BOJ Problem Count = 18
+BOJ Problem Count = 19
 
 ---
 
@@ -21,5 +21,5 @@ BOJ Problem Count = 18
 
 ---
 
-last updated : Tue Apr 20 21:44:05 2021
+last updated : Wed Apr 21 10:38:00 2021
 
