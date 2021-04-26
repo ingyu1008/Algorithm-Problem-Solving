@@ -2706,7 +2706,7 @@
 			},
 			{
 				"id": 8452,
-				"level": 21,
+				"level": 22,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uadf8\ub798\ud504\uc640 \ucffc\ub9ac",
@@ -6292,8 +6292,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc554\ud638 \ub9cc\ub4e4\uae30",
-				"solved_count": 33,
-				"average_try": 1.6364
+				"solved_count": 34,
+				"average_try": 1.6471
 			},
 			{
 				"id": 21554,
@@ -6360,5 +6360,5 @@
 			}
 		]
 	},
-	"last_updated": "Sun Apr 25 21:44:07 2021"
+	"last_updated": "Mon Apr 26 13:31:46 2021"
 }
