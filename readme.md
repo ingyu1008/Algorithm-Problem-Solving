@@ -7,6 +7,7 @@ BOJ Problem Count = 21
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 2052 | [지수연산](https://www.acmicpc.net/problem/2052) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 10944 | [랜덤 게임~~](https://www.acmicpc.net/problem/10944) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
 | 21566 | [트리 정리하기](https://www.acmicpc.net/problem/21566) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
 | 21565 | [논리의 돌](https://www.acmicpc.net/problem/21565) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
@@ -16,10 +17,9 @@ BOJ Problem Count = 21
 | 21555 | [빛의 돌 옮기기](https://www.acmicpc.net/problem/21555) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
 | 21554 | [마법의 돌 장난감](https://www.acmicpc.net/problem/21554) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 21553 | [암호 만들기](https://www.acmicpc.net/problem/21553) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 2912 | [백설공주와 난쟁이](https://www.acmicpc.net/problem/2912) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/백설공주와 난쟁이/solution.cpp>) |
 
 
 ---
 
-last updated : Sat May  1 21:44:35 2021
+last updated : Sun May  2 21:44:08 2021
 
