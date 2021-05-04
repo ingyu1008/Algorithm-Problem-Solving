@@ -1,0 +1,5 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Codeforces Global Round 14\E. Phoenix and Computers\solution.cpp:[m[K In function '[01m[Kint main()[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Codeforces Global Round 14\E. Phoenix and Computers\solution.cpp:35:58:[m[K [01;31m[Kerror: [m[Kexpected '[01m[K)[m[K' before '[01m[K;[m[K' token
+   35 |             dp[i][1] = [34m[K([m[Kdp[i][1] + 2 * (dp[i - 2][j]) % M[01;31m[K;[m[K
+      |                        [34m[K~[m[K                                 [01;31m[K^[m[K
+      |                                                          [32m[K)[m[K

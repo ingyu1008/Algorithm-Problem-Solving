@@ -1,0 +1,4 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Codeforces Global Round 14\F. Phoenix and Earthquake\solution.cpp:[m[K In function '[01m[Kvoid dfs(int)[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Codeforces Global Round 14\F. Phoenix and Earthquake\solution.cpp:56:44:[m[K [01;31m[Kerror: [m[K'[01m[Know[m[K' was not declared in this scope
+   56 |             std::cout << "now, next = " << [01;31m[Know[m[K << ", " << next << "\n";
+      |                                            [01;31m[K^~~[m[K

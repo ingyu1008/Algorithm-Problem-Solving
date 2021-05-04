@@ -1,0 +1,4 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Codeforces Global Round 14\D. Phoenix and Socks\solution.cpp:[m[K In function '[01m[Kint main()[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Codeforces Global Round 14\D. Phoenix and Socks\solution.cpp:57:17:[m[K [01;31m[Kerror: [m[K'[01m[KFstd[m[K' has not been declared
+   57 |         cost += [01;31m[KFstd[m[K::abs(sum) / 2 + cnt2 / 2;
+      |                 [01;31m[K^~~~[m[K
