@@ -1,0 +1,4 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Educational Codeforces Round 108 (Rated for Div. 2)\C. Berland Regional\solution.cpp:[m[K In function '[01m[Kint main()[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Educational Codeforces Round 108 (Rated for Div. 2)\C. Berland Regional\solution.cpp:59:62:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before '[01m[K==[m[K' token
+   59 |                 if (v[i].size() - 1 - (v[i].size() - 1) % k) [01;31m[K==[m[K 0)
+      |                                                              [01;31m[K^~[m[K
