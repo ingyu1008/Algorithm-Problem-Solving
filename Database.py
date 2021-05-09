@@ -3,8 +3,6 @@ import json
 from datetime import datetime
 
 # 두 딕셔너리 병합
-
-
 def merge(old, new):
     if len(old) == 0:
         return new
@@ -53,3 +51,13 @@ class Database:
                 print(
                     f"Error occured while requesting {URL}, Error Code {res.status_code}")
                 break
+    
+    def getCFStats(self, handle):
+        URL = f"https://codeforces.com/api/user.rating?handle={handle}"
+        res = requests.get(URL)
+
+        if res.status_code == 200:
+            self.DB = res.json()
+        else:
+            print(f"Error occured while requesting {URL}, Error Code {res.status_code}")
+

@@ -71,6 +71,12 @@ bool bojStats(std::ofstream &out, std::ofstream &err)
 
     out << "---\n\n";
 
+    out << "## 코드포스 레이팅\n";
+
+    out << "![Rating Graph](./cfStats.svg)";
+
+    out << "---\n\n";
+
     out << "## 최근 푼 문제 (BaekJoon)\n";
 
     copy("recent.md", out);
