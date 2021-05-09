@@ -4,6 +4,9 @@ BOJ Problem Count = 21
 
 ---
 
+## 코드포스 레이팅
+![Rating Graph](./cfStats.svg)---
+
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
@@ -21,5 +24,5 @@ BOJ Problem Count = 21
 
 ---
 
-last updated : Sat May  8 21:43:37 2021
+last updated : Sun May  9 07:12:49 2021
 
