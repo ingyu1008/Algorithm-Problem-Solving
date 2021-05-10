@@ -73,7 +73,7 @@ bool bojStats(std::ofstream &out, std::ofstream &err)
 
     out << "## 코드포스 레이팅\n";
 
-    out << "![Rating Graph](./cfStats.svg)";
+    out << "[![Rating Graph](./cfStats.svg)](https://github.com/ingyu1008/Algorithm-Problem-Solving/blob/master/cfStats.html)";
 
     out << "---\n\n";
 
