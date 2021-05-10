@@ -1,7 +1,7 @@
 import requests  # http 요청을 위한 모듈
 import json  # json 파일을 다루기 위한 모듈
 import plotly.express as px  # 데이터 시각화
-import datetime # datetime 임포트
+from datetime import datetime # datetime 임포트
 from Database import Database
 
 handle = "MatWhyTle"
