@@ -19,7 +19,7 @@ if __name__ == "__main__":
         x = []
         y = []
         for item in dct["result"]:
-            x.append(datetime(item["ratingUpdateTimeSeconds"]))
+            x.append(datetime.fromtimestamp(item["ratingUpdateTimeSeconds"]))
             y.append(item["newRating"])
         x = x[1:]
         y = y[1:]
