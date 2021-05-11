@@ -1,6 +1,6 @@
 # 대충 레포 제목
 
-BOJ Problem Count = 21
+BOJ Problem Count = 26
 
 ---
 
@@ -10,7 +10,7 @@ BOJ Problem Count = 21
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
-| 1238 | [파티](https://www.acmicpc.net/problem/1238) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 1238 | [파티](https://www.acmicpc.net/problem/1238) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/파티/solution.cpp>) |
 | 2052 | [지수연산](https://www.acmicpc.net/problem/2052) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 10944 | [랜덤 게임~~](https://www.acmicpc.net/problem/10944) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
 | 21566 | [트리 정리하기](https://www.acmicpc.net/problem/21566) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
@@ -24,5 +24,5 @@ BOJ Problem Count = 21
 
 ---
 
-last updated : Mon May 10 21:44:54 2021
+last updated : Tue May 11 14:37:21 2021
 
