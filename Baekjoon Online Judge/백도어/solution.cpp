@@ -10,9 +10,9 @@ Code by MatWhyTle(ingyu1008)
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <queue>
 #include <map>
 #include <set>
+#include <queue>
 
 typedef long long ll;
 typedef std::pair<int, int> pii;
@@ -51,36 +51,46 @@ ll gcd(ll a, ll b)
 						End Of Template
 ********************************************************************/
 
-int dist[20202];
-std::vector<std::pair<int, int>> v[20202];
+std::vector<std::pair<ll, ll>> v[101010];
 
 int main(void)
 {
     std::cin.tie(0);
     std::ios_base::sync_with_stdio(false);
 
-    int V, E;
-    std::cin >> V >> E;
+    int N, M;
+    std::cin >> N >> M;
 
-    int K;
-    std::cin >> K;
-    std::fill_n(dist, 20202, 1e9 + 7);
+    std::vector<int> visible(N);
 
-    for (int i = 0, x, y, z; i < E; i++)
+    for (int i = 0; i < N; i++)
     {
-        std::cin >> x >> y >> z;
-        v[x].push_back({y, z});
+        std::cin >> visible[i];
     }
 
-    dist[K] = 0;
+    visible[N - 1] = 0;
 
-    std::priority_queue<std::pair<int, int>> pq;
-    pq.push({0, K});
+    std::vector<ll> dist(N, 1e18);
+
+    dist[0] = 0;
+
+    for (int i = 0, x, y, z; i < M; i++)
+    {
+        std::cin >> x >> y >> z;
+        if (visible[y] == 0)
+            v[x].push_back({y, z});
+        if (visible[x] == 0)
+            v[y].push_back({x, z});
+    }
+
+    std::priority_queue<std::pair<ll, ll>> pq;
+
+    pq.push({0, 0});
 
     while (!pq.empty())
     {
-        int cost = -pq.top().first;
-        int node = pq.top().second;
+        ll cost = -pq.top().first;
+        ll node = pq.top().second;
         pq.pop();
 
         if (dist[node] < cost)
@@ -88,24 +98,17 @@ int main(void)
 
         for (auto p : v[node])
         {
-            if (dist[p.first] > cost + p.second)
-            {
+            if(dist[p.first] > cost + p.second){
                 dist[p.first] = cost + p.second;
                 pq.push({-dist[p.first], p.first});
             }
         }
     }
 
-    for (int i = 1; i <= V; i++)
-    {
-        if (dist[i] == 1e9 + 7)
-        {
-            std::cout << "INF\n";
-        }
-        else
-        {
-            std::cout << dist[i] << "\n";
-        }
+    if(dist[N-1] == 1e18){
+        std::cout << "-1\n";
+    } else {
+        std::cout << dist[N-1] << "\n";
     }
 
     return 0;

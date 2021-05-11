@@ -10,9 +10,9 @@ Code by MatWhyTle(ingyu1008)
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <queue>
 #include <map>
 #include <set>
+#include <queue>
 
 typedef long long ll;
 typedef std::pair<int, int> pii;
@@ -51,31 +51,32 @@ ll gcd(ll a, ll b)
 						End Of Template
 ********************************************************************/
 
-int dist[20202];
-std::vector<std::pair<int, int>> v[20202];
+std::vector<std::pair<int, int>> v[1010], rev[1010];
+
+int dist[1010], revdist[1010];
 
 int main(void)
 {
     std::cin.tie(0);
     std::ios_base::sync_with_stdio(false);
 
-    int V, E;
-    std::cin >> V >> E;
+    int N, M, X;
+    std::cin >> N >> M >> X;
 
-    int K;
-    std::cin >> K;
-    std::fill_n(dist, 20202, 1e9 + 7);
-
-    for (int i = 0, x, y, z; i < E; i++)
+    for (int i = 0, x, y, z; i < M; i++)
     {
         std::cin >> x >> y >> z;
         v[x].push_back({y, z});
+        rev[y].push_back({x, z});
     }
 
-    dist[K] = 0;
+    std::fill_n(dist, 1010, 1e9 + 7);
+    std::fill_n(revdist, 1010, 1e9 + 7);
 
-    std::priority_queue<std::pair<int, int>> pq;
-    pq.push({0, K});
+    std::priority_queue<std::pair<int, int>> pq, revpq;
+
+    pq.push({0, X});
+    dist[X] = 0;
 
     while (!pq.empty())
     {
@@ -96,17 +97,34 @@ int main(void)
         }
     }
 
-    for (int i = 1; i <= V; i++)
+    revpq.push({0, X});
+    revdist[X] = 0;
+
+    while (!revpq.empty())
     {
-        if (dist[i] == 1e9 + 7)
+        int cost = -revpq.top().first;
+        int node = revpq.top().second;
+        revpq.pop();
+
+        if (revdist[node] < cost)
+            continue;
+
+        for (auto p : rev[node])
         {
-            std::cout << "INF\n";
-        }
-        else
-        {
-            std::cout << dist[i] << "\n";
+            if (revdist[p.first] > cost + p.second)
+            {
+                revdist[p.first] = cost + p.second;
+                revpq.push({-revdist[p.first], p.first});
+            }
         }
     }
+
+    int mx = 0;
+    for(int i = 1; i <= N; i++){
+        mx = std::max(mx, dist[i] + revdist[i]);
+    }
+
+    std::cout << mx << "\n";
 
     return 0;
 }

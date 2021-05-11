@@ -1,0 +1,14 @@
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38[m[K,
+                 from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\���� �ִ� ���\solution.cpp:10[m[K:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h: In instantiation of '[01m[Ktypename __gnu_cxx::__enable_if<std::__is_scalar<_Tp>::__value, _OutputIterator>::__type std::__fill_n_a(_OutputIterator, _Size, const _Tp&) [with _OutputIterator = std::vector<int>; _Size = int; _Tp = double; typename __gnu_cxx::__enable_if<std::__is_scalar<_Tp>::__value, _OutputIterator>::__type = std::vector<int>][m[K':
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:809:18:[m[K   required from '[01m[K_OI std::fill_n(_OI, _Size, const _Tp&) [with _OI = std::vector<int>; _Size = int; _Tp = double][m[K'
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Baekjoon Online Judge\���� �ִ� ���\solution.cpp:116:37:[m[K   required from here
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:771:36:[m[K [01;31m[Kerror: [m[Kno match for '[01m[Koperator++[m[K' (operand type is '[01m[Kstd::vector<int>[m[K')
+  771 |     __niter > 0; --__niter, (void) [01;31m[K++__first[m[K)
+      |                                    [01;31m[K^~~~~~~~~[m[K
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:772:2:[m[K [01;31m[Kerror: [m[Kno match for '[01m[Koperator*[m[K' (operand type is '[01m[Kstd::vector<int>[m[K')
+  772 |  [01;31m[K*__first[m[K = __tmp;
+      |  [01;31m[K^~~~~~~~[m[K

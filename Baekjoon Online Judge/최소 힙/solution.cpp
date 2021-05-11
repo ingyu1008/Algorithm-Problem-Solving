@@ -10,7 +10,6 @@ Code by MatWhyTle(ingyu1008)
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <queue>
 #include <map>
 #include <set>
 
@@ -51,60 +50,28 @@ ll gcd(ll a, ll b)
 						End Of Template
 ********************************************************************/
 
-int dist[20202];
-std::vector<std::pair<int, int>> v[20202];
-
 int main(void)
 {
     std::cin.tie(0);
     std::ios_base::sync_with_stdio(false);
 
-    int V, E;
-    std::cin >> V >> E;
+    int N;
+    std::cin >> N;
 
-    int K;
-    std::cin >> K;
-    std::fill_n(dist, 20202, 1e9 + 7);
+    std::multiset<int> mst;
 
-    for (int i = 0, x, y, z; i < E; i++)
+    int x;
+    while (N--)
     {
-        std::cin >> x >> y >> z;
-        v[x].push_back({y, z});
-    }
-
-    dist[K] = 0;
-
-    std::priority_queue<std::pair<int, int>> pq;
-    pq.push({0, K});
-
-    while (!pq.empty())
-    {
-        int cost = -pq.top().first;
-        int node = pq.top().second;
-        pq.pop();
-
-        if (dist[node] < cost)
-            continue;
-
-        for (auto p : v[node])
-        {
-            if (dist[p.first] > cost + p.second)
-            {
-                dist[p.first] = cost + p.second;
-                pq.push({-dist[p.first], p.first});
+        std::cin >> x;
+        if(x)
+            mst.insert(x);
+        else {
+            if(!mst.empty()){
+                std::cout << *mst.begin() << "\n";
+                mst.erase(mst.begin());
             }
-        }
-    }
-
-    for (int i = 1; i <= V; i++)
-    {
-        if (dist[i] == 1e9 + 7)
-        {
-            std::cout << "INF\n";
-        }
-        else
-        {
-            std::cout << dist[i] << "\n";
+            else std::cout << "0\n";
         }
     }
 
