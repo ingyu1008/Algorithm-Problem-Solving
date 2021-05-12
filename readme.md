@@ -1,6 +1,6 @@
 # 대충 레포 제목
 
-BOJ Problem Count = 26
+BOJ Problem Count = 27
 
 ---
 
@@ -10,6 +10,7 @@ BOJ Problem Count = 26
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 1854 | [K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/K번째 최단경로 찾기/solution.cpp>) |
 | 1238 | [파티](https://www.acmicpc.net/problem/1238) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/파티/solution.cpp>) |
 | 2052 | [지수연산](https://www.acmicpc.net/problem/2052) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 10944 | [랜덤 게임~~](https://www.acmicpc.net/problem/10944) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 26
 | 21557 | [불꽃놀이](https://www.acmicpc.net/problem/21557) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 21556 | [우물 파기](https://www.acmicpc.net/problem/21556) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
 | 21555 | [빛의 돌 옮기기](https://www.acmicpc.net/problem/21555) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
-| 21554 | [마법의 돌 장난감](https://www.acmicpc.net/problem/21554) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 
 
 ---
 
-last updated : Tue May 11 21:44:38 2021
+last updated : Wed May 12 16:53:34 2021
 
