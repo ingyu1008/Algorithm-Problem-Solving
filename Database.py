@@ -7,7 +7,7 @@ def merge(old, new):
     if len(old) == 0:
         return new
 
-    for item in new["result"]["problems"]:
+    for item in new["items"]: # 새로운 api 기준 컬럼명 바뀜
         old["result"]["problems"].append(item)
 
     return old
