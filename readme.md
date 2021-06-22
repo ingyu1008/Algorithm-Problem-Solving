@@ -10,6 +10,9 @@ BOJ Problem Count = 36
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 12846 | [무서운 아르바이트](https://www.acmicpc.net/problem/12846) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
+| 3648 | [아이돌](https://www.acmicpc.net/problem/3648) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
+| 1390 | [테트리스](https://www.acmicpc.net/problem/1390) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> |  |
 | 2306 | [유전자](https://www.acmicpc.net/problem/2306) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/유전자/solution.cpp>) |
 | 9084 | [동전](https://www.acmicpc.net/problem/9084) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
 | 4781 | [사탕 가게](https://www.acmicpc.net/problem/4781) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/사탕 가게/solution.cpp>) |
@@ -17,12 +20,9 @@ BOJ Problem Count = 36
 | 11657 | [타임머신](https://www.acmicpc.net/problem/11657) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 | 11404 | [플로이드](https://www.acmicpc.net/problem/11404) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/플로이드/solution.cpp>) |
 | 2610 | [회의준비](https://www.acmicpc.net/problem/2610) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/회의준비/solution.cpp>) |
-| 21756 | [지우개](https://www.acmicpc.net/problem/21756) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
-| 17132 | [두더지가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17132) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/두더지가 정보섬에 올라온 이유/solution.cpp>) |
-| 11780 | [플로이드 2](https://www.acmicpc.net/problem/11780) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
 
 
 ---
 
-last updated : Tue Jun 22 11:35:45 2021
+last updated : Tue Jun 22 11:56:35 2021
 
