@@ -37,15 +37,16 @@ class Database:
     # Save All Solved Problems on DB
     def getSolvedProblems(self, userId="ingyu1008", page=1):
         total = 1
+        currentCount = 0
 
-        while page <= total:
+        while currentCount < total:
             URL = f"https://solved.ac/api/v3/search/problem?query=solved_by:{userId}&page={page}&sort=id&sort_direction=asc"
             res = requests.get(URL)
 
             if res.status_code == 200:
                 self.DB = merge(self.DB, res.json())
-                total = res.json()["result"]["total_page"]
-                print(f"{page} pages out of {total} pages done")
+                total = res.json()["count"]
+                currentCount += len(res.json()["items"])
                 page += 1
             else:
                 print(
