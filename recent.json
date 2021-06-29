@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 21607,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Polynomial and Easy Queries",
+			"solved_count": 41,
+			"average_try": 2.9268
+		},
+		{
+			"id": 12020,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "LU \ubd84\ud574",
+			"solved_count": 30,
+			"average_try": 2.8333
+		},
+		{
 			"id": 10954,
 			"level": 19,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\uc0ac\ud0d5 \uac00\uac8c",
 			"solved_count": 717,
 			"average_try": 4.5238
-		},
-		{
-			"id": 1535,
-			"level": 9,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc548\ub155",
-			"solved_count": 1342,
-			"average_try": 2.0387
-		},
-		{
-			"id": 11657,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud0c0\uc784\uba38\uc2e0",
-			"solved_count": 2506,
-			"average_try": 5.3021
 		}
 	],
-	"last_updated": "Mon Jun 28 21:40:49 2021"
+	"last_updated": "Tue Jun 29 21:40:54 2021"
 }
