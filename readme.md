@@ -24,5 +24,5 @@ BOJ Problem Count = 36
 
 ---
 
-last updated : Wed Jun 30 21:41:36 2021
+last updated : Thu Jul  1 21:43:17 2021
 
