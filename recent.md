@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 1267 | [핸드폰 요금](https://www.acmicpc.net/problem/1267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 22193 | [Multiply](https://www.acmicpc.net/problem/22193) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 16428 | [A/B - 3](https://www.acmicpc.net/problem/16428) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 5928 | [Contest Timing](https://www.acmicpc.net/problem/5928) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -9,4 +10,3 @@
 | 21868 | [미적분학 입문하기](https://www.acmicpc.net/problem/21868) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
 | 21607 | [Polynomial and Easy Queries](https://www.acmicpc.net/problem/21607) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
 | 12020 | [LU 분해](https://www.acmicpc.net/problem/12020) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
-| 10954 | [테트리스 2](https://www.acmicpc.net/problem/10954) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> |  |
