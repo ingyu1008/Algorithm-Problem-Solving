@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 1956,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc6b4\ub3d9",
+			"solved_count": 2709,
+			"average_try": 2.1617
+		},
+		{
 			"id": 1267,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Polynomial and Easy Queries",
 			"solved_count": 41,
 			"average_try": 2.9268
-		},
-		{
-			"id": 12020,
-			"level": 17,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "LU \ubd84\ud574",
-			"solved_count": 30,
-			"average_try": 2.8333
 		}
 	],
-	"last_updated": "Tue Jul 13 21:40:08 2021"
+	"last_updated": "Wed Jul 14 21:40:13 2021"
 }
