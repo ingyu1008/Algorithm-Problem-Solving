@@ -10,6 +10,7 @@ BOJ Problem Count = 36
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 18112 | [이진수 게임](https://www.acmicpc.net/problem/18112) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
 | 1598 | [꼬리를 무는 숫자 나열](https://www.acmicpc.net/problem/1598) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 1956 | [운동](https://www.acmicpc.net/problem/1956) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 | 1267 | [핸드폰 요금](https://www.acmicpc.net/problem/1267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 36
 | 20499 | [Darius님 한타 안 함?](https://www.acmicpc.net/problem/20499) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 19698 | [헛간 청약](https://www.acmicpc.net/problem/19698) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 21873 | [개구리 징검다리 건너기](https://www.acmicpc.net/problem/21873) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
-| 21868 | [미적분학 입문하기](https://www.acmicpc.net/problem/21868) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
 
 
 ---
 
-last updated : Fri Jul 16 21:40:47 2021
+last updated : Sat Jul 17 21:40:25 2021
 
