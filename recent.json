@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 18112,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc774\uc9c4\uc218 \uac8c\uc784",
+			"solved_count": 115,
+			"average_try": 3.7304
+		},
+		{
 			"id": 1598,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uac1c\uad6c\ub9ac \uc9d5\uac80\ub2e4\ub9ac \uac74\ub108\uae30",
 			"solved_count": 36,
 			"average_try": 1.4722
-		},
-		{
-			"id": 21868,
-			"level": 9,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubbf8\uc801\ubd84\ud559 \uc785\ubb38\ud558\uae30",
-			"solved_count": 54,
-			"average_try": 3.0185
 		}
 	],
-	"last_updated": "Fri Jul 16 21:40:06 2021"
+	"last_updated": "Sat Jul 17 21:39:38 2021"
 }
