@@ -10,19 +10,19 @@ BOJ Problem Count = 36
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 21633 | [Bank Transfer](https://www.acmicpc.net/problem/21633) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 20191 | [줄임말](https://www.acmicpc.net/problem/20191) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
+| 20187 | [종이접기](https://www.acmicpc.net/problem/20187) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 20186 | [수 고르기](https://www.acmicpc.net/problem/20186) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
+| 17874 | [Piece of Cake!](https://www.acmicpc.net/problem/17874) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 16785 | [ソーシャルゲーム (Social Game)](https://www.acmicpc.net/problem/16785) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 15921 | [수찬은 마린보이야!!](https://www.acmicpc.net/problem/15921) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 14264 | [정육각형과 삼각형](https://www.acmicpc.net/problem/14264) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 6763 | [Speed fines are not fine!](https://www.acmicpc.net/problem/6763) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 18112 | [이진수 게임](https://www.acmicpc.net/problem/18112) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
-| 1598 | [꼬리를 무는 숫자 나열](https://www.acmicpc.net/problem/1598) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 1956 | [운동](https://www.acmicpc.net/problem/1956) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 1267 | [핸드폰 요금](https://www.acmicpc.net/problem/1267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 22193 | [Multiply](https://www.acmicpc.net/problem/22193) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
-| 16428 | [A/B - 3](https://www.acmicpc.net/problem/16428) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 5928 | [Contest Timing](https://www.acmicpc.net/problem/5928) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 20499 | [Darius님 한타 안 함?](https://www.acmicpc.net/problem/20499) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 19698 | [헛간 청약](https://www.acmicpc.net/problem/19698) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 21873 | [개구리 징검다리 건너기](https://www.acmicpc.net/problem/21873) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
 
 
 ---
 
-last updated : Sun Jul 18 21:40:32 2021
+last updated : Mon Jul 19 21:40:42 2021
 
