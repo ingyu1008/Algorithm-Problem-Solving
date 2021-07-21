@@ -1,95 +1,95 @@
 {
 	"problems": [
 		{
-			"id": 6768,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Don\u2019t pass me the ball!",
-			"solved_count": 289,
-			"average_try": 1.2249
-		},
-		{
-			"id": 6764,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Sounds fishy!",
-			"solved_count": 353,
-			"average_try": 2.8442
-		},
-		{
-			"id": 21633,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Bank Transfer",
-			"solved_count": 99,
-			"average_try": 1.202
-		},
-		{
-			"id": 20191,
+			"id": 22255,
 			"level": 14,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc904\uc784\ub9d0",
-			"solved_count": 171,
-			"average_try": 2.8246
+			"title": "\ud638\uc11d\uc0ac\uc6b0\ub8e8\uc2a4",
+			"solved_count": 36,
+			"average_try": 1.6389
 		},
 		{
-			"id": 20187,
-			"level": 13,
+			"id": 22252,
+			"level": 11,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc885\uc774\uc811\uae30",
-			"solved_count": 197,
-			"average_try": 2.3096
+			"title": "\uc815\ubcf4 \uc0c1\uc778 \ud638\uc11d",
+			"solved_count": 63,
+			"average_try": 2.4127
 		},
 		{
-			"id": 20186,
+			"id": 17435,
+			"level": 15,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud569\uc131\ud568\uc218\uc640 \ucffc\ub9ac",
+			"solved_count": 725,
+			"average_try": 1.7959
+		},
+		{
+			"id": 17175,
 			"level": 8,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc218 \uace0\ub974\uae30",
-			"solved_count": 373,
-			"average_try": 1.6327
+			"title": "\ud53c\ubcf4\ub098\uce58\ub294 \uc9c0\uaca8\uc6e1~",
+			"solved_count": 698,
+			"average_try": 2.2335
 		},
 		{
-			"id": 17874,
-			"level": 2,
+			"id": 15624,
+			"level": 8,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "Piece of Cake!",
-			"solved_count": 303,
-			"average_try": 1.0957
+			"title": "\ud53c\ubcf4\ub098\uce58 \uc218 7",
+			"solved_count": 715,
+			"average_try": 1.7497
 		},
 		{
-			"id": 16785,
-			"level": 2,
+			"id": 14495,
+			"level": 8,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\u30bd\u30fc\u30b7\u30e3\u30eb\u30b2\u30fc\u30e0 (Social Game)",
-			"solved_count": 405,
-			"average_try": 1.8775
+			"title": "\ud53c\ubcf4\ub098\uce58 \ube44\uc2a4\ubb34\ub9ac\ud55c \uc218\uc5f4",
+			"solved_count": 1011,
+			"average_try": 1.7864
 		},
 		{
-			"id": 15921,
-			"level": 2,
+			"id": 11443,
+			"level": 14,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc218\ucc2c\uc740 \ub9c8\ub9b0\ubcf4\uc774\uc57c!!",
-			"solved_count": 737,
-			"average_try": 1.7299
+			"title": "\uc9dd\uc218\ubc88\uc9f8 \ud53c\ubcf4\ub098\uce58 \uc218\uc758 \ud569",
+			"solved_count": 295,
+			"average_try": 1.9424
 		},
 		{
-			"id": 14264,
-			"level": 2,
+			"id": 11442,
+			"level": 14,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc815\uc721\uac01\ud615\uacfc \uc0bc\uac01\ud615",
-			"solved_count": 647,
-			"average_try": 1.4096
+			"title": "\ud640\uc218\ubc88\uc9f8 \ud53c\ubcf4\ub098\uce58 \uc218\uc758 \ud569",
+			"solved_count": 283,
+			"average_try": 1.3463
+		},
+		{
+			"id": 11440,
+			"level": 15,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud53c\ubcf4\ub098\uce58 \uc218\uc758 \uc81c\uacf1\uc758 \ud569",
+			"solved_count": 274,
+			"average_try": 1.5401
+		},
+		{
+			"id": 10826,
+			"level": 7,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud53c\ubcf4\ub098\uce58 \uc218 4",
+			"solved_count": 2590,
+			"average_try": 2.5409
 		}
 	],
-	"last_updated": "Tue Jul 20 21:41:23 2021"
+	"last_updated": "Wed Jul 21 21:40:56 2021"
 }
