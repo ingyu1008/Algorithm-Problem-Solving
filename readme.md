@@ -10,19 +10,19 @@ BOJ Problem Count = 36
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
-| 6768 | [Don’t pass me the ball!](https://www.acmicpc.net/problem/6768) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 6764 | [Sounds fishy!](https://www.acmicpc.net/problem/6764) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 21633 | [Bank Transfer](https://www.acmicpc.net/problem/21633) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 20191 | [줄임말](https://www.acmicpc.net/problem/20191) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
-| 20187 | [종이접기](https://www.acmicpc.net/problem/20187) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
-| 20186 | [수 고르기](https://www.acmicpc.net/problem/20186) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
-| 17874 | [Piece of Cake!](https://www.acmicpc.net/problem/17874) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 16785 | [ソーシャルゲーム (Social Game)](https://www.acmicpc.net/problem/16785) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 15921 | [수찬은 마린보이야!!](https://www.acmicpc.net/problem/15921) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 14264 | [정육각형과 삼각형](https://www.acmicpc.net/problem/14264) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 22255 | [호석사우루스](https://www.acmicpc.net/problem/22255) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
+| 22252 | [정보 상인 호석](https://www.acmicpc.net/problem/22252) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
+| 17435 | [합성함수와 쿼리](https://www.acmicpc.net/problem/17435) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
+| 17175 | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
+| 15624 | [피보나치 수 7](https://www.acmicpc.net/problem/15624) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
+| 14495 | [피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
+| 11443 | [짝수번째 피보나치 수의 합](https://www.acmicpc.net/problem/11443) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
+| 11442 | [홀수번째 피보나치 수의 합](https://www.acmicpc.net/problem/11442) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
+| 11440 | [피보나치 수의 제곱의 합](https://www.acmicpc.net/problem/11440) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
+| 10826 | [피보나치 수 4](https://www.acmicpc.net/problem/10826) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 
 
 ---
 
-last updated : Tue Jul 20 21:41:58 2021
+last updated : Wed Jul 21 21:41:43 2021
 
