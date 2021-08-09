@@ -10,6 +10,7 @@ BOJ Problem Count = 36
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 2057 | [팩토리얼 분해](https://www.acmicpc.net/problem/2057) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 14287 | [회사 문화 3](https://www.acmicpc.net/problem/14287) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
 | 10350 | [은행](https://www.acmicpc.net/problem/10350) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> |  |
 | 1187 | [숫자 놀이](https://www.acmicpc.net/problem/1187) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 36
 | 1725 | [히스토그램](https://www.acmicpc.net/problem/1725) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
 | 22255 | [호석사우루스](https://www.acmicpc.net/problem/22255) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
 | 22252 | [정보 상인 호석](https://www.acmicpc.net/problem/22252) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
-| 17435 | [합성함수와 쿼리](https://www.acmicpc.net/problem/17435) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
 
 
 ---
 
-last updated : Sun Aug  8 21:39:19 2021
+last updated : Mon Aug  9 21:39:57 2021
 
