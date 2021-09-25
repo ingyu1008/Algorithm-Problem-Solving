@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 14440,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc815\uc218 \uc218\uc5f4",
+			"solved_count": 204,
+			"average_try": 3.2451
+		},
+		{
 			"id": 18716,
 			"level": 21,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Bottle Return",
 			"solved_count": 510,
 			"average_try": 1.1275
-		},
-		{
-			"id": 20492,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc138\uae08",
-			"solved_count": 1463,
-			"average_try": 1.5031
 		}
 	],
-	"last_updated": "Fri Sep 24 21:37:11 2021"
+	"last_updated": "Sat Sep 25 21:36:38 2021"
 }
