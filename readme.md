@@ -10,6 +10,7 @@ BOJ Problem Count = 77
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 23234 | [The World Responds](https://www.acmicpc.net/problem/23234) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 20091 | [Mountains](https://www.acmicpc.net/problem/20091) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 | 18940 | [숫자 카드 제거 게임](https://www.acmicpc.net/problem/18940) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
 | 18186 | [라면 사기 (Large)](https://www.acmicpc.net/problem/18186) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 77
 | 16880 | [룩, 비숍, 킹, 나이트, 궁전 게임](https://www.acmicpc.net/problem/16880) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
 | 16879 | [궁전 게임](https://www.acmicpc.net/problem/16879) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
 | 16877 | [핌버](https://www.acmicpc.net/problem/16877) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
-| 14440 | [정수 수열](https://www.acmicpc.net/problem/14440) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 
 
 ---
 
-last updated : Sun Nov 28 21:38:36 2021
+last updated : Mon Nov 29 21:38:46 2021
 
