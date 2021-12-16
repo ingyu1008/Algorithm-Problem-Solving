@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 6810,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "ISBN",
+			"solved_count": 143,
+			"average_try": 1.4266
+		},
+		{
 			"id": 23234,
 			"level": 1,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uad81\uc804 \uac8c\uc784",
 			"solved_count": 57,
 			"average_try": 1.5263
-		},
-		{
-			"id": 16877,
-			"level": 18,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud54c\ubc84",
-			"solved_count": 138,
-			"average_try": 2.5652
 		}
 	],
-	"last_updated": "Wed Dec 15 21:38:17 2021"
+	"last_updated": "Thu Dec 16 21:38:05 2021"
 }
