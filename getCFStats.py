@@ -27,4 +27,3 @@ if __name__ == "__main__":
         fig.update_layout(xaxis_title="Time",
                           yaxis_title="Rating",)
         fig.write_image("cfStats.svg")
-        fig.write_html("cfStats.html")
