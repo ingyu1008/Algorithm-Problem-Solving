@@ -2904,7 +2904,7 @@
 			},
 			{
 				"id": 6768,
-				"level": 2,
+				"level": 3,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Don\u2019t pass me the ball!",
@@ -7251,8 +7251,8 @@
 			},
 			{
 				"id": 21292,
-				"level": 0,
-				"level_locked": 1,
+				"level": 11,
+				"level_locked": 0,
 				"solvable": 1,
 				"title": "le fran\u00e7ais",
 				"solved_count": 13,
@@ -7494,5 +7494,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Dec 28 21:38:28 2021"
+	"last_updated": "Wed Dec 29 18:45:51 2021"
 }
