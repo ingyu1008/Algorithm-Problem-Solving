@@ -10,19 +10,19 @@ BOJ Problem Count = 77
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 24042 | [횡단보도](https://www.acmicpc.net/problem/24042) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
+| 24041 | [성싶당 밀키트](https://www.acmicpc.net/problem/24041) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 24040 | [예쁜 케이크](https://www.acmicpc.net/problem/24040) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
+| 24039 | [2021은 무엇이 특별할까?](https://www.acmicpc.net/problem/24039) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 6810 | [ISBN](https://www.acmicpc.net/problem/6810) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 23234 | [The World Responds](https://www.acmicpc.net/problem/23234) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 20091 | [Mountains](https://www.acmicpc.net/problem/20091) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 | 18940 | [숫자 카드 제거 게임](https://www.acmicpc.net/problem/18940) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
 | 18186 | [라면 사기 (Large)](https://www.acmicpc.net/problem/18186) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 | 18185 | [라면 사기 (Small)](https://www.acmicpc.net/problem/18185) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
-| 16895 | [님 게임 3](https://www.acmicpc.net/problem/16895) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
-| 16887 | [루트 님 게임](https://www.acmicpc.net/problem/16887) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
-| 16880 | [룩, 비숍, 킹, 나이트, 궁전 게임](https://www.acmicpc.net/problem/16880) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
-| 16879 | [궁전 게임](https://www.acmicpc.net/problem/16879) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
 
 
 ---
 
-last updated : Thu Dec 30 21:39:03 2021
+last updated : Fri Dec 31 21:38:49 2021
 
