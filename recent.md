@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 23972 | [악마의 제안](https://www.acmicpc.net/problem/23972) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 24042 | [횡단보도](https://www.acmicpc.net/problem/24042) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
 | 24041 | [성싶당 밀키트](https://www.acmicpc.net/problem/24041) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
 | 24040 | [예쁜 케이크](https://www.acmicpc.net/problem/24040) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
@@ -9,4 +10,3 @@
 | 20091 | [Mountains](https://www.acmicpc.net/problem/20091) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 | 18940 | [숫자 카드 제거 게임](https://www.acmicpc.net/problem/18940) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
 | 18186 | [라면 사기 (Large)](https://www.acmicpc.net/problem/18186) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
-| 18185 | [라면 사기 (Small)](https://www.acmicpc.net/problem/18185) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
