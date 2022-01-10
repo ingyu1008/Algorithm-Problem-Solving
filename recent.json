@@ -1,6 +1,51 @@
 {
 	"problems": [
 		{
+			"id": 23352,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubc29\ud0c8\ucd9c",
+			"solved_count": 81,
+			"average_try": 1.5926
+		},
+		{
+			"id": 16918,
+			"level": 10,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubd04\ubc84\ub9e8",
+			"solved_count": 1439,
+			"average_try": 2.3836
+		},
+		{
+			"id": 14636,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Money for Nothing",
+			"solved_count": 138,
+			"average_try": 5.471
+		},
+		{
+			"id": 13703,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubb3c\ubcbc\ub8e9\uc758 \uc0dd\uc874\ud655\ub960",
+			"solved_count": 276,
+			"average_try": 3.1413
+		},
+		{
+			"id": 13261,
+			"level": 20,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud0c8\uc625",
+			"solved_count": 253,
+			"average_try": 2.4466
+		},
+		{
 			"id": 12766,
 			"level": 21,
 			"level_locked": 1,
@@ -44,52 +89,7 @@
 			"title": "\uae40\uce58",
 			"solved_count": 260,
 			"average_try": 3.4115
-		},
-		{
-			"id": 18439,
-			"level": 26,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "LCS 6",
-			"solved_count": 97,
-			"average_try": 2.7835
-		},
-		{
-			"id": 18438,
-			"level": 24,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "LCS 5",
-			"solved_count": 90,
-			"average_try": 3.3444
-		},
-		{
-			"id": 18253,
-			"level": 23,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ucd5c\ub2e8\uacbd\ub85c\uc640 \ucffc\ub9ac",
-			"solved_count": 48,
-			"average_try": 4.8333
-		},
-		{
-			"id": 11852,
-			"level": 26,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Round words",
-			"solved_count": 67,
-			"average_try": 2.6716
-		},
-		{
-			"id": 9735,
-			"level": 19,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc0bc\ucc28 \ubc29\uc815\uc2dd \ud480\uae30",
-			"solved_count": 142,
-			"average_try": 7.7465
 		}
 	],
-	"last_updated": "Sun Jan  9 21:38:34 2022"
+	"last_updated": "Mon Jan 10 21:38:25 2022"
 }
