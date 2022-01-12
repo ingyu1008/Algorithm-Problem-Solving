@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 24082,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u7acb\u65b9\u4f53 (Cube)",
+			"solved_count": 201,
+			"average_try": 1.0896
+		},
+		{
+			"id": 1039,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uad50\ud658",
+			"solved_count": 1587,
+			"average_try": 4.7801
+		},
+		{
 			"id": 13164,
 			"level": 11,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\uc9c0\uc0ac \ubc30\uc815",
 			"solved_count": 138,
 			"average_try": 2.8623
-		},
-		{
-			"id": 9465,
-			"level": 10,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc2a4\ud2f0\ucee4",
-			"solved_count": 13509,
-			"average_try": 2.1209
-		},
-		{
-			"id": 13262,
-			"level": 20,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc218\uc5f4\uc758 OR \uc810\uc218",
-			"solved_count": 127,
-			"average_try": 2.9843
 		}
 	],
-	"last_updated": "Tue Jan 11 21:39:37 2022"
+	"last_updated": "Wed Jan 12 21:37:35 2022"
 }
