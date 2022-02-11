@@ -1,95 +1,95 @@
 {
 	"problems": [
 		{
-			"id": 24082,
-			"level": 1,
+			"id": 24468,
+			"level": 7,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\u7acb\u65b9\u4f53 (Cube)",
-			"solved_count": 201,
-			"average_try": 1.0896
+			"title": "\ucda9\ub3cc\uc758 \uc218",
+			"solved_count": 4,
+			"average_try": 1.25
 		},
 		{
-			"id": 1039,
-			"level": 13,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uad50\ud658",
-			"solved_count": 1587,
-			"average_try": 4.7801
-		},
-		{
-			"id": 13164,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud589\ubcf5 \uc720\uce58\uc6d0",
-			"solved_count": 985,
-			"average_try": 1.7716
-		},
-		{
-			"id": 13140,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Hello World!",
-			"solved_count": 334,
-			"average_try": 2.7275
-		},
-		{
-			"id": 23352,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubc29\ud0c8\ucd9c",
-			"solved_count": 81,
-			"average_try": 1.5926
-		},
-		{
-			"id": 16918,
+			"id": 24467,
 			"level": 10,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ubd04\ubc84\ub9e8",
-			"solved_count": 1439,
-			"average_try": 2.3836
+			"title": "\ud63c\uc790 \ud558\ub294 \uc737\ub180\uc774",
+			"solved_count": 3,
+			"average_try": 1
 		},
 		{
-			"id": 14636,
-			"level": 22,
+			"id": 24466,
+			"level": 15,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "Money for Nothing",
-			"solved_count": 138,
-			"average_try": 5.471
+			"title": "\ub3c4\ud53c",
+			"solved_count": 4,
+			"average_try": 1
 		},
 		{
-			"id": 13703,
+			"id": 24465,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub370\ubdd4\uc758 \uafc8",
+			"solved_count": 6,
+			"average_try": 1
+		},
+		{
+			"id": 24464,
 			"level": 11,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ubb3c\ubcbc\ub8e9\uc758 \uc0dd\uc874\ud655\ub960",
-			"solved_count": 276,
-			"average_try": 3.1413
+			"title": "\ub4dd\uc218 \ubc25 \uba39\uc774\uae30",
+			"solved_count": 6,
+			"average_try": 1
 		},
 		{
-			"id": 13261,
-			"level": 20,
+			"id": 24463,
+			"level": 10,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ud0c8\uc625",
-			"solved_count": 253,
-			"average_try": 2.4466
+			"title": "\ubbf8\ub85c",
+			"solved_count": 5,
+			"average_try": 1
 		},
 		{
-			"id": 12766,
-			"level": 21,
-			"level_locked": 1,
+			"id": 24462,
+			"level": 11,
+			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc9c0\uc0ac \ubc30\uc815",
-			"solved_count": 138,
-			"average_try": 2.8623
+			"title": "\uc77c\uc5b4\ub098... \ucf54\ub529\ud574\uc57c\uc9c0...",
+			"solved_count": 3,
+			"average_try": 1.6667
+		},
+		{
+			"id": 24461,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uadf8\ub798\ud504\uc758 \uc904\uae30",
+			"solved_count": 3,
+			"average_try": 1
+		},
+		{
+			"id": 24460,
+			"level": 7,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud2b9\ubcc4\uc0c1\uc774\ub77c\ub3c4 \ubc1b\uace0 \uc2f6\uc5b4",
+			"solved_count": 6,
+			"average_try": 1
+		},
+		{
+			"id": 24459,
+			"level": 15,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud68c\ub85c\uc758 \uc800\ud56d",
+			"solved_count": 3,
+			"average_try": 1
 		}
 	],
-	"last_updated": "Thu Feb 10 21:36:20 2022"
+	"last_updated": "Fri Feb 11 21:36:13 2022"
 }
