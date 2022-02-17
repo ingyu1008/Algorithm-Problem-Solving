@@ -1,12 +1,12 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
-| 24468 | [충돌의 수](https://www.acmicpc.net/problem/24468) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
-| 24467 | [혼자 하는 윷놀이](https://www.acmicpc.net/problem/24467) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
-| 24466 | [도피](https://www.acmicpc.net/problem/24466) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
-| 24465 | [데뷔의 꿈](https://www.acmicpc.net/problem/24465) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 24464 | [득수 밥 먹이기](https://www.acmicpc.net/problem/24464) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
-| 24463 | [미로](https://www.acmicpc.net/problem/24463) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
-| 24462 | [일어나... 코딩해야지...](https://www.acmicpc.net/problem/24462) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
-| 24461 | [그래프의 줄기](https://www.acmicpc.net/problem/24461) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 24460 | [특별상이라도 받고 싶어](https://www.acmicpc.net/problem/24460) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
-| 24459 | [회로의 저항](https://www.acmicpc.net/problem/24459) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
+| 21294 | [와 쿼리](https://www.acmicpc.net/problem/21294) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/와 쿼리/solution.cpp>) |
+| 21293 | [No Description 2](https://www.acmicpc.net/problem/21293) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/No Description 2/solution.cpp>) |
+| 19999 | [일하는 구구](https://www.acmicpc.net/problem/19999) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
+| 19617 | [랜덤 게임~~~~~](https://www.acmicpc.net/problem/19617) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
+| 18829 | [0초 후에 제출할 수 있습니다.](https://www.acmicpc.net/problem/18829) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
+| 18825 | [눈치게임 A+B! A-B! A+B! 터렛! A+B! 피보나치 함수! A+B! A-B! A+B! 어린 왕자! A+B! ACM Craft! A+B! A-B! A+B! 습격자 초라기! A+B! 벡터 매칭! A+B! A-B! A+B! A/B! A+B! 터렛! A+B! A-B! A+B! 분산처리! A+B! A+B! 마셔라! 마셔라 마셔라! 마셔라 틀이 들어간다!](https://www.acmicpc.net/problem/18825) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
+| 17113 | [3분 그래프](https://www.acmicpc.net/problem/17113) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
+| 16647 | [Happy Birthday, kipa00!](https://www.acmicpc.net/problem/16647) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
+| 16076 | [휴식이 필요해](https://www.acmicpc.net/problem/16076) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
+| 15915 | [가위 바위 보 1002](https://www.acmicpc.net/problem/15915) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
