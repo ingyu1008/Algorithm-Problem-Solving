@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 23238,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Best Student",
+			"solved_count": 67,
+			"average_try": 6.4925
+		},
+		{
 			"id": 24262,
 			"level": 1,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ub79c\ub364 \uac8c\uc784~~~~~",
 			"solved_count": 388,
 			"average_try": 21.5438
-		},
-		{
-			"id": 18829,
-			"level": 0,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "0\ucd08 \ud6c4\uc5d0 \uc81c\ucd9c\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
-			"solved_count": 414,
-			"average_try": 9.7971
 		}
 	],
-	"last_updated": "Tue Mar 15 21:36:00 2022"
+	"last_updated": "Wed Mar 16 21:37:49 2022"
 }
