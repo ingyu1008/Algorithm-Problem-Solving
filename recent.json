@@ -1,6 +1,33 @@
 {
 	"problems": [
 		{
+			"id": 16904,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc9d1\ud569\uacfc \ucffc\ub9ac",
+			"solved_count": 23,
+			"average_try": 2.087
+		},
+		{
+			"id": 11191,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Xor Maximization",
+			"solved_count": 146,
+			"average_try": 2.2877
+		},
+		{
+			"id": 1626,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub450 \ubc88\uc9f8\ub85c \uc791\uc740 \uc2a4\ud328\ub2dd \ud2b8\ub9ac",
+			"solved_count": 442,
+			"average_try": 7.3869
+		},
+		{
 			"id": 23238,
 			"level": 21,
 			"level_locked": 0,
@@ -62,34 +89,7 @@
 			"title": "\uc640 \ucffc\ub9ac",
 			"solved_count": 121,
 			"average_try": 5.6777
-		},
-		{
-			"id": 21293,
-			"level": 0,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "No Description 2",
-			"solved_count": 176,
-			"average_try": 18.9148
-		},
-		{
-			"id": 19999,
-			"level": 0,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "\uc77c\ud558\ub294 \uad6c\uad6c",
-			"solved_count": 32,
-			"average_try": 54.4688
-		},
-		{
-			"id": 19617,
-			"level": 0,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "\ub79c\ub364 \uac8c\uc784~~~~~",
-			"solved_count": 388,
-			"average_try": 21.5438
 		}
 	],
-	"last_updated": "Wed Mar 16 21:37:49 2022"
+	"last_updated": "Thu Mar 17 21:37:13 2022"
 }
