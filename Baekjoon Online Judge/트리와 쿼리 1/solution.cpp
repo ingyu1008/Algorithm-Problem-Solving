@@ -47,127 +47,166 @@ ll gcd(ll a, ll b)
 }
 
 /********************************************************************
-						End Of Template
+                        End Of Template
 ********************************************************************/
-int N;
-std::vector<std::pair<pii, int>> v[1 << 17];
+std::vector<std::pair<std::pair<int, int>, ll>> v[101010];
+int sz[101010], par[101010], hldroot[101010], e2v[101010], inv[101010];
+int chainDepth[101010];
 
-struct Node
-{
-    ll sz, dep, par, top, in, out, value;
-} info[1 << 17];
+struct Node {
+    ll cost;
+};
 
-ll tree[1 << 20];
+std::vector<Node> et;
 
-void update(int node, int l, int r, int x, int c)
-{
-    if (l > x || r < x)
-        return;
-    if (l == r)
-    {
-        tree[node] = c;
+int dfs(int node, int parent = 0) {
+    sz[node] = 1;
+
+    for (auto& p : v[node]) {
+        int next = p.first.first;
+        if (sz[next] || next == parent)continue;
+
+        e2v[p.first.second] = next;
+
+        par[next] = node;
+        int nextsz = dfs(next);
+        sz[node] += nextsz;
+        if (sz[v[node][0].first.first] < sz[next] || v[node][0].first.first == parent) {
+            std::swap(p, v[node][0]);
+        }
+    }
+
+    return sz[node];
+}
+
+void hld(int node, ll cost) {
+    inv[node] = et.size();
+    et.push_back({ cost });
+
+    for (int i = 0; i < v[node].size(); i++) {
+        if (hldroot[v[node][i].first.first]) continue;
+
+        if (i) {
+            hldroot[v[node][i].first.first] = v[node][i].first.first;
+            chainDepth[v[node][i].first.first] = chainDepth[node] + 1;
+        } else {
+            hldroot[v[node][i].first.first] = hldroot[node];
+            chainDepth[v[node][i].first.first] = chainDepth[node];
+        }
+
+        hld(v[node][i].first.first, v[node][i].second);
+    }
+}
+
+std::vector<ll> tree(404040);
+
+void init(int node, int l, int r) {
+    if (l == r) {
+        tree[node] = et[l].cost;
         return;
     }
 
-    int m = (l + r) >> 1;
-    update(node * 2, l, m, x, c);
-    update(node * 2 + 1, m + 1, r, x, c);
+    int mid = (l + r) / 2;
+
+    init(node * 2, l, mid);
+    init(node * 2 + 1, mid + 1, r);
     tree[node] = std::max(tree[node * 2], tree[node * 2 + 1]);
 }
 
-ll query(int node, int l, int r, int s, int e)
-{
-    s++;
-    if (l > e || r < s)
-        return 0;
-    if (l >= s && r <= e)
-        return tree[node];
+void update(int node, int l, int r, int idx, int x) {
+    if (l > idx || r < idx) return;
 
-    int m = (l + r) >> 1;
-    s--;
-    return std::max(query(node * 2, l, m, s, e), query(node * 2 + 1, m + 1, r, s, e));
-}
-
-void dfs(int x = 1)
-{
-    info[x].sz = 1;
-    for (auto &y : v[x])
-    {
-        if (info[y.first.first].sz > 0)
-            continue;
-        info[y.first.first].dep = info[x].dep + 1;
-        info[y.first.first].par = x;
-        dfs(y.first.first);
-        info[x].sz += info[y.first.first].sz;
-
-        if (info[y.first.first].sz > info[v[x][0].first.first].sz)
-            std::swap(y, v[x][0]);
+    if (l == r) {
+        tree[node] = x;
+        return;
     }
+
+    int mid = (l + r) / 2;
+
+    update(node * 2, l, mid, idx, x);
+    update(node * 2 + 1, mid + 1, r, idx, x);
+
+    tree[node] = std::max(tree[node * 2], tree[node * 2 + 1]);
 }
 
-int w;
-void dfs2(int x = 1)
-{
-    info[x].in = ++w;
-    update(1, 1, N, w, info[x].value);
-    for (auto y : v[x])
-    {
-        if (y.first.first == 1 || info[y.first.first].in > 0)
-            continue;
-        info[y.first.first].top = (y.first.first == v[x][0].first.first) ? info[x].top : y.first.first;
-        info[y.first.first].value = y.first.second;
-        dfs2(y.first.first);
+ll query(int node, int l, int r, int s, int e) {
+    if (l > e || r < s) return 0;
+    if (l >= s && r <= e) return tree[node];
+
+    int mid = (l + r) / 2;
+
+    return std::max(query(node * 2, l, mid, s, e), query(node * 2 + 1, mid + 1, r, s, e));
+}
+
+void query1(int i, int c) {
+    int node = e2v[i];
+    update(1, 0, et.size() - 1, inv[node], c);
+}
+
+void query2(int u, int v) {
+    ll ans = 0;
+    
+    if(chainDepth[u] < chainDepth[v]) std::swap(u, v);
+    while(chainDepth[u] != chainDepth[v]) {
+        ans = std::max(ans, query(1, 0, et.size() - 1, inv[hldroot[u]], inv[u]));
+        u = par[hldroot[u]];
     }
-    info[x].out = w;
-}
 
-vpii vv(1 << 17);
+    while (hldroot[u] != hldroot[v]) {
+        ans = std::max(ans, query(1, 0, et.size() - 1, inv[hldroot[u]], inv[u]));
+        u = par[hldroot[u]];
+        ans = std::max(ans, query(1, 0, et.size() - 1, inv[hldroot[v]], inv[v]));
+        v = par[hldroot[v]];
+    }
+
+    if (inv[u] > inv[v]) std::swap(u, v);
+
+    if (u != v) {
+        ans = std::max(ans, query(1, 0, et.size() - 1, inv[u] + 1, inv[v]));
+    }
+
+    std::cout << ans << "\n";
+}
 
 int main(void)
 {
     std::cin.tie(0);
     std::ios_base::sync_with_stdio(false);
 
+    int N;
     std::cin >> N;
 
-    for (int i = 1, x, y, z; i < N; i++)
+    for (int i = 1; i < N; i++)
     {
+        ll x, y, z;
         std::cin >> x >> y >> z;
-        v[x].push_back({{y, z}, i});
-        v[y].push_back({{x, z}, i});
-        vv[i] = {x, y};
+        v[x].push_back({ {y, i}, z });
+        v[y].push_back({ {x, i}, z });
     }
 
-    dfs();
-    dfs2();
+    par[1] = 1;
+    dfs(1);
+
+    hldroot[1] = 1;
+    chainDepth[1] = 0;
+    hld(1, 0);
+
+    init(1, 0, et.size() - 1);
 
     int M;
     std::cin >> M;
-    int x, y, z;
-    while (M--)
+
+    for (int i = 0; i < M; i++)
     {
+        int x, y, z;
         std::cin >> x >> y >> z;
-        if (x == 1)
-        {
-            x = (info[vv[y].first].dep > info[vv[y].second].dep) ? vv[y].first : vv[y].second;
-            update(1, 1, N, info[x].in, z);
-        }
-        else
-        {
-            ll mx = 0;
-            while (info[y].top != info[z].top)
-            {
-                if (info[y].dep < info[z].dep)
-                    std::swap(y, z);
-                mx = std::max(mx, query(1, 1, N, info[info[y].top].in, info[y].in));
-                y = info[info[y].top].par;
-            }
-            if (info[y].dep > info[z].dep)
-                std::swap(y, z);
-            mx = std::max(mx, query(1, 1, N, info[y].in, info[z].in));
-            std::cout << mx << "\n";
+        if (x == 1) {
+            query1(y, z);
+        } else {
+            query2(y, z);
         }
     }
+
 
     return 0;
 }
