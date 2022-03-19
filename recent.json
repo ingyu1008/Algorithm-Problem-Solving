@@ -1,6 +1,33 @@
 {
 	"problems": [
 		{
+			"id": 13538,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "XOR \ucffc\ub9ac",
+			"solved_count": 223,
+			"average_try": 3.6009
+		},
+		{
+			"id": 13512,
+			"level": 20,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud2b8\ub9ac\uc640 \ucffc\ub9ac 3",
+			"solved_count": 266,
+			"average_try": 2.6805
+		},
+		{
+			"id": 2927,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub0a8\uadf9 \ud0d0\ud5d8",
+			"solved_count": 243,
+			"average_try": 3.8971
+		},
+		{
 			"id": 24078,
 			"level": 1,
 			"level_locked": 0,
@@ -62,34 +89,7 @@
 			"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc54c\uace0\ub9ac\uc998\uc758 \uc218\ud589 \uc2dc\uac04 1",
 			"solved_count": 652,
 			"average_try": 1.2255
-		},
-		{
-			"id": 24680,
-			"level": 22,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Silver-16",
-			"solved_count": 20,
-			"average_try": 3.3
-		},
-		{
-			"id": 24679,
-			"level": 18,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub3cc\ubb34\ub354\uae30 \uac8c\uc784 2",
-			"solved_count": 29,
-			"average_try": 4.2069
-		},
-		{
-			"id": 24678,
-			"level": 13,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub3cc\ubb34\ub354\uae30 \uac8c\uc784 1",
-			"solved_count": 136,
-			"average_try": 2.5515
 		}
 	],
-	"last_updated": "Sat Mar 19 07:05:52 2022"
+	"last_updated": "Sat Mar 19 21:36:32 2022"
 }
