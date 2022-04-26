@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 24895,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub2e4\ud2b8",
+			"solved_count": 6,
+			"average_try": 1.8333
+		},
+		{
+			"id": 24891,
+			"level": 10,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub2e8\uc5b4 \ub9c8\ubc29\uc9c4",
+			"solved_count": 68,
+			"average_try": 2.3971
+		},
+		{
 			"id": 13538,
 			"level": 22,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\ub450 \ubc88\uc9f8\ub85c \uc791\uc740 \uc2a4\ud328\ub2dd \ud2b8\ub9ac",
 			"solved_count": 442,
 			"average_try": 7.3869
-		},
-		{
-			"id": 23238,
-			"level": 21,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Best Student",
-			"solved_count": 67,
-			"average_try": 6.4925
-		},
-		{
-			"id": 24262,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc54c\uace0\ub9ac\uc998\uc758 \uc218\ud589 \uc2dc\uac04 1",
-			"solved_count": 652,
-			"average_try": 1.2255
 		}
 	],
-	"last_updated": "Mon Apr 25 21:38:32 2022"
+	"last_updated": "Tue Apr 26 21:39:34 2022"
 }
