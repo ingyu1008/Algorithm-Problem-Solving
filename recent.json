@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 12895,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud654\ub824\ud55c \ub9c8\uc744",
+			"solved_count": 164,
+			"average_try": 3.7195
+		},
+		{
 			"id": 24895,
 			"level": 21,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Xor Maximization",
 			"solved_count": 146,
 			"average_try": 2.2877
-		},
-		{
-			"id": 1626,
-			"level": 21,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub450 \ubc88\uc9f8\ub85c \uc791\uc740 \uc2a4\ud328\ub2dd \ud2b8\ub9ac",
-			"solved_count": 442,
-			"average_try": 7.3869
 		}
 	],
-	"last_updated": "Sun May 15 21:39:21 2022"
+	"last_updated": "Mon May 16 21:39:52 2022"
 }
