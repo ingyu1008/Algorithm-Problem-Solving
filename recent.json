@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 14240,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubd80\ubd84 \uc218\uc5f4\uc758 \uc810\uc218",
+			"solved_count": 111,
+			"average_try": 3.1712
+		},
+		{
+			"id": 12795,
+			"level": 20,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubc18\ud3c9\uba74 \ub545\ub530\uba39\uae30",
+			"solved_count": 214,
+			"average_try": 3.4533
+		},
+		{
 			"id": 12895,
 			"level": 18,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\ud2b8\ub9ac\uc640 \ucffc\ub9ac 1",
 			"solved_count": 449,
 			"average_try": 5.0958
-		},
-		{
-			"id": 16904,
-			"level": 22,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc9d1\ud569\uacfc \ucffc\ub9ac",
-			"solved_count": 23,
-			"average_try": 2.087
-		},
-		{
-			"id": 11191,
-			"level": 18,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Xor Maximization",
-			"solved_count": 146,
-			"average_try": 2.2877
 		}
 	],
-	"last_updated": "Thu May 19 21:40:25 2022"
+	"last_updated": "Fri May 20 21:41:19 2022"
 }
