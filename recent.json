@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 16264,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Array Study",
+			"solved_count": 22,
+			"average_try": 4.2273
+		},
+		{
+			"id": 1150,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubc31\uc5c5",
+			"solved_count": 316,
+			"average_try": 3.8323
+		},
+		{
 			"id": 16783,
 			"level": 24,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\ud06c\ub9bc \ud30c\uc2a4\ud0c0",
 			"solved_count": 61,
 			"average_try": 1.5738
-		},
-		{
-			"id": 25212,
-			"level": 10,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc870\uac01 \ucf00\uc774\ud06c",
-			"solved_count": 65,
-			"average_try": 1.2
-		},
-		{
-			"id": 25208,
-			"level": 0,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc0c8\ubcbd\uc758 \ud0d0\uc815 \uac8c\uc784",
-			"solved_count": 22,
-			"average_try": 2.6818
 		}
 	],
-	"last_updated": "Wed May 25 21:40:16 2022"
+	"last_updated": "Thu May 26 21:40:40 2022"
 }
