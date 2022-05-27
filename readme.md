@@ -10,6 +10,7 @@ BOJ Problem Count = 77
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 24900 | [한별 찍기](https://www.acmicpc.net/problem/24900) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 16264 | [Array Study](https://www.acmicpc.net/problem/16264) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
 | 1150 | [백업](https://www.acmicpc.net/problem/1150) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 | 16783 | [Bulldozer](https://www.acmicpc.net/problem/16783) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 77
 | 13324 | [BOJ 수열 2](https://www.acmicpc.net/problem/13324) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> |  |
 | 12858 | [Range GCD](https://www.acmicpc.net/problem/12858) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
 | 25215 | [타이핑](https://www.acmicpc.net/problem/25215) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
-| 25214 | [크림 파스타](https://www.acmicpc.net/problem/25214) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 
 
 ---
 
-last updated : Thu May 26 21:41:17 2022
+last updated : Fri May 27 21:41:07 2022
 
