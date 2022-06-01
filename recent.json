@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 16780,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Selling RNA Strands",
+			"solved_count": 30,
+			"average_try": 2.1333
+		},
+		{
+			"id": 12898,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Selling RNA Strands",
+			"solved_count": 36,
+			"average_try": 2.4722
+		},
+		{
 			"id": 17973,
 			"level": 23,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "Array Study",
 			"solved_count": 22,
 			"average_try": 4.2273
-		},
-		{
-			"id": 1150,
-			"level": 22,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubc31\uc5c5",
-			"solved_count": 316,
-			"average_try": 3.8323
-		},
-		{
-			"id": 16783,
-			"level": 24,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Bulldozer",
-			"solved_count": 57,
-			"average_try": 4.4035
 		}
 	],
-	"last_updated": "Tue May 31 21:40:32 2022"
+	"last_updated": "Wed Jun  1 21:41:36 2022"
 }
