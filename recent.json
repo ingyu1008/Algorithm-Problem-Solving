@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 13866,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud300 \ub098\ub204\uae30",
+			"solved_count": 2346,
+			"average_try": 1.5951
+		},
+		{
 			"id": 16780,
 			"level": 23,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ud55c\ubcc4 \ucc0d\uae30",
 			"solved_count": 1732,
 			"average_try": 1.5416
-		},
-		{
-			"id": 16264,
-			"level": 21,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Array Study",
-			"solved_count": 22,
-			"average_try": 4.2273
 		}
 	],
-	"last_updated": "Wed Jun  1 21:41:36 2022"
+	"last_updated": "Thu Jun  2 21:37:58 2022"
 }
