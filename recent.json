@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 15726,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc774\uce59\uc5f0\uc0b0",
+			"solved_count": 2012,
+			"average_try": 3.1948
+		},
+		{
 			"id": 13866,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\u8eab\u9577 (Height)",
 			"solved_count": 1106,
 			"average_try": 1.1718
-		},
-		{
-			"id": 24900,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud55c\ubcc4 \ucc0d\uae30",
-			"solved_count": 1732,
-			"average_try": 1.5416
 		}
 	],
-	"last_updated": "Thu Jun  2 21:37:58 2022"
+	"last_updated": "Fri Jun  3 21:36:41 2022"
 }
