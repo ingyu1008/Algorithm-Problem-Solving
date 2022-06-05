@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 19028,
+			"level": 27,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Link Cut Digraph",
+			"solved_count": 31,
+			"average_try": 2.2581
+		},
+		{
 			"id": 25083,
 			"level": 1,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc720\uc131",
 			"solved_count": 273,
 			"average_try": 4.4286
-		},
-		{
-			"id": 1396,
-			"level": 20,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud06c\ub8e8\uc2a4\uce7c\uc758 \uacf5",
-			"solved_count": 391,
-			"average_try": 3.1355
 		}
 	],
-	"last_updated": "Sat Jun  4 21:37:41 2022"
+	"last_updated": "Sun Jun  5 21:37:09 2022"
 }
