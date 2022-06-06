@@ -1,6 +1,33 @@
 {
 	"problems": [
 		{
+			"id": 25238,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uac00\ud76c\uc640 \ubc29\uc5b4\uc728 \ubb34\uc2dc",
+			"solved_count": 331,
+			"average_try": 1.6224
+		},
+		{
+			"id": 20297,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Confuzzle",
+			"solved_count": 86,
+			"average_try": 2.6744
+		},
+		{
+			"id": 18440,
+			"level": 26,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "LCS 7",
+			"solved_count": 51,
+			"average_try": 2.8235
+		},
+		{
 			"id": 19028,
 			"level": 27,
 			"level_locked": 0,
@@ -62,34 +89,7 @@
 			"title": "Quadrilaterals",
 			"solved_count": 36,
 			"average_try": 2.6944
-		},
-		{
-			"id": 16977,
-			"level": 23,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud788\uc2a4\ud1a0\uadf8\ub7a8\uc5d0\uc11c \uac00\uc7a5 \ud070 \uc9c1\uc0ac\uac01\ud615\uacfc \ucffc\ub9ac",
-			"solved_count": 112,
-			"average_try": 2.3214
-		},
-		{
-			"id": 24568,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Cupcake Party",
-			"solved_count": 834,
-			"average_try": 1.4688
-		},
-		{
-			"id": 8217,
-			"level": 22,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc720\uc131",
-			"solved_count": 273,
-			"average_try": 4.4286
 		}
 	],
-	"last_updated": "Sun Jun  5 21:37:09 2022"
+	"last_updated": "Mon Jun  6 21:37:42 2022"
 }
