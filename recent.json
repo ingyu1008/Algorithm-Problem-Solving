@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 10050,
+			"level": 25,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ube14\ub85d",
+			"solved_count": 89,
+			"average_try": 2.7191
+		},
+		{
 			"id": 18517,
 			"level": 27,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "LCS 7",
 			"solved_count": 51,
 			"average_try": 2.8235
-		},
-		{
-			"id": 19028,
-			"level": 27,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Link Cut Digraph",
-			"solved_count": 31,
-			"average_try": 2.2581
 		}
 	],
-	"last_updated": "Sat Jun 11 21:36:53 2022"
+	"last_updated": "Sun Jun 12 21:37:01 2022"
 }
