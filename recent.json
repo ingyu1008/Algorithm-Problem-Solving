@@ -1,6 +1,33 @@
 {
 	"problems": [
 		{
+			"id": 14435,
+			"level": 24,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub180\uc774\uae30\uad6c2",
+			"solved_count": 38,
+			"average_try": 3.8158
+		},
+		{
+			"id": 2744,
+			"level": 1,
+			"level_locked": 1,
+			"solvable": 1,
+			"title": "\ub300\uc18c\ubb38\uc790 \ubc14\uafb8\uae30",
+			"solved_count": 5627,
+			"average_try": 1.262
+		},
+		{
+			"id": 1868,
+			"level": 26,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubcf4\ubb3c\ucc3e\uae30",
+			"solved_count": 70,
+			"average_try": 3.5286
+		},
+		{
 			"id": 2025,
 			"level": 28,
 			"level_locked": 0,
@@ -62,34 +89,7 @@
 			"title": "\uad6d\uc81c \uba54\uc2dc \uae30\uad6c",
 			"solved_count": 186,
 			"average_try": 4.7473
-		},
-		{
-			"id": 4101,
-			"level": 1,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "\ud06c\ub0d0?",
-			"solved_count": 7244,
-			"average_try": 1.8494
-		},
-		{
-			"id": 25238,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uac00\ud76c\uc640 \ubc29\uc5b4\uc728 \ubb34\uc2dc",
-			"solved_count": 331,
-			"average_try": 1.6224
-		},
-		{
-			"id": 20297,
-			"level": 21,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Confuzzle",
-			"solved_count": 86,
-			"average_try": 2.6744
 		}
 	],
-	"last_updated": "Tue Jun 14 21:37:03 2022"
+	"last_updated": "Wed Jun 15 21:38:06 2022"
 }
