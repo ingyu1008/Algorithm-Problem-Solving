@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 17477,
+			"level": 27,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 29",
+			"solved_count": 15,
+			"average_try": 26.4
+		},
+		{
+			"id": 13539,
+			"level": 25,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud2b8\ub9ac\uc640 \ucffc\ub9ac 11",
+			"solved_count": 67,
+			"average_try": 1.8209
+		},
+		{
 			"id": 10807,
 			"level": 1,
 			"level_locked": 1,
@@ -71,25 +89,7 @@
 			"title": "Pick Your Own Nim",
 			"solved_count": 17,
 			"average_try": 3.7647
-		},
-		{
-			"id": 5597,
-			"level": 1,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "\uacfc\uc81c \uc548 \ub0b4\uc2e0 \ubd84..?",
-			"solved_count": 6526,
-			"average_try": 1.507
-		},
-		{
-			"id": 23037,
-			"level": 1,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "5\uc758 \uc218\ub09c",
-			"solved_count": 1114,
-			"average_try": 1.1679
 		}
 	],
-	"last_updated": "Fri Jun 17 21:38:02 2022"
+	"last_updated": "Sat Jun 18 21:37:30 2022"
 }
