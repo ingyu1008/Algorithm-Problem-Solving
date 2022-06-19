@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 4999,
+			"level": 1,
+			"level_locked": 1,
+			"solvable": 1,
+			"title": "\uc544!",
+			"solved_count": 4705,
+			"average_try": 1.5598
+		},
+		{
 			"id": 17477,
 			"level": 27,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ube14\ub85d",
 			"solved_count": 89,
 			"average_try": 2.7191
-		},
-		{
-			"id": 18517,
-			"level": 27,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Pick Your Own Nim",
-			"solved_count": 17,
-			"average_try": 3.7647
 		}
 	],
-	"last_updated": "Sat Jun 18 21:37:30 2022"
+	"last_updated": "Sun Jun 19 21:37:54 2022"
 }
