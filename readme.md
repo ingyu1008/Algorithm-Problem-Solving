@@ -10,6 +10,7 @@ BOJ Problem Count = 77
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 4999 | [아!](https://www.acmicpc.net/problem/4999) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 17477 | [수열과 쿼리 29](https://www.acmicpc.net/problem/17477) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/27.svg"/> |  |
 | 13539 | [트리와 쿼리 11](https://www.acmicpc.net/problem/13539) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> |  |
 | 10807 | [개수 세기](https://www.acmicpc.net/problem/10807) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 77
 | 1868 | [보물찾기](https://www.acmicpc.net/problem/1868) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/26.svg"/> |  |
 | 2025 | [나이트투어](https://www.acmicpc.net/problem/2025) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/28.svg"/> |  |
 | 10050 | [블록](https://www.acmicpc.net/problem/10050) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> |  |
-| 18517 | [Pick Your Own Nim](https://www.acmicpc.net/problem/18517) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/27.svg"/> |  |
 
 
 ---
 
-last updated : Sat Jun 18 21:38:02 2022
+last updated : Sun Jun 19 21:38:38 2022
 
