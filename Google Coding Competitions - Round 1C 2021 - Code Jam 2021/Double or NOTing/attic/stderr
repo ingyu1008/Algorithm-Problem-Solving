@@ -1,0 +1,7 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Google Coding Competitions - Round 1C 2021 - Code Jam 2021\Double or NOTing\solution.cpp:[m[K In function '[01m[Kint solve(std::bitset<111>&, std::bitset<111>&)[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Google Coding Competitions - Round 1C 2021 - Code Jam 2021\Double or NOTing\solution.cpp:16:21:[m[K [01;31m[Kerror: [m[Kinvalid operands of types '[01m[K<unresolved overloaded function type>[m[K' and '[01m[K<unresolved overloaded function type>[m[K' to binary '[01m[Koperator==[m[K'
+   16 |     if ([32m[KS.to_string[m[K [01;31m[K==[m[K [34m[KE.to_string[m[K)
+      |         [32m[K~~~~~~~~~~~[m[K [01;31m[K^~[m[K [34m[K~~~~~~~~~~~[m[K
+      |           [32m[K|[m[K              [34m[K|[m[K
+      |           [32m[K|[m[K              [34m[K<unresolved overloaded function type>[m[K
+      |           [32m[K<unresolved overloaded function type>[m[K

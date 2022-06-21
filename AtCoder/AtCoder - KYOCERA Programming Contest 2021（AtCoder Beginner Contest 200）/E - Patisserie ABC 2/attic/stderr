@@ -1,0 +1,7 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\AtCoder - KYOCERA Programming Contest 2021��AtCoder Beginner Contest 200��\E - Patisserie ABC 2\solution.cpp:[m[K In function '[01m[Kint main()[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\AtCoder - KYOCERA Programming Contest 2021��AtCoder Beginner Contest 200��\E - Patisserie ABC 2\solution.cpp:72:8:[m[K [01;31m[Kerror: [m[Kredeclaration of '[01m[Kll sum[m[K'
+   72 |     ll [01;31m[Ksum[m[K = 0;
+      |        [01;31m[K^~~[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\AtCoder - KYOCERA Programming Contest 2021��AtCoder Beginner Contest 200��\E - Patisserie ABC 2\solution.cpp:63:8:[m[K [01;36m[Knote: [m[K'[01m[Kll sum[m[K' previously declared here
+   63 |     ll [01;36m[Ksum[m[K = 0;
+      |        [01;36m[K^~~[m[K

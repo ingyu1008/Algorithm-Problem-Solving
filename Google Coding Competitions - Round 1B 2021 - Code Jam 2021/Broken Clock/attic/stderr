@@ -1,0 +1,19 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Google Coding Competitions - Round 1B 2021 - Code Jam 2021\Broken Clock\solution.cpp:[m[K In function '[01m[Kint main()[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Google Coding Competitions - Round 1B 2021 - Code Jam 2021\Broken Clock\solution.cpp:88:87:[m[K [01;31m[Kerror: [m[K'[01m[Knano[m[K' was not declared in this scope
+   88 |                 out((A / rev/12) % 12, (B / rev/720) % 60, (C / rev/720/6) % 60, (A / [01;31m[Knano[m[K) % (goo));
+      |                                                                                       [01;31m[K^~~~[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Google Coding Competitions - Round 1B 2021 - Code Jam 2021\Broken Clock\solution.cpp:93:87:[m[K [01;31m[Kerror: [m[K'[01m[Knano[m[K' was not declared in this scope
+   93 |                 out((A / rev/12) % 12, (C / rev/720) % 60, (B / rev/720/6) % 60, (A / [01;31m[Knano[m[K) % (goo));
+      |                                                                                       [01;31m[K^~~~[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Google Coding Competitions - Round 1B 2021 - Code Jam 2021\Broken Clock\solution.cpp:105:87:[m[K [01;31m[Kerror: [m[K'[01m[Knano[m[K' was not declared in this scope
+  105 |                 out((B / rev/12) % 12, (A / rev/720) % 60, (C / rev/720/6) % 60, (A / [01;31m[Knano[m[K) % (goo));
+      |                                                                                       [01;31m[K^~~~[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Google Coding Competitions - Round 1B 2021 - Code Jam 2021\Broken Clock\solution.cpp:110:87:[m[K [01;31m[Kerror: [m[K'[01m[Knano[m[K' was not declared in this scope
+  110 |                 out((B / rev/12) % 12, (C / rev/720) % 60, (A / rev/720/6) % 60, (A / [01;31m[Knano[m[K) % (goo));
+      |                                                                                       [01;31m[K^~~~[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Google Coding Competitions - Round 1B 2021 - Code Jam 2021\Broken Clock\solution.cpp:122:88:[m[K [01;31m[Kerror: [m[K'[01m[Knano[m[K' was not declared in this scope
+  122 |                 out((C / rev/12) % 12, (A / rev/720) % 60, (B / rev/720/60) % 60, (A / [01;31m[Knano[m[K) % (goo));
+      |                                                                                        [01;31m[K^~~~[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Google Coding Competitions - Round 1B 2021 - Code Jam 2021\Broken Clock\solution.cpp:127:88:[m[K [01;31m[Kerror: [m[K'[01m[Knano[m[K' was not declared in this scope
+  127 |                 out((C / rev/12) % 12, (B / rev/720) % 60, (A / rev/720/60) % 60, (A / [01;31m[Knano[m[K) % (goo));
+      |                                                                                        [01;31m[K^~~~[m[K

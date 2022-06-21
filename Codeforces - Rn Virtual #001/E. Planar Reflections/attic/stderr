@@ -1,0 +1,25 @@
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Rn Virtual #001\E. Planar Reflections\solution.cpp:6:28:[m[K [01;31m[Kerror: [m[Kwrong number of template arguments (1, should be at least 2)
+    6 | std::map<std::pair<int, int[01;31m[K>>[m[K mp;
+      |                            [01;31m[K^~[m[K
+In file included from [01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\map:61[m[K,
+                 from [01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Rn Virtual #001\E. Planar Reflections\solution.cpp:4[m[K:
+[01m[Kc:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_map.h:100:11:[m[K [01;36m[Knote: [m[Kprovided for '[01m[Ktemplate<class _Key, class _Tp, class _Compare, class _Alloc> class std::map[m[K'
+  100 |     class [01;36m[Kmap[m[K
+      |           [01;36m[K^~~[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Rn Virtual #001\E. Planar Reflections\solution.cpp:[m[K In function '[01m[Kint get(int, int, int)[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Rn Virtual #001\E. Planar Reflections\solution.cpp:12:12:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[Kfind[m[K' in '[01m[Kmp[m[K', which is of non-class type '[01m[Kint[m[K'
+   12 |     if (mp.[01;31m[Kfind[m[K({k, n}) != mp.end())
+      |            [01;31m[K^~~~[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Rn Virtual #001\E. Planar Reflections\solution.cpp:12:31:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[Kend[m[K' in '[01m[Kmp[m[K', which is of non-class type '[01m[Kint[m[K'
+   12 |     if (mp.find({k, n}) != mp.[01;31m[Kend[m[K())
+      |                               [01;31m[K^~~[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Rn Virtual #001\E. Planar Reflections\solution.cpp:13:25:[m[K [01;31m[Kerror: [m[Kinvalid types '[01m[Kint[<brace-enclosed initializer list>][m[K' for array subscript
+   13 |         return mp[{k, n}[01;31m[K][m[K;
+      |                         [01;31m[K^[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Rn Virtual #001\E. Planar Reflections\solution.cpp:17:25:[m[K [01;31m[Kerror: [m[Kinvalid types '[01m[Kint[<brace-enclosed initializer list>][m[K' for array subscript
+   17 |         return mp[{k, n}[01;31m[K][m[K = (get(k, n - 1, tot) + get(k - 1, tot - n, tot)) % 1000000007;
+      |                         [01;31m[K^[m[K
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Rn Virtual #001\E. Planar Reflections\solution.cpp:[m[K In function '[01m[Kint main()[m[K':
+[01m[KC:\Users\ingyu\Documents\GitHub\Algorithm-Problem-Solving\Codeforces - Rn Virtual #001\E. Planar Reflections\solution.cpp:29:12:[m[K [01;31m[Kerror: [m[Krequest for member '[01m[Kclear[m[K' in '[01m[Kmp[m[K', which is of non-class type '[01m[Kint[m[K'
+   29 |         mp.[01;31m[Kclear[m[K();
+      |            [01;31m[K^~~~~[m[K
