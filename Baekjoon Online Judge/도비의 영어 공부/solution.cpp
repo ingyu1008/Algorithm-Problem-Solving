@@ -51,5 +51,18 @@ int main(void)
     std::cin.tie(0);
     std::ios_base::sync_with_stdio(false);
 
+    char c;
+    std::string s;
+    std::cin >> c;
+
+    while(c != '#'){
+        std::getline(std::cin, s);
+        int cnt = 0;
+        for(auto x : s) cnt += ((x|32) == c);
+
+        std::cout << c << " " << cnt << "\n";
+        std::cin >> c;
+    }
+
     return 0;
 }
