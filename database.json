@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 925,
+		"total_problems": 926,
 		"total_page": 1,
 		"problems": [
 			{
@@ -7844,6 +7844,15 @@
 				"average_try": 1.6056
 			},
 			{
+				"id": 21973,
+				"level": 25,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ub0a8\uadf9 \ud0d0\ud5d8",
+				"solved_count": 19,
+				"average_try": 5.7368
+			},
+			{
 				"id": 22193,
 				"level": 1,
 				"level_locked": 0,
@@ -8272,8 +8281,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uacbd\ub85c\ub2f9\ud391\ud06c 2077",
-				"solved_count": 422,
-				"average_try": 1.4573
+				"solved_count": 423,
+				"average_try": 1.4563
 			},
 			{
 				"id": 25206,
@@ -8281,8 +8290,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub108\uc758 \ud3c9\uc810\uc740",
-				"solved_count": 291,
-				"average_try": 1.4124
+				"solved_count": 292,
+				"average_try": 1.411
 			},
 			{
 				"id": 25208,
@@ -8317,8 +8326,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud0c0\uc774\ud551",
-				"solved_count": 104,
-				"average_try": 1.8365
+				"solved_count": 105,
+				"average_try": 1.8286
 			},
 			{
 				"id": 25238,
@@ -8331,5 +8340,5 @@
 			}
 		]
 	},
-	"last_updated": "Wed Jun 22 21:39:06 2022"
+	"last_updated": "Thu Jun 23 01:20:03 2022"
 }
