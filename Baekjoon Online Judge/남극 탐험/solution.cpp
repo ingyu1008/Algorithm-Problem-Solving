@@ -7,15 +7,11 @@ Code by MatWhyTle(ingyu1008)
 //#pragma GCC optimize("O3")
 //#pragma GCC target("avx2")
 //#pragma GCC optimize("unroll-loops")
-#include <iostream>
-#include <vector>
-#include <algorithm>
-#include <map>
-#include <set>
+#include <bits/stdc++.h>
 
 typedef long long ll;
-typedef std::pair<int, int> pii;
-typedef std::pair<ll, ll> pll;
+typedef std::pair<int,int> pii;
+typedef std::pair<ll,ll> pll;
 typedef std::vector<pii> vpii;
 
 ll mod = 1e9 + 7;
@@ -47,224 +43,249 @@ ll gcd(ll a, ll b)
 }
 
 /********************************************************************
-                        End Of Template
+						End Of Template
 ********************************************************************/
 
-enum OP {
-    BRIDGE = 0,
-    PENGUINS = 1,
-    EXCURSION = 2,
-};
-
-struct Query {
-    int op, s, e;
-};
-
-int par[30303];
-ll pen[30303];
-
-int hldroot[30303], inv[30303], chainDepth[30303];
-
-int sz[30303];
-
-std::vector<int> v[30303];
-
-void dfs(int node, int parent) {
-    sz[node] = 1;
-
-    for (int& next : v[node]) {
-        if (next == parent) continue;
-        par[next] = node;
-        dfs(next, node);
-        int tmp = sz[next];
-        sz[node] += sz[next];
-
-        if (v[node][0] == parent || sz[v[node][0]] < tmp) {
-            std::swap(v[node][0], next);
-        }
-    }
-}
-
 struct Node {
-    ll sum;
+    int l, r, p;
+    int cnt, sum, val, flip;
+    Node(): l(0), r(0), p(0), cnt(1), sum(0), flip(0) {}
 };
 
-std::vector<Node> et;
+struct LCT {
+    std::vector<Node> tree;
 
-void hld(int node, int parent) {
-    inv[node] = et.size();
-    et.push_back({ pen[node] });
+    void init(int n, std::vector<int> &v){
+        tree.resize(n+1);
+        for(int i = 1; i <= n; i++) tree[i].val = v[i], tree[i].sum = v[i];
+    }
 
-    for (int& next : v[node]) {
-        if (next == parent) continue;
-        if (next == v[node][0]) {
-            hldroot[next] = hldroot[node];
-            chainDepth[next] = chainDepth[node];
-        } else {
-            hldroot[next] = next;
-            chainDepth[next] = chainDepth[node] + 1;
+    bool exists(int x){
+        return x > 0;
+    }
+
+    bool isRoot(int x){
+        return (!exists(tree[x].p) || (tree[tree[x].p].l != x && tree[tree[x].p].r != x));
+    }
+    
+    int newNode(){
+        tree.push_back(Node());
+        return tree.size() - 1;
+    }
+
+    void lazy(int x){
+        if(tree[x].flip == 0) return;
+        else {
+            tree[x].flip = 0;
+            int l = tree[x].l;
+            int r = tree[x].r;
+            std::swap(tree[x].l, tree[x].r);
+
+            if(exists(l)) tree[l].flip ^= 1;
+            if(exists(r)) tree[r].flip ^= 1;
         }
-        hld(next, node);
     }
-}
 
-std::vector<Node> tree(123123);
-
-void init(int node, int l, int r) {
-    if (l == r) {
-        tree[node].sum = et[l].sum;
-        return;
+    void update(int x){
+        tree[x].cnt = 1;
+        tree[x].sum = tree[x].val;
+        if(exists(tree[x].l)){
+            tree[x].cnt += tree[tree[x].l].cnt;
+            tree[x].sum += tree[tree[x].l].sum;
+        }
+        if(exists(tree[x].r)){
+            tree[x].cnt += tree[tree[x].r].cnt;
+            tree[x].sum += tree[tree[x].r].sum;
+        }
     }
-    int mid = (l + r) / 2;
-    init(node * 2, l, mid);
-    init(node * 2 + 1, mid + 1, r);
 
-    tree[node].sum = tree[node * 2].sum + tree[node * 2 + 1].sum;
-}
+    void rotate(int x){
+        int p = tree[x].p;
+        if(x == tree[p].l){
+            tree[p].l = tree[x].r;
+            tree[x].r = p;
+            if(exists(tree[p].l)) tree[tree[p].l].p = p;
+        } else {
+            tree[p].r = tree[x].l;
+            tree[x].l = p;
+            if(exists(tree[p].r)) tree[tree[p].r].p = p;
+        }
 
-void update(int node, int l, int r, int idx, ll val) {
-    if (l > idx || r < idx) return;
-    if (l == r) {
-        tree[node].sum = val;
-        return;
+        tree[x].p = tree[p].p;
+        tree[p].p = x;
+
+        if(exists(tree[x].p)){
+            if(p == tree[tree[x].p].l) tree[tree[x].p].l = x;
+            else if(p == tree[tree[x].p].r) tree[tree[x].p].r = x;
+        }
+
+        update(p);
+        update(x);
     }
-    int mid = (l + r) / 2;
-    update(node * 2, l, mid, idx, val);
-    update(node * 2 + 1, mid + 1, r, idx, val);
 
-    tree[node].sum = tree[node * 2].sum + tree[node * 2 + 1].sum;
-}
+    void splay(int x){
+        while(!isRoot(x)){
+            int p = tree[x].p;
+            if(!isRoot(p)) lazy(tree[p].p);
+            lazy(p);
+            lazy(x);
+            if(!isRoot(p)){
+                if((x == tree[p].l) == (p == tree[tree[p].p].l)) rotate(p);
+                else rotate(x);
+            }
+            rotate(x);
+        }
+        lazy(x);
+    }
+    
+    int access(int x){
+        splay(x);
+        tree[x].r = 0;
+        update(x);
 
-ll query(int node, int l, int r, int s, int e) {
-    if (l > e || r < s)
+        int ret = x;
+        while(exists(tree[x].p)){
+            int p = tree[x].p;
+            ret = p;
+            splay(p);
+            tree[p].r = x;
+            update(p);
+            splay(x);
+        }
+
+        return ret;
+    }
+
+    void link(int x, int y){
+        access(x);
+        access(y);
+
+        tree[x].l = y;
+        tree[y].p = x;
+        update(x);
+    }
+
+    void cut(int x){
+        access(x);
+        tree[tree[x].l].p = 0;
+        tree[x].l = 0;
+        update(x);
+    }
+
+    int lca(int x, int y){
+        access(x);
+        return access(y);
+    }
+
+    int findRoot(int x){
+        access(x);
+        while(exists(tree[x].l)) x = tree[x].l;
+        splay(x);
+        return x;
+    }
+
+    int parent(int x){
+        access(x);
+        x = tree[x].l;
+        if(!exists(x)) return 0;
+        
+        while(tree[x].r) x = tree[x].r;
+        splay(x);
+        return x;
+    }
+
+    int depth(int x){
+        access(x);
+        if(exists(tree[x].l)) return tree[tree[x].l].cnt;
         return 0;
-    if (l >= s && r <= e)
-        return tree[node].sum;
-    int mid = (l + r) / 2;
-    return query(node * 2, l, mid, s, e) + query(node * 2 + 1, mid + 1, r, s, e);
-}
+    }
 
-int uf[30303];
+    int sumPath(int x, int y){
+        int p = lca(x, y);
+        int sum = tree[p].val;
 
-int find(int x) {
-    if (uf[x] == x) return x;
-    return uf[x] = find(uf[x]);
-}
+        access(x);
+        splay(p);
+        if(exists(tree[p].r)) sum += tree[tree[p].r].sum;
 
-void uni(int x, int y) {
-    x = find(x);
-    y = find(y);
-    if (x == y) return;
-    uf[x] = y;
-}
+        access(y);
+        splay(p);
+        if(exists(tree[p].r)) sum += tree[tree[p].r].sum;
+
+        return sum;
+    }
+
+    void update(int x, int y){
+        access(x);
+        tree[x].val = y;
+        update(x);
+    }
+
+    bool connected(int x, int y){
+        return findRoot(x) == findRoot(y);
+    }
+
+    void makeRoot(int x){
+        access(x);
+        splay(x);
+        tree[x].flip ^= 1;
+    }
+};
+
+struct Solver{
+    LCT *lct;
+
+    int N, Q;
+    std::vector<int> v;
+
+    void init(){
+        std::cin >> N;
+
+        v.resize(N+1);
+        for(int i = 1; i <= N; i++) std::cin >> v[i];
+
+        lct = new LCT();
+        lct->init(N, v);
+
+        std::cin >> Q;
+    }
+
+    void solve(){
+        std::string op;
+        int A, B;
+        for(int i = 0; i < Q; i++){
+            std::cin >> op >> A >> B;
+            if(op == "bridge"){
+                if(lct->connected(A, B)){
+                    std::cout << "no" << std::endl;
+                    continue;
+                } else {
+                    std::cout << "yes" << std::endl;
+                    lct->makeRoot(A); lct->makeRoot(B);
+                    lct->link(A, B);
+                }
+            } else if(op == "penguins"){
+                lct->update(A, B);
+            } else if(op == "excursion"){
+                if(lct->connected(A, B)){
+                    std::cout << lct->sumPath(A, B) << std::endl;
+                } else {
+                    std::cout << "impossible" << std::endl;
+                }
+            }
+        }
+    }
+};
 
 int main(void)
 {
     std::cin.tie(0);
     std::ios_base::sync_with_stdio(false);
 
-    int N;
-    std::cin >> N;
+    Solver solver;
+    solver.init();
 
-    for (int i = 1; i <= N; i++) {
-        uf[i] = i;
-        std::cin >> pen[i];
-    }
-
-    int Q;
-    std::cin >> Q;
-
-    std::string op;
-    int x, y;
-    std::vector<Query> queries;
-
-    for (int i = 0; i < Q; i++) {
-        std::cin >> op >> x >> y;
-        Query q;
-        q.op = op[0] == 'b' ? BRIDGE : (op[0] == 'p' ? PENGUINS : EXCURSION);
-        q.s = x;
-        q.e = y;
-        queries.push_back(q);
-
-        if (q.op == BRIDGE) {
-            if (find(x) == find(y)) continue;
-            uni(x, y);
-            v[x].push_back(y);
-            v[y].push_back(x);
-        }
-    }
-
-    for (int i = 1; i <= N; i++) {
-        uf[i] = i;
-    }
-
-    par[1] = 1;
-    dfs(1, 0);
-
-    for (int i = 1; i <= N; i++) {
-        if (par[i] == 0) {
-            par[i] = i;
-            dfs(i, 0);
-        }
-    }
-
-    hldroot[1] = 1;
-    chainDepth[1] = 0;
-    hld(1, 0);
-
-    for (int i = 1; i <= N; i++) {
-        if (hldroot[i] == 0) {
-            hldroot[i] = i;
-            hld(i, 0);
-        }
-    }
-
-    init(1, 0, et.size() - 1);
-
-    for (Query q : queries) {
-        if (q.op == BRIDGE) {
-            if (find(q.s) == find(q.e)) {
-                std::cout << "no\n";
-            } else {
-                uni(q.s, q.e);
-                std::cout << "yes\n";
-            }
-        } else if (q.op == PENGUINS) {
-            update(1, 0, et.size() - 1, inv[q.s], q.e);
-        } else {
-            ll ans = 0;
-            int x = q.s;
-            int y = q.e;
-
-            if (find(x) != find(y)) {
-                std::cout << "impossible\n";
-                continue;
-            }
-
-            if (chainDepth[x] < chainDepth[y]) std::swap(x, y);
-            while (chainDepth[x] != chainDepth[y]) {
-                ans += query(1, 0, et.size() - 1, inv[hldroot[x]], inv[x]);
-                x = par[hldroot[x]];
-            }
-
-            while (hldroot[x] != hldroot[y]) {
-                ans += query(1, 0, et.size() - 1, inv[hldroot[x]], inv[x]);
-                x = par[hldroot[x]];
-                ans += query(1, 0, et.size() - 1, inv[hldroot[y]], inv[y]);
-                y = par[hldroot[y]];
-            }
-
-            if (inv[x] > inv[y]) std::swap(x, y);
-
-            ans += query(1, 0, et.size() - 1, inv[x], inv[y]);
-
-            std::cout << ans << "\n";
-        }
-    }
-
-
-
-
+    solver.solve();    
 
     return 0;
 }
