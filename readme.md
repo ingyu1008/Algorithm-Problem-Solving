@@ -10,6 +10,8 @@ BOJ Problem Count = 136
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
+| 8871 | [Zadanie próbne 2](https://www.acmicpc.net/problem/8871) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 9086 | [문자열](https://www.acmicpc.net/problem/9086) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 21973 | [남극 탐험](https://www.acmicpc.net/problem/21973) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/남극 탐험/solution.cpp>) |
 | 24309 | [РАВЕНСТВО](https://www.acmicpc.net/problem/24309) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
@@ -18,11 +20,9 @@ BOJ Problem Count = 136
 | 4256 | [트리](https://www.acmicpc.net/problem/4256) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/트리/solution.cpp>) |
 | 2386 | [도비의 영어 공부](https://www.acmicpc.net/problem/2386) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/도비의 영어 공부/solution.cpp>) |
 | 13514 | [트리와 쿼리 5](https://www.acmicpc.net/problem/13514) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/트리와 쿼리 5/solution.cpp>) |
-| 13257 | [생태학](https://www.acmicpc.net/problem/13257) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/생태학/solution.cpp>) |
-| 8895 | [막대 배치](https://www.acmicpc.net/problem/8895) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/막대 배치/solution.cpp>) |
 
 
 ---
 
-last updated : Fri Jun 24 21:39:25 2022
+last updated : Sat Jun 25 21:38:03 2022
 
