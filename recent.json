@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 24736,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Football Scoring",
+			"solved_count": 797,
+			"average_try": 1.197
+		},
+		{
 			"id": 8545,
 			"level": 1,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "LCA\uc640 \ucffc\ub9ac",
 			"solved_count": 544,
 			"average_try": 2.2647
-		},
-		{
-			"id": 4256,
-			"level": 14,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud2b8\ub9ac",
-			"solved_count": 1670,
-			"average_try": 1.8341
 		}
 	],
-	"last_updated": "Mon Jun 27 21:39:16 2022"
+	"last_updated": "Tue Jun 28 21:38:24 2022"
 }
