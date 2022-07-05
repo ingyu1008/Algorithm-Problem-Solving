@@ -10,6 +10,7 @@ BOJ Problem Count = 136
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 2161 | [카드1](https://www.acmicpc.net/problem/2161) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 2693 | [N번째 큰 수](https://www.acmicpc.net/problem/2693) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 25314 | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 25311 | [UCPC에서 가장 쉬운 문제 번호는?](https://www.acmicpc.net/problem/25311) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 136
 | 24860 | [Counting Antibodies](https://www.acmicpc.net/problem/24860) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 15890 | [전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018](https://www.acmicpc.net/problem/15890) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
 | 11365 | [!밀비 급일](https://www.acmicpc.net/problem/11365) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 10930 | [SHA-256](https://www.acmicpc.net/problem/10930) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/0.svg"/> |  |
 
 
 ---
 
-last updated : Mon Jul  4 21:39:05 2022
+last updated : Tue Jul  5 21:39:29 2022
 
