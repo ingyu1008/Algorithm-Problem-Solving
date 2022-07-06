@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 1439,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub4a4\uc9d1\uae30",
+			"solved_count": 7521,
+			"average_try": 1.8564
+		},
+		{
 			"id": 2161,
 			"level": 6,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc804\uad6d \ub300\ud559\uc0dd \ud504\ub85c\uadf8\ub798\ubc0d \ub300\ud68c \ub3d9\uc544\ub9ac \uc5f0\ud569 \uc5ec\ub984 \ub300\ud68c 2018",
 			"solved_count": 1984,
 			"average_try": 1.3856
-		},
-		{
-			"id": 11365,
-			"level": 2,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "!\ubc00\ube44 \uae09\uc77c",
-			"solved_count": 5408,
-			"average_try": 1.5656
 		}
 	],
-	"last_updated": "Tue Jul  5 21:38:47 2022"
+	"last_updated": "Wed Jul  6 21:38:49 2022"
 }
