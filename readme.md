@@ -10,6 +10,7 @@ BOJ Problem Count = 136
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 9613 | [GCD 합](https://www.acmicpc.net/problem/9613) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 25345 | [루나의 게임 세팅](https://www.acmicpc.net/problem/25345) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
 | 13241 | [최소공배수](https://www.acmicpc.net/problem/13241) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 136
 | 2161 | [카드1](https://www.acmicpc.net/problem/2161) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 2693 | [N번째 큰 수](https://www.acmicpc.net/problem/2693) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 25314 | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
-| 25311 | [UCPC에서 가장 쉬운 문제 번호는?](https://www.acmicpc.net/problem/25311) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 
 
 ---
 
-last updated : Sun Jul 10 21:40:21 2022
+last updated : Mon Jul 11 21:39:38 2022
 
