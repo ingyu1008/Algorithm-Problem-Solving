@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 1969,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "DNA",
+			"solved_count": 2983,
+			"average_try": 1.758
+		},
+		{
 			"id": 11656,
 			"level": 7,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ud68c\uc0ac\uc5d0 \uc788\ub294 \uc0ac\ub78c",
 			"solved_count": 5217,
 			"average_try": 2.5172
-		},
-		{
-			"id": 2822,
-			"level": 6,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc810\uc218 \uacc4\uc0b0",
-			"solved_count": 5646,
-			"average_try": 1.325
 		}
 	],
-	"last_updated": "Fri Jul 15 21:38:58 2022"
+	"last_updated": "Sat Jul 16 21:37:55 2022"
 }
