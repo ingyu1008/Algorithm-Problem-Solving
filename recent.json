@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 21042,
+			"level": 8,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Triangle of Safety",
+			"solved_count": 7,
+			"average_try": 2
+		},
+		{
+			"id": 5635,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc0dd\uc77c",
+			"solved_count": 3522,
+			"average_try": 1.4179
+		},
+		{
 			"id": 1969,
 			"level": 6,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\ub8e8\ub098\uc758 \uac8c\uc784 \uc138\ud305",
 			"solved_count": 164,
 			"average_try": 2.4146
-		},
-		{
-			"id": 13241,
-			"level": 6,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ucd5c\uc18c\uacf5\ubc30\uc218",
-			"solved_count": 3347,
-			"average_try": 1.5713
-		},
-		{
-			"id": 7785,
-			"level": 6,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud68c\uc0ac\uc5d0 \uc788\ub294 \uc0ac\ub78c",
-			"solved_count": 5217,
-			"average_try": 2.5172
 		}
 	],
-	"last_updated": "Sat Jul 16 21:37:55 2022"
+	"last_updated": "Sun Jul 17 21:38:21 2022"
 }
