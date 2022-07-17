@@ -10,6 +10,8 @@ BOJ Problem Count = 136
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 21042 | [Triangle of Safety](https://www.acmicpc.net/problem/21042) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
+| 5635 | [생일](https://www.acmicpc.net/problem/5635) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 1969 | [DNA](https://www.acmicpc.net/problem/1969) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 1769 | [3의 배수](https://www.acmicpc.net/problem/1769) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
@@ -18,11 +20,9 @@ BOJ Problem Count = 136
 | 9613 | [GCD 합](https://www.acmicpc.net/problem/9613) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 25345 | [루나의 게임 세팅](https://www.acmicpc.net/problem/25345) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
-| 13241 | [최소공배수](https://www.acmicpc.net/problem/13241) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 
 
 ---
 
-last updated : Sat Jul 16 21:38:39 2022
+last updated : Sun Jul 17 21:39:03 2022
 
