@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 25372,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc131\ud0dd\uc774\uc758 \uc740\ubc00\ud55c \ube44\ubc00\ubc88\ud638",
+			"solved_count": 240,
+			"average_try": 1.2
+		},
+		{
+			"id": 8979,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc62c\ub9bc\ud53d",
+			"solved_count": 4594,
+			"average_try": 2.6646
+		},
+		{
 			"id": 21042,
 			"level": 8,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "GCD \ud569",
 			"solved_count": 8656,
 			"average_try": 2.5103
-		},
-		{
-			"id": 2003,
-			"level": 7,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc218\ub4e4\uc758 \ud569 2",
-			"solved_count": 11170,
-			"average_try": 2.059
-		},
-		{
-			"id": 25345,
-			"level": 10,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub8e8\ub098\uc758 \uac8c\uc784 \uc138\ud305",
-			"solved_count": 164,
-			"average_try": 2.4146
 		}
 	],
-	"last_updated": "Sun Jul 17 21:38:21 2022"
+	"last_updated": "Mon Jul 18 21:39:13 2022"
 }
