@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 13015,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubcc4 \ucc0d\uae30 - 23",
+			"solved_count": 1574,
+			"average_try": 1.5184
+		},
+		{
 			"id": 1312,
 			"level": 6,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc62c\ub9bc\ud53d",
 			"solved_count": 4594,
 			"average_try": 2.6646
-		},
-		{
-			"id": 21042,
-			"level": 8,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Triangle of Safety",
-			"solved_count": 7,
-			"average_try": 2
 		}
 	],
-	"last_updated": "Mon Jul 25 21:39:04 2022"
+	"last_updated": "Tue Jul 26 21:38:36 2022"
 }
