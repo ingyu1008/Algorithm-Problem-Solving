@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 1059,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc88b\uc740 \uad6c\uac04",
+			"solved_count": 2690,
+			"average_try": 3.7405
+		},
+		{
 			"id": 14490,
 			"level": 6,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Base Conversion",
 			"solved_count": 3641,
 			"average_try": 1.7685
-		},
-		{
-			"id": 25372,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc131\ud0dd\uc774\uc758 \uc740\ubc00\ud55c \ube44\ubc00\ubc88\ud638",
-			"solved_count": 240,
-			"average_try": 1.2
 		}
 	],
-	"last_updated": "Wed Jul 27 21:38:47 2022"
+	"last_updated": "Thu Jul 28 21:39:21 2022"
 }
