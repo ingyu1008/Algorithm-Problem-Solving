@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 1059 | [좋은 구간](https://www.acmicpc.net/problem/1059) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 14490 | [백대열](https://www.acmicpc.net/problem/14490) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 13015 | [별 찍기 - 23](https://www.acmicpc.net/problem/13015) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 1312 | [소수](https://www.acmicpc.net/problem/1312) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 16395 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 1343 | [폴리오미노](https://www.acmicpc.net/problem/1343) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 11576 | [Base Conversion](https://www.acmicpc.net/problem/11576) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 25372 | [성택이의 은밀한 비밀번호](https://www.acmicpc.net/problem/25372) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 
 
 ---
 
-last updated : Wed Jul 27 21:39:25 2022
+last updated : Thu Jul 28 21:39:54 2022
 
