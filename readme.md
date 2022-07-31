@@ -10,6 +10,8 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 17633 | [제곱수의 합 (More Huge)](https://www.acmicpc.net/problem/17633) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
+| 9267 | [A+B](https://www.acmicpc.net/problem/9267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
 | 9237 | [이장님 초대](https://www.acmicpc.net/problem/9237) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 17372 | [피보나치 수의 최대공약수의 합](https://www.acmicpc.net/problem/17372) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> |  |
 | 1059 | [좋은 구간](https://www.acmicpc.net/problem/1059) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
@@ -18,11 +20,9 @@ BOJ Problem Count = 142
 | 1312 | [소수](https://www.acmicpc.net/problem/1312) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 5800 | [성적 통계](https://www.acmicpc.net/problem/5800) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 11945 | [뜨거운 붕어빵](https://www.acmicpc.net/problem/11945) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 2628 | [종이자르기](https://www.acmicpc.net/problem/2628) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 16395 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 
 
 ---
 
-last updated : Sat Jul 30 21:39:16 2022
+last updated : Sun Jul 31 21:38:50 2022
 
