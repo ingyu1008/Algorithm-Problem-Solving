@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 13182,
+			"level": 24,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc81c\ube44",
+			"solved_count": 99,
+			"average_try": 1.3535
+		},
+		{
+			"id": 7681,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Sudoku",
+			"solved_count": 19,
+			"average_try": 2.7895
+		},
+		{
 			"id": 19998,
 			"level": 24,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\ud53c\ubcf4\ub098\uce58 \uc218\uc758 \ucd5c\ub300\uacf5\uc57d\uc218\uc758 \ud569",
 			"solved_count": 56,
 			"average_try": 1.6964
-		},
-		{
-			"id": 1059,
-			"level": 6,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc88b\uc740 \uad6c\uac04",
-			"solved_count": 2690,
-			"average_try": 3.7405
-		},
-		{
-			"id": 14490,
-			"level": 6,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubc31\ub300\uc5f4",
-			"solved_count": 2429,
-			"average_try": 1.3853
 		}
 	],
-	"last_updated": "Wed Aug  3 21:39:28 2022"
+	"last_updated": "Thu Aug  4 21:40:44 2022"
 }
