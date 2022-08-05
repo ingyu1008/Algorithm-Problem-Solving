@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 2635 | [수 이어가기](https://www.acmicpc.net/problem/2635) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 13182 | [제비](https://www.acmicpc.net/problem/13182) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> |  |
 | 7681 | [Sudoku](https://www.acmicpc.net/problem/7681) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 | 19998 | [스도쿠 (Hard)](https://www.acmicpc.net/problem/19998) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 17633 | [제곱수의 합 (More Huge)](https://www.acmicpc.net/problem/17633) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 | 9267 | [A+B](https://www.acmicpc.net/problem/9267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
 | 9237 | [이장님 초대](https://www.acmicpc.net/problem/9237) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 17372 | [피보나치 수의 최대공약수의 합](https://www.acmicpc.net/problem/17372) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> |  |
 
 
 ---
 
-last updated : Thu Aug  4 21:41:25 2022
+last updated : Fri Aug  5 21:39:51 2022
 
