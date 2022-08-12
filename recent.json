@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 5555,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubc18\uc9c0",
+			"solved_count": 1628,
+			"average_try": 1.5749
+		},
+		{
 			"id": 2018,
 			"level": 6,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc81c\ube44",
 			"solved_count": 99,
 			"average_try": 1.3535
-		},
-		{
-			"id": 7681,
-			"level": 22,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Sudoku",
-			"solved_count": 19,
-			"average_try": 2.7895
 		}
 	],
-	"last_updated": "Thu Aug 11 21:40:01 2022"
+	"last_updated": "Fri Aug 12 21:39:28 2022"
 }
