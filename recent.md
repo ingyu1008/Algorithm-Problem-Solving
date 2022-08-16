@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 3049 | [다각형의 대각선](https://www.acmicpc.net/problem/3049) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 2960 | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 10825 | [국영수](https://www.acmicpc.net/problem/10825) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 10709 | [기상캐스터](https://www.acmicpc.net/problem/10709) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
@@ -9,4 +10,3 @@
 | 2303 | [숫자 게임](https://www.acmicpc.net/problem/2303) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 19939 | [박 터뜨리기](https://www.acmicpc.net/problem/19939) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 1251 | [단어 나누기](https://www.acmicpc.net/problem/1251) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 2828 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
