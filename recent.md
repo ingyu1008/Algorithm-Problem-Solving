@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 1057 | [토너먼트](https://www.acmicpc.net/problem/1057) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 10974 | [모든 순열](https://www.acmicpc.net/problem/10974) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 3036 | [링](https://www.acmicpc.net/problem/3036) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 1748 | [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
@@ -9,4 +10,3 @@
 | 10709 | [기상캐스터](https://www.acmicpc.net/problem/10709) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 5555 | [반지](https://www.acmicpc.net/problem/5555) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 2018 | [수들의 합 5](https://www.acmicpc.net/problem/2018) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 1417 | [국회의원 선거](https://www.acmicpc.net/problem/1417) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
