@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 11549 | [Identifying tea](https://www.acmicpc.net/problem/11549) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 14470 | [전자레인지](https://www.acmicpc.net/problem/14470) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 15700 | [타일 채우기 4](https://www.acmicpc.net/problem/15700) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 14489 | [치킨 두 마리 (...)](https://www.acmicpc.net/problem/14489) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 10974 | [모든 순열](https://www.acmicpc.net/problem/10974) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 3036 | [링](https://www.acmicpc.net/problem/3036) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 1748 | [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
-| 3049 | [다각형의 대각선](https://www.acmicpc.net/problem/3049) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 
 
 ---
 
-last updated : Thu Aug 25 21:41:11 2022
+last updated : Fri Aug 26 21:40:56 2022
 
