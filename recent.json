@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 10824,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub124 \uc218",
+			"solved_count": 8286,
+			"average_try": 2.324
+		},
+		{
 			"id": 4470,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Identifying tea",
 			"solved_count": 1889,
 			"average_try": 1.1149
-		},
-		{
-			"id": 14470,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc804\uc790\ub808\uc778\uc9c0",
-			"solved_count": 2372,
-			"average_try": 1.3078
 		}
 	],
-	"last_updated": "Thu Sep  1 21:41:42 2022"
+	"last_updated": "Fri Sep  2 21:39:42 2022"
 }
