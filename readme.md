@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 10824 | [네 수](https://www.acmicpc.net/problem/10824) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 4470 | [줄번호](https://www.acmicpc.net/problem/4470) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 2501 | [약수 구하기](https://www.acmicpc.net/problem/2501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 5565 | [영수증](https://www.acmicpc.net/problem/5565) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 2576 | [홀수](https://www.acmicpc.net/problem/2576) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 16204 | [카드 뽑기](https://www.acmicpc.net/problem/16204) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 11549 | [Identifying tea](https://www.acmicpc.net/problem/11549) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 14470 | [전자레인지](https://www.acmicpc.net/problem/14470) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Thu Sep  1 21:42:27 2022
+last updated : Fri Sep  2 21:40:24 2022
 
