@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 24883,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc790\ub3d9\uc644\uc131",
+			"solved_count": 1345,
+			"average_try": 1.2558
+		},
+		{
 			"id": 24723,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Do Not Touch Anything",
 			"solved_count": 1678,
 			"average_try": 1.8838
-		},
-		{
-			"id": 2953,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub098\ub294 \uc694\ub9ac\uc0ac\ub2e4",
-			"solved_count": 9652,
-			"average_try": 1.5103
 		}
 	],
-	"last_updated": "Mon Sep  5 21:40:28 2022"
+	"last_updated": "Tue Sep  6 21:40:49 2022"
 }
