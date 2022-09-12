@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 1292 | [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
 | 25501 | [재귀의 귀재](https://www.acmicpc.net/problem/25501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
 | 25305 | [커트라인](https://www.acmicpc.net/problem/25305) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
 | 16563 | [어려운 소인수분해](https://www.acmicpc.net/problem/16563) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 17356 | [욱 제](https://www.acmicpc.net/problem/17356) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 13985 | [Equality](https://www.acmicpc.net/problem/13985) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 23825 | [SASA 모형을 만들어보자](https://www.acmicpc.net/problem/23825) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 24883 | [자동완성](https://www.acmicpc.net/problem/24883) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Sun Sep 11 21:42:12 2022
+last updated : Mon Sep 12 21:43:52 2022
 
