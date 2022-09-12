@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 1292,
+			"level": 5,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc27d\uac8c \ud478\ub294 \ubb38\uc81c",
+			"solved_count": 10620,
+			"average_try": 1.758
+		},
+		{
 			"id": 25501,
 			"level": 4,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "SASA \ubaa8\ud615\uc744 \ub9cc\ub4e4\uc5b4\ubcf4\uc790",
 			"solved_count": 1524,
 			"average_try": 1.2769
-		},
-		{
-			"id": 24883,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc790\ub3d9\uc644\uc131",
-			"solved_count": 1345,
-			"average_try": 1.2558
 		}
 	],
-	"last_updated": "Sun Sep 11 21:41:35 2022"
+	"last_updated": "Mon Sep 12 21:43:03 2022"
 }
