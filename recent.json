@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 10988,
+			"level": 4,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud330\ub9b0\ub4dc\ub86c\uc778\uc9c0 \ud655\uc778\ud558\uae30",
+			"solved_count": 10051,
+			"average_try": 1.4756
+		},
+		{
 			"id": 1292,
 			"level": 5,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Equality",
 			"solved_count": 1538,
 			"average_try": 1.2926
-		},
-		{
-			"id": 23825,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "SASA \ubaa8\ud615\uc744 \ub9cc\ub4e4\uc5b4\ubcf4\uc790",
-			"solved_count": 1524,
-			"average_try": 1.2769
 		}
 	],
-	"last_updated": "Mon Sep 12 21:43:03 2022"
+	"last_updated": "Tue Sep 13 21:42:45 2022"
 }
