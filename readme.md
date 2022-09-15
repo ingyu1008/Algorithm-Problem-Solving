@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 9093 | [단어 뒤집기](https://www.acmicpc.net/problem/9093) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
 | 17298 | [오큰수](https://www.acmicpc.net/problem/17298) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 | 16998 | [It’s a Mod, Mod, Mod, Mod World](https://www.acmicpc.net/problem/16998) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 | 16903 | [수열과 쿼리 20](https://www.acmicpc.net/problem/16903) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 10822 | [더하기](https://www.acmicpc.net/problem/10822) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
 | 9250 | [문자열 집합 판별](https://www.acmicpc.net/problem/9250) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> |  |
 | 4740 | [거울, 오! 거울](https://www.acmicpc.net/problem/4740) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 1806 | [부분합](https://www.acmicpc.net/problem/1806) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 
 
 ---
 
-last updated : Wed Sep 14 21:42:39 2022
+last updated : Thu Sep 15 21:43:59 2022
 
