@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 9316,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Hello Judge",
+			"solved_count": 5226,
+			"average_try": 1.5455
+		},
+		{
 			"id": 9085,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ub2e8\uc5b4 \ub4a4\uc9d1\uae30",
 			"solved_count": 9559,
 			"average_try": 1.9152
-		},
-		{
-			"id": 17298,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc624\ud070\uc218",
-			"solved_count": 11715,
-			"average_try": 3.0769
 		}
 	],
-	"last_updated": "Mon Sep 19 21:43:22 2022"
+	"last_updated": "Tue Sep 20 21:43:27 2022"
 }
