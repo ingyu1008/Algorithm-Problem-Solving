@@ -10,6 +10,9 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 18408 | [3 つの整数 (Three Integers)](https://www.acmicpc.net/problem/18408) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 15967 | [에바쿰](https://www.acmicpc.net/problem/15967) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
+| 11282 | [한글](https://www.acmicpc.net/problem/11282) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 2935 | [소음](https://www.acmicpc.net/problem/2935) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 10821 | [정수의 개수](https://www.acmicpc.net/problem/10821) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
 | 9316 | [Hello Judge](https://www.acmicpc.net/problem/9316) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -17,12 +20,9 @@ BOJ Problem Count = 142
 | 18792 | [N의 배수 (3)](https://www.acmicpc.net/problem/18792) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> |  |
 | 18791 | [N의 배수 (2)](https://www.acmicpc.net/problem/18791) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 | 2587 | [대표값2](https://www.acmicpc.net/problem/2587) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
-| 2110 | [공유기 설치](https://www.acmicpc.net/problem/2110) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 1916 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
-| 2864 | [5와 6의 차이](https://www.acmicpc.net/problem/2864) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
 
 
 ---
 
-last updated : Fri Sep 23 21:44:01 2022
+last updated : Sat Sep 24 21:42:51 2022
 
