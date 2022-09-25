@@ -10,6 +10,8 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 10256 | [돌연변이](https://www.acmicpc.net/problem/10256) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> |  |
+| 1420 | [학교 가지마!](https://www.acmicpc.net/problem/1420) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> |  |
 | 18408 | [3 つの整数 (Three Integers)](https://www.acmicpc.net/problem/18408) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 15967 | [에바쿰](https://www.acmicpc.net/problem/15967) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
 | 11282 | [한글](https://www.acmicpc.net/problem/11282) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -18,11 +20,9 @@ BOJ Problem Count = 142
 | 9316 | [Hello Judge](https://www.acmicpc.net/problem/9316) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 9085 | [더하기](https://www.acmicpc.net/problem/9085) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 18792 | [N의 배수 (3)](https://www.acmicpc.net/problem/18792) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> |  |
-| 18791 | [N의 배수 (2)](https://www.acmicpc.net/problem/18791) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
-| 2587 | [대표값2](https://www.acmicpc.net/problem/2587) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
 
 
 ---
 
-last updated : Sat Sep 24 21:42:51 2022
+last updated : Sun Sep 25 21:43:00 2022
 
