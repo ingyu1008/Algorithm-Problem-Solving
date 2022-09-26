@@ -1,95 +1,95 @@
 {
 	"problems": [
 		{
-			"id": 10256,
+			"id": 25639,
 			"level": 19,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ub3cc\uc5f0\ubcc0\uc774",
-			"solved_count": 472,
-			"average_try": 4.3856
+			"title": "\uc218\uc5f4\uacfc \ucd5c\ub300 \uc0c1\uc2b9 \ucffc\ub9ac",
+			"solved_count": 24,
+			"average_try": 1.4583
 		},
 		{
-			"id": 1420,
+			"id": 25191,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uce58\ud0a8\ub304\uc2a4\ub97c \ucd94\ub294 \uacf0\uacf0\uc774\ub97c \ubcf8 \uc784\uc2a4",
+			"solved_count": 1519,
+			"average_try": 1.3397
+		},
+		{
+			"id": 18496,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Euclid\u2019s Algorithm",
+			"solved_count": 40,
+			"average_try": 5.45
+		},
+		{
+			"id": 15504,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud504\ub85c\uadf8\ub798\ubc0d \ub300\uacb0",
+			"solved_count": 92,
+			"average_try": 2.9022
+		},
+		{
+			"id": 11410,
+			"level": 20,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uce59\uce59\ud3ed\ud3ed",
+			"solved_count": 115,
+			"average_try": 1.8696
+		},
+		{
+			"id": 11408,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc5f4\ud608\uac15\ud638 5",
+			"solved_count": 833,
+			"average_try": 1.7539
+		},
+		{
+			"id": 11405,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ucc45 \uad6c\ub9e4\ud558\uae30",
+			"solved_count": 675,
+			"average_try": 1.5807
+		},
+		{
+			"id": 11111,
 			"level": 19,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ud559\uad50 \uac00\uc9c0\ub9c8!",
-			"solved_count": 646,
-			"average_try": 4.2802
+			"title": "\ub450\ubd80\uc7a5\uc218 \uc7a5\ud64d\uc900 2",
+			"solved_count": 262,
+			"average_try": 2.0611
 		},
 		{
-			"id": 18408,
-			"level": 2,
-			"level_locked": 0,
+			"id": 9987,
+			"level": 0,
+			"level_locked": 1,
 			"solvable": 1,
-			"title": "3 \u3064\u306e\u6574\u6570 (Three Integers)",
-			"solved_count": 980,
-			"average_try": 1.2
+			"title": "\ud3ec\ucf13\ubaac \ub9c8\uc2a4\ud130",
+			"solved_count": 543,
+			"average_try": 3.2891
 		},
 		{
-			"id": 15967,
-			"level": 17,
+			"id": 3752,
+			"level": 23,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc5d0\ubc14\ucff0",
-			"solved_count": 348,
-			"average_try": 3.2644
-		},
-		{
-			"id": 11282,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud55c\uae00",
-			"solved_count": 1712,
-			"average_try": 1.3925
-		},
-		{
-			"id": 2935,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc18c\uc74c",
-			"solved_count": 6558,
-			"average_try": 1.7149
-		},
-		{
-			"id": 10821,
-			"level": 4,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc815\uc218\uc758 \uac1c\uc218",
-			"solved_count": 3726,
-			"average_try": 1.1868
-		},
-		{
-			"id": 9316,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Hello Judge",
-			"solved_count": 5226,
-			"average_try": 1.5455
-		},
-		{
-			"id": 9085,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub354\ud558\uae30",
-			"solved_count": 5883,
-			"average_try": 1.2638
-		},
-		{
-			"id": 18792,
-			"level": 25,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "N\uc758 \ubc30\uc218 (3)",
-			"solved_count": 39,
-			"average_try": 4.2564
+			"title": "\ucd5c\ub300\uacf5\uc57d\uc218 \ud589\ub82c\uc2dd",
+			"solved_count": 75,
+			"average_try": 1.9733
 		}
 	],
-	"last_updated": "Sun Sep 25 21:42:08 2022"
+	"last_updated": "Mon Sep 26 21:46:38 2022"
 }
