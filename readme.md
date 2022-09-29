@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 5717 | [상근이의 친구들](https://www.acmicpc.net/problem/5717) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 14623 | [감정이입](https://www.acmicpc.net/problem/14623) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 23795 | [사장님 도박은 재미로 하셔야 합니다](https://www.acmicpc.net/problem/23795) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 25639 | [수열과 최대 상승 쿼리](https://www.acmicpc.net/problem/25639) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 11410 | [칙칙폭폭](https://www.acmicpc.net/problem/11410) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
 | 11408 | [열혈강호 5](https://www.acmicpc.net/problem/11408) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
 | 11405 | [책 구매하기](https://www.acmicpc.net/problem/11405) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
-| 11111 | [두부장수 장홍준 2](https://www.acmicpc.net/problem/11111) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> |  |
 
 
 ---
 
-last updated : Wed Sep 28 21:45:24 2022
+last updated : Thu Sep 29 21:47:21 2022
 
