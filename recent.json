@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 6778,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Which Alien?",
+			"solved_count": 1689,
+			"average_try": 1.4221
+		},
+		{
 			"id": 16199,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ud504\ub85c\uadf8\ub798\ubc0d \ub300\uacb0",
 			"solved_count": 92,
 			"average_try": 2.9022
-		},
-		{
-			"id": 11410,
-			"level": 20,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uce59\uce59\ud3ed\ud3ed",
-			"solved_count": 115,
-			"average_try": 1.8696
 		}
 	],
-	"last_updated": "Sat Oct  1 21:43:54 2022"
+	"last_updated": "Sun Oct  2 21:43:25 2022"
 }
