@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 7891,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Can you add this?",
+			"solved_count": 1334,
+			"average_try": 1.1492
+		},
+		{
+			"id": 2083,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub7ed\ube44 \ud074\ub7fd",
+			"solved_count": 1775,
+			"average_try": 1.5679
+		},
+		{
 			"id": 6778,
 			"level": 2,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\uce58\ud0a8\ub304\uc2a4\ub97c \ucd94\ub294 \uacf0\uacf0\uc774\ub97c \ubcf8 \uc784\uc2a4",
 			"solved_count": 1519,
 			"average_try": 1.3397
-		},
-		{
-			"id": 18496,
-			"level": 23,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Euclid\u2019s Algorithm",
-			"solved_count": 40,
-			"average_try": 5.45
-		},
-		{
-			"id": 15504,
-			"level": 21,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud504\ub85c\uadf8\ub798\ubc0d \ub300\uacb0",
-			"solved_count": 92,
-			"average_try": 2.9022
 		}
 	],
-	"last_updated": "Sun Oct  2 21:43:25 2022"
+	"last_updated": "Tue Oct  4 21:44:51 2022"
 }
