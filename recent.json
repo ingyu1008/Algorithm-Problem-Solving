@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 17009,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Winning Score",
+			"solved_count": 1656,
+			"average_try": 1.244
+		},
+		{
 			"id": 7891,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc218\uc5f4\uacfc \ucd5c\ub300 \uc0c1\uc2b9 \ucffc\ub9ac",
 			"solved_count": 24,
 			"average_try": 1.4583
-		},
-		{
-			"id": 25191,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uce58\ud0a8\ub304\uc2a4\ub97c \ucd94\ub294 \uacf0\uacf0\uc774\ub97c \ubcf8 \uc784\uc2a4",
-			"solved_count": 1519,
-			"average_try": 1.3397
 		}
 	],
-	"last_updated": "Tue Oct  4 21:44:51 2022"
+	"last_updated": "Wed Oct  5 21:44:50 2022"
 }
