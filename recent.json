@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 14173,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Square Pasture",
+			"solved_count": 1322,
+			"average_try": 1.4251
+		},
+		{
 			"id": 17863,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uac10\uc815\uc774\uc785",
 			"solved_count": 1752,
 			"average_try": 1.6621
-		},
-		{
-			"id": 23795,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc0ac\uc7a5\ub2d8 \ub3c4\ubc15\uc740 \uc7ac\ubbf8\ub85c \ud558\uc154\uc57c \ud569\ub2c8\ub2e4",
-			"solved_count": 1238,
-			"average_try": 1.2593
 		}
 	],
-	"last_updated": "Thu Oct  6 21:45:00 2022"
+	"last_updated": "Fri Oct  7 21:45:12 2022"
 }
