@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 13118 | [뉴턴과 사과](https://www.acmicpc.net/problem/13118) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 14173 | [Square Pasture](https://www.acmicpc.net/problem/14173) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 17863 | [FYI](https://www.acmicpc.net/problem/17863) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 17009 | [Winning Score](https://www.acmicpc.net/problem/17009) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 16199 | [나이 계산하기](https://www.acmicpc.net/problem/16199) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 10819 | [차이를 최대로](https://www.acmicpc.net/problem/10819) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
 | 5717 | [상근이의 친구들](https://www.acmicpc.net/problem/5717) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 14623 | [감정이입](https://www.acmicpc.net/problem/14623) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Fri Oct  7 21:46:01 2022
+last updated : Sat Oct  8 21:44:36 2022
 
