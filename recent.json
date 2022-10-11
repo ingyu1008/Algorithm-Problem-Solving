@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 21598,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "SciComLove",
+			"solved_count": 1166,
+			"average_try": 1.1278
+		},
+		{
 			"id": 15059,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Which Alien?",
 			"solved_count": 1689,
 			"average_try": 1.4221
-		},
-		{
-			"id": 16199,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub098\uc774 \uacc4\uc0b0\ud558\uae30",
-			"solved_count": 1809,
-			"average_try": 1.89
 		}
 	],
-	"last_updated": "Mon Oct 10 21:45:10 2022"
+	"last_updated": "Tue Oct 11 21:47:10 2022"
 }
