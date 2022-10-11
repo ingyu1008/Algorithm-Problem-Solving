@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 21598 | [SciComLove](https://www.acmicpc.net/problem/21598) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 15059 | [Hard choice](https://www.acmicpc.net/problem/15059) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 25640 | [MBTI](https://www.acmicpc.net/problem/25640) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 13118 | [뉴턴과 사과](https://www.acmicpc.net/problem/13118) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 7891 | [Can you add this?](https://www.acmicpc.net/problem/7891) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 2083 | [럭비 클럽](https://www.acmicpc.net/problem/2083) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 6778 | [Which Alien?](https://www.acmicpc.net/problem/6778) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 16199 | [나이 계산하기](https://www.acmicpc.net/problem/16199) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Mon Oct 10 21:45:58 2022
+last updated : Tue Oct 11 21:47:54 2022
 
