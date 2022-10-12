@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 16017 | [Telemarketer or not?](https://www.acmicpc.net/problem/16017) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 21598 | [SciComLove](https://www.acmicpc.net/problem/21598) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 15059 | [Hard choice](https://www.acmicpc.net/problem/15059) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 25640 | [MBTI](https://www.acmicpc.net/problem/25640) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -9,4 +10,3 @@
 | 17009 | [Winning Score](https://www.acmicpc.net/problem/17009) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 7891 | [Can you add this?](https://www.acmicpc.net/problem/7891) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 2083 | [럭비 클럽](https://www.acmicpc.net/problem/2083) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 6778 | [Which Alien?](https://www.acmicpc.net/problem/6778) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
