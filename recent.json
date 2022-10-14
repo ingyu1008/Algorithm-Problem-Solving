@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 17081,
+			"level": 19,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "RPG Extreme",
+			"solved_count": 244,
+			"average_try": 4.1066
+		},
+		{
+			"id": 15000,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "CAPS",
+			"solved_count": 1220,
+			"average_try": 1.2885
+		},
+		{
 			"id": 13597,
 			"level": 2,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "FYI",
 			"solved_count": 1371,
 			"average_try": 1.2502
-		},
-		{
-			"id": 17009,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Winning Score",
-			"solved_count": 1656,
-			"average_try": 1.244
-		},
-		{
-			"id": 7891,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Can you add this?",
-			"solved_count": 1334,
-			"average_try": 1.1492
 		}
 	],
-	"last_updated": "Thu Oct 13 21:45:44 2022"
+	"last_updated": "Fri Oct 14 21:46:09 2022"
 }
