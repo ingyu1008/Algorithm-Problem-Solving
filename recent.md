@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 19602 | [Dog Treats](https://www.acmicpc.net/problem/19602) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 17081 | [RPG Extreme](https://www.acmicpc.net/problem/17081) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> |  |
 | 15000 | [CAPS](https://www.acmicpc.net/problem/15000) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 13597 | [Tri-du](https://www.acmicpc.net/problem/13597) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -9,4 +10,3 @@
 | 25640 | [MBTI](https://www.acmicpc.net/problem/25640) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 13118 | [뉴턴과 사과](https://www.acmicpc.net/problem/13118) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 14173 | [Square Pasture](https://www.acmicpc.net/problem/14173) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 17863 | [FYI](https://www.acmicpc.net/problem/17863) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |

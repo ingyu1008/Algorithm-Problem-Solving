@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 19602,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Dog Treats",
+			"solved_count": 1137,
+			"average_try": 1.1935
+		},
+		{
 			"id": 17081,
 			"level": 19,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Square Pasture",
 			"solved_count": 1322,
 			"average_try": 1.4251
-		},
-		{
-			"id": 17863,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "FYI",
-			"solved_count": 1371,
-			"average_try": 1.2502
 		}
 	],
-	"last_updated": "Fri Oct 14 21:46:09 2022"
+	"last_updated": "Sat Oct 15 21:44:08 2022"
 }
