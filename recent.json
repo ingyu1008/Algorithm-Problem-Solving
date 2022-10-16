@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 25462,
+			"level": 20,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Inverzije",
+			"solved_count": 6,
+			"average_try": 1
+		},
+		{
 			"id": 19602,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ub274\ud134\uacfc \uc0ac\uacfc",
 			"solved_count": 993,
 			"average_try": 1.5358
-		},
-		{
-			"id": 14173,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Square Pasture",
-			"solved_count": 1322,
-			"average_try": 1.4251
 		}
 	],
-	"last_updated": "Sat Oct 15 21:44:08 2022"
+	"last_updated": "Sun Oct 16 21:44:05 2022"
 }
