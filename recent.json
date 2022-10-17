@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 14038,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Tournament Selection",
+			"solved_count": 1110,
+			"average_try": 1.5036
+		},
+		{
 			"id": 25462,
 			"level": 20,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "MBTI",
 			"solved_count": 590,
 			"average_try": 1.1729
-		},
-		{
-			"id": 13118,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub274\ud134\uacfc \uc0ac\uacfc",
-			"solved_count": 993,
-			"average_try": 1.5358
 		}
 	],
-	"last_updated": "Sun Oct 16 21:44:05 2022"
+	"last_updated": "Mon Oct 17 21:45:18 2022"
 }
