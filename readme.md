@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 14038 | [Tournament Selection](https://www.acmicpc.net/problem/14038) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 25462 | [Inverzije](https://www.acmicpc.net/problem/25462) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
 | 19602 | [Dog Treats](https://www.acmicpc.net/problem/19602) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 17081 | [RPG Extreme](https://www.acmicpc.net/problem/17081) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 21598 | [SciComLove](https://www.acmicpc.net/problem/21598) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 15059 | [Hard choice](https://www.acmicpc.net/problem/15059) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 25640 | [MBTI](https://www.acmicpc.net/problem/25640) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 13118 | [뉴턴과 사과](https://www.acmicpc.net/problem/13118) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Sun Oct 16 21:44:39 2022
+last updated : Mon Oct 17 21:45:55 2022
 
