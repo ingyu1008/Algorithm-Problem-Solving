@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 18411,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u8a66\u9a13 (Exam)",
+			"solved_count": 964,
+			"average_try": 1.1836
+		},
+		{
 			"id": 14038,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Hard choice",
 			"solved_count": 1234,
 			"average_try": 1.1459
-		},
-		{
-			"id": 25640,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "MBTI",
-			"solved_count": 590,
-			"average_try": 1.1729
 		}
 	],
-	"last_updated": "Mon Oct 17 21:45:18 2022"
+	"last_updated": "Tue Oct 18 21:45:13 2022"
 }
