@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 17607,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 31",
+			"solved_count": 65,
+			"average_try": 3.7077
+		},
+		{
+			"id": 15610,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Abbey Courtyard",
+			"solved_count": 1093,
+			"average_try": 1.3303
+		},
+		{
 			"id": 18411,
 			"level": 2,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "Telemarketer or not?",
 			"solved_count": 1144,
 			"average_try": 1.4519
-		},
-		{
-			"id": 21598,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "SciComLove",
-			"solved_count": 1166,
-			"average_try": 1.1278
-		},
-		{
-			"id": 15059,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Hard choice",
-			"solved_count": 1234,
-			"average_try": 1.1459
 		}
 	],
-	"last_updated": "Tue Oct 18 21:45:13 2022"
+	"last_updated": "Wed Oct 19 21:46:25 2022"
 }
