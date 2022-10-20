@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 8710,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Koszykarz",
+			"solved_count": 1007,
+			"average_try": 1.4151
+		},
+		{
 			"id": 17607,
 			"level": 23,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Tri-du",
 			"solved_count": 1247,
 			"average_try": 1.1059
-		},
-		{
-			"id": 16017,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Telemarketer or not?",
-			"solved_count": 1144,
-			"average_try": 1.4519
 		}
 	],
-	"last_updated": "Wed Oct 19 21:46:25 2022"
+	"last_updated": "Thu Oct 20 21:45:42 2022"
 }
