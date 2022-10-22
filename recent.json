@@ -1,6 +1,87 @@
 {
 	"problems": [
 		{
+			"id": 18774,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Inverting bits (Easy)",
+			"solved_count": 30,
+			"average_try": 3.4
+		},
+		{
+			"id": 17425,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc57d\uc218\uc758 \ud569",
+			"solved_count": 1738,
+			"average_try": 3.9223
+		},
+		{
+			"id": 16901,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "XOR MST",
+			"solved_count": 165,
+			"average_try": 2.5091
+		},
+		{
+			"id": 16670,
+			"level": 21,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "King Kog\u2019s Reception",
+			"solved_count": 103,
+			"average_try": 1.8058
+		},
+		{
+			"id": 11266,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub2e8\uc808\uc810",
+			"solved_count": 2570,
+			"average_try": 2.928
+		},
+		{
+			"id": 10093,
+			"level": 4,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc22b\uc790",
+			"solved_count": 3565,
+			"average_try": 4.2934
+		},
+		{
+			"id": 9375,
+			"level": 8,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud328\uc158\uc655 \uc2e0\ud574\ube48",
+			"solved_count": 10953,
+			"average_try": 1.8259
+		},
+		{
+			"id": 3067,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Coins",
+			"solved_count": 770,
+			"average_try": 1.3247
+		},
+		{
+			"id": 1309,
+			"level": 10,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub3d9\ubb3c\uc6d0",
+			"solved_count": 9579,
+			"average_try": 2.0887
+		},
+		{
 			"id": 16600,
 			"level": 2,
 			"level_locked": 0,
@@ -8,88 +89,7 @@
 			"title": "Contemporary Art",
 			"solved_count": 1005,
 			"average_try": 1.1731
-		},
-		{
-			"id": 8710,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Koszykarz",
-			"solved_count": 1007,
-			"average_try": 1.4151
-		},
-		{
-			"id": 17607,
-			"level": 23,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 31",
-			"solved_count": 65,
-			"average_try": 3.7077
-		},
-		{
-			"id": 15610,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Abbey Courtyard",
-			"solved_count": 1093,
-			"average_try": 1.3303
-		},
-		{
-			"id": 18411,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u8a66\u9a13 (Exam)",
-			"solved_count": 964,
-			"average_try": 1.1836
-		},
-		{
-			"id": 14038,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Tournament Selection",
-			"solved_count": 1110,
-			"average_try": 1.5036
-		},
-		{
-			"id": 25462,
-			"level": 20,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Inverzije",
-			"solved_count": 6,
-			"average_try": 1
-		},
-		{
-			"id": 19602,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Dog Treats",
-			"solved_count": 1137,
-			"average_try": 1.1935
-		},
-		{
-			"id": 17081,
-			"level": 19,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "RPG Extreme",
-			"solved_count": 244,
-			"average_try": 4.1066
-		},
-		{
-			"id": 15000,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "CAPS",
-			"solved_count": 1220,
-			"average_try": 1.2885
 		}
 	],
-	"last_updated": "Fri Oct 21 21:45:16 2022"
+	"last_updated": "Sat Oct 22 21:44:28 2022"
 }

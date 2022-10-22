@@ -1,12 +1,12 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 18774 | [Inverting bits (Easy)](https://www.acmicpc.net/problem/18774) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
+| 17425 | [약수의 합](https://www.acmicpc.net/problem/17425) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
+| 16901 | [XOR MST](https://www.acmicpc.net/problem/16901) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
+| 16670 | [King Kog’s Reception](https://www.acmicpc.net/problem/16670) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/21.svg"/> |  |
+| 11266 | [단절점](https://www.acmicpc.net/problem/11266) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
+| 10093 | [숫자](https://www.acmicpc.net/problem/10093) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
+| 9375 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
+| 3067 | [Coins](https://www.acmicpc.net/problem/3067) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
+| 1309 | [동물원](https://www.acmicpc.net/problem/1309) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
 | 16600 | [Contemporary Art](https://www.acmicpc.net/problem/16600) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 8710 | [Koszykarz](https://www.acmicpc.net/problem/8710) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 17607 | [수열과 쿼리 31](https://www.acmicpc.net/problem/17607) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> |  |
-| 15610 | [Abbey Courtyard](https://www.acmicpc.net/problem/15610) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 18411 | [試験 (Exam)](https://www.acmicpc.net/problem/18411) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 14038 | [Tournament Selection](https://www.acmicpc.net/problem/14038) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 25462 | [Inverzije](https://www.acmicpc.net/problem/25462) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
-| 19602 | [Dog Treats](https://www.acmicpc.net/problem/19602) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 17081 | [RPG Extreme](https://www.acmicpc.net/problem/17081) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/19.svg"/> |  |
-| 15000 | [CAPS](https://www.acmicpc.net/problem/15000) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
