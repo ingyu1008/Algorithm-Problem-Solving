@@ -1,6 +1,42 @@
 {
 	"problems": [
 		{
+			"id": 25871,
+			"level": 4,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Historical TV Remote Control",
+			"solved_count": 3,
+			"average_try": 1
+		},
+		{
+			"id": 23880,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Walking Home",
+			"solved_count": 102,
+			"average_try": 1.4118
+		},
+		{
+			"id": 13505,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub450 \uc218 XOR",
+			"solved_count": 494,
+			"average_try": 1.9636
+		},
+		{
+			"id": 8723,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Patyki",
+			"solved_count": 968,
+			"average_try": 1.5238
+		},
+		{
 			"id": 18774,
 			"level": 11,
 			"level_locked": 0,
@@ -53,43 +89,7 @@
 			"title": "\uc22b\uc790",
 			"solved_count": 3565,
 			"average_try": 4.2934
-		},
-		{
-			"id": 9375,
-			"level": 8,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud328\uc158\uc655 \uc2e0\ud574\ube48",
-			"solved_count": 10953,
-			"average_try": 1.8259
-		},
-		{
-			"id": 3067,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Coins",
-			"solved_count": 770,
-			"average_try": 1.3247
-		},
-		{
-			"id": 1309,
-			"level": 10,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub3d9\ubb3c\uc6d0",
-			"solved_count": 9579,
-			"average_try": 2.0887
-		},
-		{
-			"id": 16600,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Contemporary Art",
-			"solved_count": 1005,
-			"average_try": 1.1731
 		}
 	],
-	"last_updated": "Sat Oct 22 21:44:28 2022"
+	"last_updated": "Sun Oct 23 21:44:56 2022"
 }
