@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 15474,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u925b\u7b46 (Pencils)",
+			"solved_count": 889,
+			"average_try": 1.4949
+		},
+		{
 			"id": 25871,
 			"level": 4,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ub2e8\uc808\uc810",
 			"solved_count": 2570,
 			"average_try": 2.928
-		},
-		{
-			"id": 10093,
-			"level": 4,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc22b\uc790",
-			"solved_count": 3565,
-			"average_try": 4.2934
 		}
 	],
-	"last_updated": "Sun Oct 23 21:44:56 2022"
+	"last_updated": "Mon Oct 24 21:46:31 2022"
 }
