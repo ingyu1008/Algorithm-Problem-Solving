@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 15232,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Rectangles",
+			"solved_count": 870,
+			"average_try": 1.1253
+		},
+		{
 			"id": 20917,
 			"level": 11,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ubc31\uc124 \uacf5\uc8fc\uc640 \uc77c\uacf1 \ub09c\uc7c1\uc774",
 			"solved_count": 6990,
 			"average_try": 1.4273
-		},
-		{
-			"id": 2993,
-			"level": 6,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc138 \ubd80\ubd84",
-			"solved_count": 543,
-			"average_try": 1.8527
 		}
 	],
-	"last_updated": "Tue Oct 25 21:45:57 2022"
+	"last_updated": "Wed Oct 26 21:42:29 2022"
 }
