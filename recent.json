@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 20976,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "2 \u756a\u76ee\u306b\u5927\u304d\u3044\u6574\u6570 (The Second Largest Integer)",
+			"solved_count": 838,
+			"average_try": 1.1623
+		},
+		{
 			"id": 15232,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Computer Transformation",
 			"solved_count": 108,
 			"average_try": 10.3796
-		},
-		{
-			"id": 3040,
-			"level": 4,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubc31\uc124 \uacf5\uc8fc\uc640 \uc77c\uacf1 \ub09c\uc7c1\uc774",
-			"solved_count": 6990,
-			"average_try": 1.4273
 		}
 	],
-	"last_updated": "Wed Oct 26 21:42:29 2022"
+	"last_updated": "Thu Oct 27 21:41:10 2022"
 }
