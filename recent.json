@@ -1,6 +1,87 @@
 {
 	"problems": [
 		{
+			"id": 25494,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub2e8\uc21c\ud55c \ubb38\uc81c (Small)",
+			"solved_count": 833,
+			"average_try": 1.2401
+		},
+		{
+			"id": 20149,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc120\ubd84 \uad50\ucc28 3",
+			"solved_count": 723,
+			"average_try": 4.5851
+		},
+		{
+			"id": 17387,
+			"level": 14,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc120\ubd84 \uad50\ucc28 2",
+			"solved_count": 1972,
+			"average_try": 3.6744
+		},
+		{
+			"id": 14860,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "GCD \uacf1",
+			"solved_count": 202,
+			"average_try": 2.8911
+		},
+		{
+			"id": 12925,
+			"level": 20,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Numbers",
+			"solved_count": 357,
+			"average_try": 1.5266
+		},
+		{
+			"id": 12728,
+			"level": 20,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "n\uc81c\uacf1 \uacc4\uc0b0",
+			"solved_count": 494,
+			"average_try": 2.5931
+		},
+		{
+			"id": 10255,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uad50\ucc28\uc810",
+			"solved_count": 413,
+			"average_try": 3.6199
+		},
+		{
+			"id": 10075,
+			"level": 26,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uce5c\uad6c",
+			"solved_count": 121,
+			"average_try": 2.3802
+		},
+		{
+			"id": 5373,
+			"level": 16,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud050\ube59",
+			"solved_count": 3028,
+			"average_try": 2.6202
+		},
+		{
 			"id": 12100,
 			"level": 14,
 			"level_locked": 0,
@@ -8,88 +89,7 @@
 			"title": "2048 (Easy)",
 			"solved_count": 11076,
 			"average_try": 3.8776
-		},
-		{
-			"id": 11585,
-			"level": 16,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc18d\ud0c0\ub294 \uc800\ub141 \uba54\ub274",
-			"solved_count": 799,
-			"average_try": 2.7772
-		},
-		{
-			"id": 10266,
-			"level": 16,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc2dc\uacc4 \uc0ac\uc9c4\ub4e4",
-			"solved_count": 927,
-			"average_try": 2.1251
-		},
-		{
-			"id": 4354,
-			"level": 16,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubb38\uc790\uc5f4 \uc81c\uacf1",
-			"solved_count": 1572,
-			"average_try": 3.1043
-		},
-		{
-			"id": 20976,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "2 \u756a\u76ee\u306b\u5927\u304d\u3044\u6574\u6570 (The Second Largest Integer)",
-			"solved_count": 838,
-			"average_try": 1.1623
-		},
-		{
-			"id": 15232,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Rectangles",
-			"solved_count": 870,
-			"average_try": 1.1253
-		},
-		{
-			"id": 20917,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc0ac\ud68c\uc801 \uac70\ub9ac \ub450\uae30",
-			"solved_count": 70,
-			"average_try": 1.9714
-		},
-		{
-			"id": 18414,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "X \u306b\u6700\u3082\u8fd1\u3044\u5024 (The Nearest Value)",
-			"solved_count": 880,
-			"average_try": 1.3818
-		},
-		{
-			"id": 17441,
-			"level": 24,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud30c\ub9ac\ucc44 \ub9cc\ub4e4\uae30",
-			"solved_count": 43,
-			"average_try": 2.6512
-		},
-		{
-			"id": 15678,
-			"level": 16,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc5f0\uc138\uc6cc\ud130\ud30c\ud06c",
-			"solved_count": 575,
-			"average_try": 2.3183
 		}
 	],
-	"last_updated": "Fri Oct 28 21:41:14 2022"
+	"last_updated": "Sat Oct 29 21:40:36 2022"
 }
