@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 23235,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "The Fastest Sorting Algorithm In The World",
+			"solved_count": 530,
+			"average_try": 1.4151
+		},
+		{
 			"id": 5524,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc120\ubd84 \uad50\ucc28 2",
 			"solved_count": 1972,
 			"average_try": 3.6744
-		},
-		{
-			"id": 14860,
-			"level": 17,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "GCD \uacf1",
-			"solved_count": 202,
-			"average_try": 2.8911
 		}
 	],
-	"last_updated": "Tue Nov  1 21:42:02 2022"
+	"last_updated": "Wed Nov  2 21:41:02 2022"
 }
