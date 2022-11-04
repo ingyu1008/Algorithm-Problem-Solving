@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 21612,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Boiling Water",
+			"solved_count": 827,
+			"average_try": 1.4256
+		},
+		{
 			"id": 25628,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ub2e8\uc21c\ud55c \ubb38\uc81c (Small)",
 			"solved_count": 833,
 			"average_try": 1.2401
-		},
-		{
-			"id": 20149,
-			"level": 17,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc120\ubd84 \uad50\ucc28 3",
-			"solved_count": 723,
-			"average_try": 4.5851
 		}
 	],
-	"last_updated": "Thu Nov  3 21:36:14 2022"
+	"last_updated": "Fri Nov  4 21:39:24 2022"
 }
