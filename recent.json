@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 16693,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Pizza Deal",
+			"solved_count": 836,
+			"average_try": 2.1184
+		},
+		{
 			"id": 21612,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\u6bcd\u97f3\u3092\u6570\u3048\u308b (Counting Vowels)",
 			"solved_count": 618,
 			"average_try": 1.1942
-		},
-		{
-			"id": 25494,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub2e8\uc21c\ud55c \ubb38\uc81c (Small)",
-			"solved_count": 833,
-			"average_try": 1.2401
 		}
 	],
-	"last_updated": "Fri Nov  4 21:39:24 2022"
+	"last_updated": "Sat Nov  5 21:38:14 2022"
 }
