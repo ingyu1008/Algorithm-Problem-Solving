@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 22015,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u91d1\u5e73\u7cd6 (Konpeito)",
+			"solved_count": 701,
+			"average_try": 1.1783
+		},
+		{
 			"id": 24263,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uac70\ub9ac\uc758 \ud569",
 			"solved_count": 1584,
 			"average_try": 2.6117
-		},
-		{
-			"id": 1144,
-			"level": 23,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "\uc2fc \ube44\uc6a9",
-			"solved_count": 88,
-			"average_try": 3.4205
 		}
 	],
-	"last_updated": "Sun Nov  6 21:38:29 2022"
+	"last_updated": "Mon Nov  7 21:41:23 2022"
 }
