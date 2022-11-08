@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 9657,
+			"level": 8,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub3cc \uac8c\uc784 3",
+			"solved_count": 2825,
+			"average_try": 2.0998
+		},
+		{
+			"id": 3765,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Celebrity jeopardy",
+			"solved_count": 143,
+			"average_try": 1.5315
+		},
+		{
 			"id": 22015,
 			"level": 2,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 9",
 			"solved_count": 95,
 			"average_try": 4.2421
-		},
-		{
-			"id": 11170,
-			"level": 5,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "0\uc758 \uac1c\uc218",
-			"solved_count": 2572,
-			"average_try": 1.2667
-		},
-		{
-			"id": 2399,
-			"level": 4,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uac70\ub9ac\uc758 \ud569",
-			"solved_count": 1584,
-			"average_try": 2.6117
 		}
 	],
-	"last_updated": "Mon Nov  7 21:41:23 2022"
+	"last_updated": "Tue Nov  8 21:40:03 2022"
 }
