@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 21591,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Laptop Sticker",
+			"solved_count": 785,
+			"average_try": 1.3758
+		},
+		{
 			"id": 15080,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "The Fastest Sorting Algorithm In The World",
 			"solved_count": 530,
 			"average_try": 1.4151
-		},
-		{
-			"id": 5524,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc785\uc2e4 \uad00\ub9ac",
-			"solved_count": 2034,
-			"average_try": 1.233
 		}
 	],
-	"last_updated": "Wed Nov  9 21:41:22 2022"
+	"last_updated": "Thu Nov 10 21:40:27 2022"
 }
