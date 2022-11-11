@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 1362,
+			"level": 4,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud3ab",
+			"solved_count": 584,
+			"average_try": 4.0976
+		},
+		{
 			"id": 21591,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ud584\ubc84\uac70 \ub9cc\ub4e4\uae30",
 			"solved_count": 801,
 			"average_try": 1.2921
-		},
-		{
-			"id": 23235,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "The Fastest Sorting Algorithm In The World",
-			"solved_count": 530,
-			"average_try": 1.4151
 		}
 	],
-	"last_updated": "Thu Nov 10 21:40:27 2022"
+	"last_updated": "Fri Nov 11 21:39:38 2022"
 }
