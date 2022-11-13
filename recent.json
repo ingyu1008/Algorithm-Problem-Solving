@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 8718,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Ba\u0142wanek",
+			"solved_count": 828,
+			"average_try": 2.4674
+		},
+		{
 			"id": 16099,
 			"level": 1,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Pizza Deal",
 			"solved_count": 836,
 			"average_try": 2.1184
-		},
-		{
-			"id": 21612,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Boiling Water",
-			"solved_count": 827,
-			"average_try": 1.4256
 		}
 	],
-	"last_updated": "Sat Nov 12 21:38:43 2022"
+	"last_updated": "Sun Nov 13 21:38:46 2022"
 }
