@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 8718 | [Bałwanek](https://www.acmicpc.net/problem/8718) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 16099 | [Larger Sport Facility](https://www.acmicpc.net/problem/16099) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 1362 | [펫](https://www.acmicpc.net/problem/1362) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
 | 21591 | [Laptop Sticker](https://www.acmicpc.net/problem/21591) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 22015 | [金平糖 (Konpeito)](https://www.acmicpc.net/problem/22015) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 24263 | [알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 16693 | [Pizza Deal](https://www.acmicpc.net/problem/16693) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 21612 | [Boiling Water](https://www.acmicpc.net/problem/21612) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Sat Nov 12 21:39:22 2022
+last updated : Sun Nov 13 21:39:21 2022
 
