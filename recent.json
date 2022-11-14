@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 25377,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ube75",
+			"solved_count": 807,
+			"average_try": 1.6196
+		},
+		{
 			"id": 8718,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc54c\uace0\ub9ac\uc998\uc758 \uc218\ud589 \uc2dc\uac04 2",
 			"solved_count": 594,
 			"average_try": 1.1313
-		},
-		{
-			"id": 16693,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Pizza Deal",
-			"solved_count": 836,
-			"average_try": 2.1184
 		}
 	],
-	"last_updated": "Sun Nov 13 21:38:46 2022"
+	"last_updated": "Mon Nov 14 21:40:13 2022"
 }
