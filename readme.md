@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 16466 | [콘서트](https://www.acmicpc.net/problem/16466) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
 | 16727 | [ICPC](https://www.acmicpc.net/problem/16727) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 25377 | [빵](https://www.acmicpc.net/problem/25377) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 8718 | [Bałwanek](https://www.acmicpc.net/problem/8718) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 15080 | [Every Second Counts](https://www.acmicpc.net/problem/15080) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 9657 | [돌 게임 3](https://www.acmicpc.net/problem/9657) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 3765 | [Celebrity jeopardy](https://www.acmicpc.net/problem/3765) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 22015 | [金平糖 (Konpeito)](https://www.acmicpc.net/problem/22015) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Tue Nov 15 21:38:37 2022
+last updated : Wed Nov 16 21:38:34 2022
 
