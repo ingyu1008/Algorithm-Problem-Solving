@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 4589,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Gnome Sequencing",
+			"solved_count": 762,
+			"average_try": 1.4816
+		},
+		{
 			"id": 20353,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Every Second Counts",
 			"solved_count": 834,
 			"average_try": 1.6775
-		},
-		{
-			"id": 9657,
-			"level": 8,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub3cc \uac8c\uc784 3",
-			"solved_count": 2825,
-			"average_try": 2.0998
 		}
 	],
-	"last_updated": "Thu Nov 17 21:38:04 2022"
+	"last_updated": "Fri Nov 18 21:37:52 2022"
 }
