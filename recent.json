@@ -1,6 +1,33 @@
 {
 	"problems": [
 		{
+			"id": 23863,
+			"level": 24,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Yet Another Minimax Problem",
+			"solved_count": 14,
+			"average_try": 1.6429
+		},
+		{
+			"id": 20232,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Archivist",
+			"solved_count": 750,
+			"average_try": 1.2187
+		},
+		{
+			"id": 17625,
+			"level": 24,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uace0\uc555\uc120",
+			"solved_count": 40,
+			"average_try": 3.875
+		},
+		{
 			"id": 4589,
 			"level": 2,
 			"level_locked": 0,
@@ -62,34 +89,7 @@
 			"title": "Larger Sport Facility",
 			"solved_count": 144,
 			"average_try": 1.7014
-		},
-		{
-			"id": 1362,
-			"level": 4,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud3ab",
-			"solved_count": 584,
-			"average_try": 4.0976
-		},
-		{
-			"id": 21591,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Laptop Sticker",
-			"solved_count": 785,
-			"average_try": 1.3758
-		},
-		{
-			"id": 15080,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Every Second Counts",
-			"solved_count": 834,
-			"average_try": 1.6775
 		}
 	],
-	"last_updated": "Fri Nov 18 21:37:52 2022"
+	"last_updated": "Sat Nov 19 21:37:08 2022"
 }
