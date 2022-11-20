@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 4714,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Lunacy",
+			"solved_count": 747,
+			"average_try": 1.4913
+		},
+		{
 			"id": 23863,
 			"level": 24,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Ba\u0142wanek",
 			"solved_count": 828,
 			"average_try": 2.4674
-		},
-		{
-			"id": 16099,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Larger Sport Facility",
-			"solved_count": 144,
-			"average_try": 1.7014
 		}
 	],
-	"last_updated": "Sat Nov 19 21:37:08 2022"
+	"last_updated": "Sun Nov 20 21:37:06 2022"
 }
