@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 20673,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Covid-19",
+			"solved_count": 733,
+			"average_try": 2.0628
+		},
+		{
 			"id": 14065,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ucf58\uc11c\ud2b8",
 			"solved_count": 689,
 			"average_try": 2.4964
-		},
-		{
-			"id": 16727,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "ICPC",
-			"solved_count": 794,
-			"average_try": 1.5428
 		}
 	],
-	"last_updated": "Mon Nov 21 21:39:07 2022"
+	"last_updated": "Tue Nov 22 21:36:44 2022"
 }
