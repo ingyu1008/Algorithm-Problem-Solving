@@ -1,12 +1,12 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 25953 | [템포럴 그래프](https://www.acmicpc.net/problem/25953) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 19378 | [Shortest Path Queries](https://www.acmicpc.net/problem/19378) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> |  |
+| 18330 | [Petrol](https://www.acmicpc.net/problem/18330) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 12963 | [달리기](https://www.acmicpc.net/problem/12963) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
+| 6594 | [방정식 풀이](https://www.acmicpc.net/problem/6594) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
+| 5255 | [2circles](https://www.acmicpc.net/problem/5255) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> |  |
+| 3903 | [제주도](https://www.acmicpc.net/problem/3903) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
+| 3090 | [차이를 최소로](https://www.acmicpc.net/problem/3090) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
+| 1981 | [배열에서 이동](https://www.acmicpc.net/problem/1981) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
 | 20673 | [Covid-19](https://www.acmicpc.net/problem/20673) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 14065 | [Gorivo](https://www.acmicpc.net/problem/14065) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 1707 | [이분 그래프](https://www.acmicpc.net/problem/1707) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 4714 | [Lunacy](https://www.acmicpc.net/problem/4714) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 23863 | [Yet Another Minimax Problem](https://www.acmicpc.net/problem/23863) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> |  |
-| 20232 | [Archivist](https://www.acmicpc.net/problem/20232) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 17625 | [고압선](https://www.acmicpc.net/problem/17625) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> |  |
-| 4589 | [Gnome Sequencing](https://www.acmicpc.net/problem/4589) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 20353 | [Atrium](https://www.acmicpc.net/problem/20353) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 16466 | [콘서트](https://www.acmicpc.net/problem/16466) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |

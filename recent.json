@@ -1,6 +1,87 @@
 {
 	"problems": [
 		{
+			"id": 25953,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud15c\ud3ec\ub7f4 \uadf8\ub798\ud504",
+			"solved_count": 24,
+			"average_try": 1.625
+		},
+		{
+			"id": 19378,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Shortest Path Queries",
+			"solved_count": 13,
+			"average_try": 2.0769
+		},
+		{
+			"id": 18330,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Petrol",
+			"solved_count": 711,
+			"average_try": 1.3657
+		},
+		{
+			"id": 12963,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub2ec\ub9ac\uae30",
+			"solved_count": 169,
+			"average_try": 1.8166
+		},
+		{
+			"id": 6594,
+			"level": 14,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubc29\uc815\uc2dd \ud480\uc774",
+			"solved_count": 21,
+			"average_try": 3.0952
+		},
+		{
+			"id": 5255,
+			"level": 25,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "2circles",
+			"solved_count": 45,
+			"average_try": 5.1111
+		},
+		{
+			"id": 3903,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc81c\uc8fc\ub3c4",
+			"solved_count": 51,
+			"average_try": 2.5882
+		},
+		{
+			"id": 3090,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ucc28\uc774\ub97c \ucd5c\uc18c\ub85c",
+			"solved_count": 273,
+			"average_try": 3.4066
+		},
+		{
+			"id": 1981,
+			"level": 16,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubc30\uc5f4\uc5d0\uc11c \uc774\ub3d9",
+			"solved_count": 1268,
+			"average_try": 4.1372
+		},
+		{
 			"id": 20673,
 			"level": 2,
 			"level_locked": 0,
@@ -8,88 +89,7 @@
 			"title": "Covid-19",
 			"solved_count": 733,
 			"average_try": 2.0628
-		},
-		{
-			"id": 14065,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Gorivo",
-			"solved_count": 744,
-			"average_try": 2.6263
-		},
-		{
-			"id": 1707,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc774\ubd84 \uadf8\ub798\ud504",
-			"solved_count": 11391,
-			"average_try": 4.2539
-		},
-		{
-			"id": 4714,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Lunacy",
-			"solved_count": 747,
-			"average_try": 1.4913
-		},
-		{
-			"id": 23863,
-			"level": 24,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Yet Another Minimax Problem",
-			"solved_count": 14,
-			"average_try": 1.6429
-		},
-		{
-			"id": 20232,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Archivist",
-			"solved_count": 750,
-			"average_try": 1.2187
-		},
-		{
-			"id": 17625,
-			"level": 24,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uace0\uc555\uc120",
-			"solved_count": 40,
-			"average_try": 3.875
-		},
-		{
-			"id": 4589,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Gnome Sequencing",
-			"solved_count": 762,
-			"average_try": 1.4816
-		},
-		{
-			"id": 20353,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Atrium",
-			"solved_count": 773,
-			"average_try": 1.1902
-		},
-		{
-			"id": 16466,
-			"level": 5,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ucf58\uc11c\ud2b8",
-			"solved_count": 689,
-			"average_try": 2.4964
 		}
 	],
-	"last_updated": "Tue Nov 22 21:36:44 2022"
+	"last_updated": "Wed Nov 23 22:53:15 2022"
 }
