@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 8674,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Tabliczka",
+			"solved_count": 704,
+			"average_try": 1.9048
+		},
+		{
 			"id": 25953,
 			"level": 13,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ubc30\uc5f4\uc5d0\uc11c \uc774\ub3d9",
 			"solved_count": 1268,
 			"average_try": 4.1372
-		},
-		{
-			"id": 20673,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Covid-19",
-			"solved_count": 733,
-			"average_try": 2.0628
 		}
 	],
-	"last_updated": "Wed Nov 23 22:53:15 2022"
+	"last_updated": "Thu Nov 24 21:36:25 2022"
 }
