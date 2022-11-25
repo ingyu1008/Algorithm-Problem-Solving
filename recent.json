@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 13623,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Zero or One",
+			"solved_count": 708,
+			"average_try": 1.1568
+		},
+		{
 			"id": 8674,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ucc28\uc774\ub97c \ucd5c\uc18c\ub85c",
 			"solved_count": 273,
 			"average_try": 3.4066
-		},
-		{
-			"id": 1981,
-			"level": 16,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubc30\uc5f4\uc5d0\uc11c \uc774\ub3d9",
-			"solved_count": 1268,
-			"average_try": 4.1372
 		}
 	],
-	"last_updated": "Thu Nov 24 21:36:25 2022"
+	"last_updated": "Fri Nov 25 21:36:42 2022"
 }
