@@ -10,6 +10,7 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 15128 | [Congruent Numbers](https://www.acmicpc.net/problem/15128) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 13623 | [Zero or One](https://www.acmicpc.net/problem/13623) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 8674 | [Tabliczka](https://www.acmicpc.net/problem/8674) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 25953 | [템포럴 그래프](https://www.acmicpc.net/problem/25953) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 142
 | 6594 | [방정식 풀이](https://www.acmicpc.net/problem/6594) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
 | 5255 | [2circles](https://www.acmicpc.net/problem/5255) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> |  |
 | 3903 | [제주도](https://www.acmicpc.net/problem/3903) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
-| 3090 | [차이를 최소로](https://www.acmicpc.net/problem/3090) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
 
 
 ---
 
-last updated : Fri Nov 25 21:37:30 2022
+last updated : Sat Nov 26 21:36:59 2022
 
