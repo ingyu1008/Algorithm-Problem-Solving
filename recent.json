@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 15128,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Congruent Numbers",
+			"solved_count": 698,
+			"average_try": 2.4083
+		},
+		{
 			"id": 13623,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc81c\uc8fc\ub3c4",
 			"solved_count": 51,
 			"average_try": 2.5882
-		},
-		{
-			"id": 3090,
-			"level": 18,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ucc28\uc774\ub97c \ucd5c\uc18c\ub85c",
-			"solved_count": 273,
-			"average_try": 3.4066
 		}
 	],
-	"last_updated": "Fri Nov 25 21:36:42 2022"
+	"last_updated": "Sat Nov 26 21:36:24 2022"
 }
