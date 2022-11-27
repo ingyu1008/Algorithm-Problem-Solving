@@ -10,6 +10,8 @@ BOJ Problem Count = 142
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 20352 | [Circus](https://www.acmicpc.net/problem/20352) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 14939 | [불 끄기](https://www.acmicpc.net/problem/14939) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
 | 15128 | [Congruent Numbers](https://www.acmicpc.net/problem/15128) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 13623 | [Zero or One](https://www.acmicpc.net/problem/13623) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 8674 | [Tabliczka](https://www.acmicpc.net/problem/8674) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -18,11 +20,9 @@ BOJ Problem Count = 142
 | 18330 | [Petrol](https://www.acmicpc.net/problem/18330) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 12963 | [달리기](https://www.acmicpc.net/problem/12963) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
 | 6594 | [방정식 풀이](https://www.acmicpc.net/problem/6594) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
-| 5255 | [2circles](https://www.acmicpc.net/problem/5255) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/25.svg"/> |  |
-| 3903 | [제주도](https://www.acmicpc.net/problem/3903) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 
 
 ---
 
-last updated : Sat Nov 26 21:36:59 2022
+last updated : Sun Nov 27 21:37:19 2022
 
