@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 26082,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "WARBOY",
+			"solved_count": 378,
+			"average_try": 1.2169
+		},
+		{
 			"id": 20352,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ub2ec\ub9ac\uae30",
 			"solved_count": 169,
 			"average_try": 1.8166
-		},
-		{
-			"id": 6594,
-			"level": 14,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubc29\uc815\uc2dd \ud480\uc774",
-			"solved_count": 21,
-			"average_try": 3.0952
 		}
 	],
-	"last_updated": "Sun Nov 27 21:36:41 2022"
+	"last_updated": "Mon Nov 28 21:36:54 2022"
 }
