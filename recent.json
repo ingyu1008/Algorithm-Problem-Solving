@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 26068,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uce58\ud0a8\ub304\uc2a4\ub97c \ucd94\ub294 \uacf0\uacf0\uc774\ub97c \ubcf8 \uc784\uc2a4 2",
+			"solved_count": 701,
+			"average_try": 1.3181
+		},
+		{
 			"id": 26082,
 			"level": 1,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Petrol",
 			"solved_count": 711,
 			"average_try": 1.3657
-		},
-		{
-			"id": 12963,
-			"level": 18,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub2ec\ub9ac\uae30",
-			"solved_count": 169,
-			"average_try": 1.8166
 		}
 	],
-	"last_updated": "Mon Nov 28 21:36:54 2022"
+	"last_updated": "Tue Nov 29 21:36:50 2022"
 }
