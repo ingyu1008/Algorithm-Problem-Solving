@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 25704,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ucd9c\uc11d \uc774\ubca4\ud2b8",
+			"solved_count": 631,
+			"average_try": 2.3074
+		},
+		{
 			"id": 25703,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "WARBOY",
 			"solved_count": 378,
 			"average_try": 1.2169
-		},
-		{
-			"id": 20352,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Circus",
-			"solved_count": 691,
-			"average_try": 1.1795
 		}
 	],
-	"last_updated": "Wed Nov 30 21:36:45 2022"
+	"last_updated": "Thu Dec  1 21:36:43 2022"
 }
