@@ -1,6 +1,33 @@
 {
 	"problems": [
 		{
+			"id": 25591,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud478\uc559\uc774\uc640 \uc885\uc724\uc774",
+			"solved_count": 661,
+			"average_try": 1.2738
+		},
+		{
+			"id": 6531,
+			"level": 16,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc774\ub7f0 \ubb38\uc81c\ub294 \uc720\uce58\uc6d0\uc0dd\ub3c4 \ud574\uacb0\ud560 \uc218 \uc788\uc5b4",
+			"solved_count": 55,
+			"average_try": 2.4909
+		},
+		{
+			"id": 2844,
+			"level": 24,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc790\ub8cc \uad6c\uc870",
+			"solved_count": 41,
+			"average_try": 5.5122
+		},
+		{
 			"id": 25704,
 			"level": 2,
 			"level_locked": 0,
@@ -62,34 +89,7 @@
 			"title": "\ud589\ub82c",
 			"solved_count": 5700,
 			"average_try": 2.426
-		},
-		{
-			"id": 1068,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud2b8\ub9ac",
-			"solved_count": 8156,
-			"average_try": 3.5886
-		},
-		{
-			"id": 26068,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uce58\ud0a8\ub304\uc2a4\ub97c \ucd94\ub294 \uacf0\uacf0\uc774\ub97c \ubcf8 \uc784\uc2a4 2",
-			"solved_count": 701,
-			"average_try": 1.3181
-		},
-		{
-			"id": 26082,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "WARBOY",
-			"solved_count": 378,
-			"average_try": 1.2169
 		}
 	],
-	"last_updated": "Fri Dec  2 05:38:34 2022"
+	"last_updated": "Fri Dec  2 21:36:32 2022"
 }
