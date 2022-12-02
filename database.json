@@ -4524,7 +4524,7 @@
 			},
 			{
 				"id": 10050,
-				"level": 26,
+				"level": 25,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ube14\ub85d",
@@ -5136,7 +5136,7 @@
 			},
 			{
 				"id": 10953,
-				"level": 3,
+				"level": 4,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "A+B - 6",
@@ -10783,8 +10783,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uce58\ud0a8\ub304\uc2a4\ub97c \ucd94\ub294 \uacf0\uacf0\uc774\ub97c \ubcf8 \uc784\uc2a4 2",
-				"solved_count": 755,
-				"average_try": 1.3113
+				"solved_count": 756,
+				"average_try": 1.3108
 			},
 			{
 				"id": 26082,
@@ -10792,10 +10792,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "WARBOY",
-				"solved_count": 567,
-				"average_try": 1.231
+				"solved_count": 570,
+				"average_try": 1.2298
 			}
 		]
 	},
-	"last_updated": "Thu Dec  1 21:36:43 2022"
+	"last_updated": "Fri Dec  2 05:38:34 2022"
 }
