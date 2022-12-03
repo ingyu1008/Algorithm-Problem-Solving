@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1202,
+		"total_problems": 1204,
 		"total_page": 1,
 		"problems": [
 			{
@@ -8960,6 +8960,15 @@
 				"average_try": 2.9286
 			},
 			{
+				"id": 18123,
+				"level": 22,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud3c9\ud589\uc6b0\uc8fc",
+				"solved_count": 87,
+				"average_try": 5.6092
+			},
+			{
 				"id": 18138,
 				"level": 17,
 				"level_locked": 0,
@@ -10292,6 +10301,15 @@
 				"average_try": 1.1645
 			},
 			{
+				"id": 24087,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0 (Ice Cream)",
+				"solved_count": 508,
+				"average_try": 1.5453
+			},
+			{
 				"id": 24262,
 				"level": 1,
 				"level_locked": 0,
@@ -10752,7 +10770,7 @@
 			},
 			{
 				"id": 25639,
-				"level": 19,
+				"level": 20,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218\uc5f4\uacfc \ucd5c\ub300 \uc0c1\uc2b9 \ucffc\ub9ac",
@@ -10810,8 +10828,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uce58\ud0a8\ub304\uc2a4\ub97c \ucd94\ub294 \uacf0\uacf0\uc774\ub97c \ubcf8 \uc784\uc2a4 2",
-				"solved_count": 769,
-				"average_try": 1.329
+				"solved_count": 772,
+				"average_try": 1.3277
 			},
 			{
 				"id": 26082,
@@ -10819,10 +10837,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "WARBOY",
-				"solved_count": 586,
-				"average_try": 1.2321
+				"solved_count": 589,
+				"average_try": 1.2309
 			}
 		]
 	},
-	"last_updated": "Fri Dec  2 21:36:32 2022"
+	"last_updated": "Sat Dec  3 06:37:32 2022"
 }
