@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 15773,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Touch The Sky",
+			"solved_count": 146,
+			"average_try": 3.8219
+		},
+		{
 			"id": 24087,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uac00\uc6b4\ub370\ub97c \ub9d0\ud574\uc694",
 			"solved_count": 10027,
 			"average_try": 3.2655
-		},
-		{
-			"id": 1644,
-			"level": 13,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc18c\uc218\uc758 \uc5f0\uc18d\ud569",
-			"solved_count": 9002,
-			"average_try": 2.4046
 		}
 	],
-	"last_updated": "Sat Dec  3 06:37:32 2022"
+	"last_updated": "Sat Dec  3 07:26:16 2022"
 }
