@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 8131,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Ploughing",
+			"solved_count": 79,
+			"average_try": 5.443
+		},
+		{
 			"id": 15773,
 			"level": 22,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ub450 \uc218\uc758 \ud569",
 			"solved_count": 7448,
 			"average_try": 2.8111
-		},
-		{
-			"id": 1655,
-			"level": 14,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uac00\uc6b4\ub370\ub97c \ub9d0\ud574\uc694",
-			"solved_count": 10027,
-			"average_try": 3.2655
 		}
 	],
-	"last_updated": "Sat Dec  3 21:36:35 2022"
+	"last_updated": "Sun Dec  4 21:36:39 2022"
 }
