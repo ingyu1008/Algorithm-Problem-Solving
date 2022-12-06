@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 20233,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Bicycle",
+			"solved_count": 684,
+			"average_try": 1.3129
+		},
+		{
 			"id": 26209,
 			"level": 1,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc774\ub7f0 \ubb38\uc81c\ub294 \uc720\uce58\uc6d0\uc0dd\ub3c4 \ud574\uacb0\ud560 \uc218 \uc788\uc5b4",
 			"solved_count": 55,
 			"average_try": 2.4909
-		},
-		{
-			"id": 2844,
-			"level": 24,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc790\ub8cc \uad6c\uc870",
-			"solved_count": 41,
-			"average_try": 5.5122
 		}
 	],
-	"last_updated": "Mon Dec  5 21:36:47 2022"
+	"last_updated": "Tue Dec  6 21:36:36 2022"
 }
