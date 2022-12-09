@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 20215,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Cutting Corners",
+			"solved_count": 670,
+			"average_try": 1.1239
+		},
+		{
 			"id": 18398,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ud30c\ud2f0",
 			"solved_count": 462,
 			"average_try": 1.9827
-		},
-		{
-			"id": 8131,
-			"level": 23,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Ploughing",
-			"solved_count": 79,
-			"average_try": 5.443
 		}
 	],
-	"last_updated": "Thu Dec  8 21:36:35 2022"
+	"last_updated": "Fri Dec  9 21:36:51 2022"
 }
