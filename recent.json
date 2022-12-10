@@ -1,6 +1,60 @@
 {
 	"problems": [
 		{
+			"id": 23572,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Logistical Warehouse 2",
+			"solved_count": 74,
+			"average_try": 2.6486
+		},
+		{
+			"id": 20188,
+			"level": 16,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub4f1\uc0b0 \ub9c8\ub2c8\uc544",
+			"solved_count": 351,
+			"average_try": 2.4131
+		},
+		{
+			"id": 15647,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub85c\uc2a4\ud305\ud558\ub294 \uc5e0\ub9c8\ub3c4 \ubc14\ub9ac\uc2a4\ud0c0\uc785\ub2c8\ub2e4",
+			"solved_count": 102,
+			"average_try": 1.9608
+		},
+		{
+			"id": 7595,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Triangles",
+			"solved_count": 673,
+			"average_try": 1.1724
+		},
+		{
+			"id": 2533,
+			"level": 13,
+			"level_locked": 1,
+			"solvable": 1,
+			"title": "\uc0ac\ud68c\ub9dd \uc11c\ube44\uc2a4(SNS)",
+			"solved_count": 4078,
+			"average_try": 2.7692
+		},
+		{
+			"id": 1135,
+			"level": 14,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub274\uc2a4 \uc804\ud558\uae30",
+			"solved_count": 1000,
+			"average_try": 2.268
+		},
+		{
 			"id": 20215,
 			"level": 2,
 			"level_locked": 0,
@@ -35,61 +89,7 @@
 			"title": "\ub098\ubb34 \uc790\ub974\uae30",
 			"solved_count": 569,
 			"average_try": 2.522
-		},
-		{
-			"id": 4008,
-			"level": 21,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud2b9\uacf5\ub300",
-			"solved_count": 594,
-			"average_try": 2.8131
-		},
-		{
-			"id": 3408,
-			"level": 22,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Non-boring sequences",
-			"solved_count": 183,
-			"average_try": 3.1038
-		},
-		{
-			"id": 20233,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Bicycle",
-			"solved_count": 684,
-			"average_try": 1.3129
-		},
-		{
-			"id": 26209,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Intercepting Information",
-			"solved_count": 224,
-			"average_try": 1.2054
-		},
-		{
-			"id": 13161,
-			"level": 20,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubd84\ub2e8\uc758 \uc2ac\ud514",
-			"solved_count": 341,
-			"average_try": 4.2522
-		},
-		{
-			"id": 2367,
-			"level": 17,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud30c\ud2f0",
-			"solved_count": 462,
-			"average_try": 1.9827
 		}
 	],
-	"last_updated": "Fri Dec  9 21:36:51 2022"
+	"last_updated": "Sat Dec 10 21:36:31 2022"
 }
