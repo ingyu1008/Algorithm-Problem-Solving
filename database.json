@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1224,
+		"total_problems": 1228,
 		"total_page": 1,
 		"problems": [
 			{
@@ -3884,6 +3884,15 @@
 				"average_try": 2.2938
 			},
 			{
+				"id": 6588,
+				"level": 10,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uace8\ub4dc\ubc14\ud750\uc758 \ucd94\uce21",
+				"solved_count": 11369,
+				"average_try": 3.9056
+			},
+			{
 				"id": 6594,
 				"level": 14,
 				"level_locked": 0,
@@ -4893,7 +4902,7 @@
 			},
 			{
 				"id": 10799,
-				"level": 8,
+				"level": 9,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc1e0\ub9c9\ub300\uae30",
@@ -6132,6 +6141,15 @@
 				"title": "\uc218 \uc815\ub82c\ud558\uae30 4",
 				"solved_count": 4752,
 				"average_try": 1.8121
+			},
+			{
+				"id": 11933,
+				"level": 22,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uacf5\uc7a5\ub4e4",
+				"solved_count": 85,
+				"average_try": 3.9647
 			},
 			{
 				"id": 11942,
@@ -7977,6 +7995,15 @@
 				"title": "Larger Sport Facility",
 				"solved_count": 426,
 				"average_try": 1.8357
+			},
+			{
+				"id": 16121,
+				"level": 21,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc0ac\ubb34\uc2e4 \uc774\uc804",
+				"solved_count": 115,
+				"average_try": 3.2522
 			},
 			{
 				"id": 16163,
@@ -10031,6 +10058,15 @@
 				"average_try": 1.1521
 			},
 			{
+				"id": 21335,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Another Eruption",
+				"solved_count": 643,
+				"average_try": 1.2162
+			},
+			{
 				"id": 21553,
 				"level": 3,
 				"level_locked": 0,
@@ -11008,8 +11044,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Intercepting Information",
-				"solved_count": 337,
-				"average_try": 1.2493
+				"solved_count": 345,
+				"average_try": 1.2638
 			},
 			{
 				"id": 26215,
@@ -11017,10 +11053,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub208 \uce58\uc6b0\uae30",
-				"solved_count": 442,
-				"average_try": 2.3462
+				"solved_count": 477,
+				"average_try": 2.3732
 			}
 		]
 	},
-	"last_updated": "Sun Dec 11 21:36:36 2022"
+	"last_updated": "Mon Dec 12 21:36:35 2022"
 }
