@@ -3,7 +3,6 @@ Problem Solving / Competitive Programming Template
 
 Code by MatWhyTle(ingyu1008)
 ********************************************************************/
-
 //#pragma GCC optimize("O3")
 //#pragma GCC target("avx2")
 //#pragma GCC optimize("unroll-loops")

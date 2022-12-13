@@ -14,8 +14,8 @@ Code by MatWhyTle(ingyu1008)
 #include <set>
 
 typedef long long ll;
-typedef std::pair<int,int> pii;
-typedef std::pair<ll,ll> pll;
+typedef std::pair<int, int> pii;
+typedef std::pair<ll, ll> pll;
 typedef std::vector<pii> vpii;
 
 ll mod = 1e9 + 7;
@@ -55,11 +55,41 @@ int main(void)
     std::cin.tie(0);
     std::ios_base::sync_with_stdio(false);
 
-    int T;
-    std::cin >> T;
-	while (T--)
-	{
-		
+    std::string s;
+    std::cin >> s;
+
+    int o = 0, x = 0, q = 0;
+
+    for (int i = 0; i < s.size(); i++)
+    {
+        o += s[i] == 'o';
+        x += s[i] == 'x';
+        q += s[i] == '?';
+    }
+
+    if (o > 4)
+    {
+        std::cout << 0;
+    }
+    else if (o == 4)
+    {
+        std::cout << 24;
+    }
+    else if (o == 3)
+    {
+        std::cout << 24 * q + 6 * 3 * 2;
+    }
+    else if (o == 2)
+    {
+        std::cout << 12 * q * (q - 1) + 6 * 3 * 2 * q + (6 + 4 * 2);
+    }
+    else if (o == 1)
+    {
+        std::cout << 4 * q * (q - 1) * (q - 2) + 6 * 3 * 2 * q * (q - 1) / 2 + (6 + 4 * 2) * q + 1;
+    }
+    else
+    {
+        std::cout << q * (q - 1) * (q - 2) * (q - 3) + 6 * 3 * 2 * q * (q - 1) * (q - 2) / 6 + (6 + 4 * 2) * q * (q - 1) / 2 + q;
     }
 
     return 0;

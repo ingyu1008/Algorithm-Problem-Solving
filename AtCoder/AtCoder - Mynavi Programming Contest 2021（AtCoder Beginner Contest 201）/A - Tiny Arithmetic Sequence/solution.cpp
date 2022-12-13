@@ -7,15 +7,15 @@ Code by MatWhyTle(ingyu1008)
 //#pragma GCC optimize("O3")
 //#pragma GCC target("avx2")
 //#pragma GCC optimize("unroll-loops")
-#include <iostream>
-#include <vector>
+#include <iostream> 
+#include <vector> 
 #include <algorithm>
 #include <map>
 #include <set>
 
 typedef long long ll;
 typedef std::pair<int,int> pii;
-typedef std::pair<ll,ll> pll;
+typedef std::pair<ll,ll> pll; 
 typedef std::vector<pii> vpii;
 
 ll mod = 1e9 + 7;
@@ -55,12 +55,10 @@ int main(void)
     std::cin.tie(0);
     std::ios_base::sync_with_stdio(false);
 
-    int T;
-    std::cin >> T;
-	while (T--)
-	{
-		
-    }
+    int A, B, C;
+    std::cin >> A >> B >> C;
+
+    std::cout << ((A+B == 2*C || A+C == 2*B || B+C == 2*A)?"Yes\n":"No\n");
 
     return 0;
 }
