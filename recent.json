@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 26307,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Correct",
+			"solved_count": 206,
+			"average_try": 1.1117
+		},
+		{
 			"id": 2630,
 			"level": 9,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Logistical Warehouse 2",
 			"solved_count": 74,
 			"average_try": 2.6486
-		},
-		{
-			"id": 20188,
-			"level": 16,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub4f1\uc0b0 \ub9c8\ub2c8\uc544",
-			"solved_count": 351,
-			"average_try": 2.4131
 		}
 	],
-	"last_updated": "Tue Dec 13 21:36:45 2022"
+	"last_updated": "Wed Dec 14 21:36:45 2022"
 }

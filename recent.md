@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 26307 | [Correct](https://www.acmicpc.net/problem/26307) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
 | 2004 | [조합 0의 개수](https://www.acmicpc.net/problem/2004) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
 | 21335 | [Another Eruption](https://www.acmicpc.net/problem/21335) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -9,4 +10,3 @@
 | 26215 | [눈 치우기](https://www.acmicpc.net/problem/26215) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 8558 | [Silnia](https://www.acmicpc.net/problem/8558) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 23572 | [Logistical Warehouse 2](https://www.acmicpc.net/problem/23572) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
-| 20188 | [등산 마니아](https://www.acmicpc.net/problem/20188) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/등산 마니아/solution.cpp>) |
