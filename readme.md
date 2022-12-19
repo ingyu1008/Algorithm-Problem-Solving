@@ -10,19 +10,19 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 26145 | [출제비 재분배](https://www.acmicpc.net/problem/26145) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
+| 10971 | [외판원 순회 2](https://www.acmicpc.net/problem/10971) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
+| 10189 | [Hook](https://www.acmicpc.net/problem/10189) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 5341 | [Pyramids](https://www.acmicpc.net/problem/5341) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
+| 1935 | [후위 표기식2](https://www.acmicpc.net/problem/1935) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
+| 1213 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 17219 | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 15656 | [N과 M (7)](https://www.acmicpc.net/problem/15656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 1946 | [신입 사원](https://www.acmicpc.net/problem/1946) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
-| 1850 | [최대공약수](https://www.acmicpc.net/problem/1850) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
-| 1302 | [베스트셀러](https://www.acmicpc.net/problem/1302) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
-| 26264 | [빅데이터? 정보보호!](https://www.acmicpc.net/problem/26264) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 24083 | [短針 (Hour Hand)](https://www.acmicpc.net/problem/24083) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 24079 | [移動 (Moving)](https://www.acmicpc.net/problem/24079) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 24075 | [計算 (Calculation)](https://www.acmicpc.net/problem/24075) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 21354 | [Äpplen och päron](https://www.acmicpc.net/problem/21354) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Sun Dec 18 21:36:51 2022
+last updated : Mon Dec 19 21:37:25 2022
 
