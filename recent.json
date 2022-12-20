@@ -1,6 +1,60 @@
 {
 	"problems": [
 		{
+			"id": 26574,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Copier",
+			"solved_count": 184,
+			"average_try": 1.1739
+		},
+		{
+			"id": 26545,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Mathematics",
+			"solved_count": 172,
+			"average_try": 1.1686
+		},
+		{
+			"id": 26489,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Gum Gum for Jay Jay",
+			"solved_count": 161,
+			"average_try": 1.6335
+		},
+		{
+			"id": 17903,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Counting Clauses",
+			"solved_count": 583,
+			"average_try": 1.4202
+		},
+		{
+			"id": 15372,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "A Simple Problem.",
+			"solved_count": 569,
+			"average_try": 2.5167
+		},
+		{
+			"id": 1809,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Moo",
+			"solved_count": 118,
+			"average_try": 3.0508
+		},
+		{
 			"id": 26145,
 			"level": 3,
 			"level_locked": 0,
@@ -35,61 +89,7 @@
 			"title": "Pyramids",
 			"solved_count": 229,
 			"average_try": 1.1572
-		},
-		{
-			"id": 2630,
-			"level": 9,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc0c9\uc885\uc774 \ub9cc\ub4e4\uae30",
-			"solved_count": 15721,
-			"average_try": 1.4524
-		},
-		{
-			"id": 1935,
-			"level": 8,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud6c4\uc704 \ud45c\uae30\uc2dd2",
-			"solved_count": 6682,
-			"average_try": 2.0533
-		},
-		{
-			"id": 1213,
-			"level": 8,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud330\ub9b0\ub4dc\ub86c \ub9cc\ub4e4\uae30",
-			"solved_count": 4854,
-			"average_try": 2.4883
-		},
-		{
-			"id": 17219,
-			"level": 7,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ube44\ubc00\ubc88\ud638 \ucc3e\uae30",
-			"solved_count": 7202,
-			"average_try": 1.4157
-		},
-		{
-			"id": 15656,
-			"level": 8,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "N\uacfc M (7)",
-			"solved_count": 9120,
-			"average_try": 1.2644
-		},
-		{
-			"id": 1946,
-			"level": 10,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc2e0\uc785 \uc0ac\uc6d0",
-			"solved_count": 10725,
-			"average_try": 3.1203
 		}
 	],
-	"last_updated": "Mon Dec 19 21:36:43 2022"
+	"last_updated": "Tue Dec 20 21:36:28 2022"
 }
