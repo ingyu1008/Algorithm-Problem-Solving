@@ -1,6 +1,60 @@
 {
 	"problems": [
 		{
+			"id": 26711,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "A+B",
+			"solved_count": 228,
+			"average_try": 1.4518
+		},
+		{
+			"id": 26645,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc131\uc7a5\uc758 \ube44\uc57d \uc120\ud0dd\uad8c",
+			"solved_count": 257,
+			"average_try": 2.0428
+		},
+		{
+			"id": 26575,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Pups",
+			"solved_count": 140,
+			"average_try": 1.6
+		},
+		{
+			"id": 18880,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Social Distancing I",
+			"solved_count": 124,
+			"average_try": 4.9919
+		},
+		{
+			"id": 2377,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Pottery",
+			"solved_count": 97,
+			"average_try": 2.0412
+		},
+		{
+			"id": 2372,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Livestock Count",
+			"solved_count": 113,
+			"average_try": 2.292
+		},
+		{
 			"id": 17413,
 			"level": 8,
 			"level_locked": 0,
@@ -35,61 +89,7 @@
 			"title": "\uc218\uc5f4",
 			"solved_count": 8060,
 			"average_try": 2.7517
-		},
-		{
-			"id": 2504,
-			"level": 10,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uad04\ud638\uc758 \uac12",
-			"solved_count": 8831,
-			"average_try": 3.4125
-		},
-		{
-			"id": 25756,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubc29\uc5b4\uc728 \ubb34\uc2dc \uacc4\uc0b0\ud558\uae30",
-			"solved_count": 363,
-			"average_try": 1.7879
-		},
-		{
-			"id": 24365,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u041f\u0427\u0415\u041b\u0418\u0427\u041a\u0410\u0422\u0410 \u041c\u0410\u042f",
-			"solved_count": 395,
-			"average_try": 1.4354
-		},
-		{
-			"id": 24072,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u5e30\u7701 (Homecoming)",
-			"solved_count": 530,
-			"average_try": 1.5208
-		},
-		{
-			"id": 23375,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Arm Coordination",
-			"solved_count": 456,
-			"average_try": 1.3202
-		},
-		{
-			"id": 4696,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "St. Ives",
-			"solved_count": 499,
-			"average_try": 1.483
 		}
 	],
-	"last_updated": "Thu Dec 22 21:36:51 2022"
+	"last_updated": "Fri Dec 23 21:36:30 2022"
 }
