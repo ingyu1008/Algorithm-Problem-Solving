@@ -1,6 +1,51 @@
 {
 	"problems": [
 		{
+			"id": 10833,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc0ac\uacfc",
+			"solved_count": 7206,
+			"average_try": 1.2072
+		},
+		{
+			"id": 5063,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "TGN",
+			"solved_count": 7382,
+			"average_try": 1.4237
+		},
+		{
+			"id": 2875,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub300\ud68c or \uc778\ud134",
+			"solved_count": 8574,
+			"average_try": 2.3044
+		},
+		{
+			"id": 2460,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc9c0\ub2a5\ud615 \uae30\ucc28 2",
+			"solved_count": 7896,
+			"average_try": 1.2171
+		},
+		{
+			"id": 2010,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud50c\ub7ec\uadf8",
+			"solved_count": 8627,
+			"average_try": 1.7541
+		},
+		{
 			"id": 26711,
 			"level": 1,
 			"level_locked": 0,
@@ -44,52 +89,7 @@
 			"title": "Pottery",
 			"solved_count": 97,
 			"average_try": 2.0412
-		},
-		{
-			"id": 2372,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Livestock Count",
-			"solved_count": 113,
-			"average_try": 2.292
-		},
-		{
-			"id": 17413,
-			"level": 8,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub2e8\uc5b4 \ub4a4\uc9d1\uae30 2",
-			"solved_count": 8556,
-			"average_try": 1.7648
-		},
-		{
-			"id": 5397,
-			"level": 9,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud0a4\ub85c\uac70",
-			"solved_count": 7974,
-			"average_try": 3.9204
-		},
-		{
-			"id": 5014,
-			"level": 10,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc2a4\ud0c0\ud2b8\ub9c1\ud06c",
-			"solved_count": 9147,
-			"average_try": 3.0183
-		},
-		{
-			"id": 2559,
-			"level": 8,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc218\uc5f4",
-			"solved_count": 8060,
-			"average_try": 2.7517
 		}
 	],
-	"last_updated": "Fri Dec 23 21:36:30 2022"
+	"last_updated": "Sat Dec 24 21:36:27 2022"
 }
