@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 20647,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Cowntagion",
+			"solved_count": 172,
+			"average_try": 2.1802
+		},
+		{
 			"id": 10987,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc9c0\ub2a5\ud615 \uae30\ucc28 2",
 			"solved_count": 7896,
 			"average_try": 1.2171
-		},
-		{
-			"id": 2010,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud50c\ub7ec\uadf8",
-			"solved_count": 8627,
-			"average_try": 1.7541
 		}
 	],
-	"last_updated": "Sun Dec 25 21:36:26 2022"
+	"last_updated": "Mon Dec 26 21:36:30 2022"
 }
