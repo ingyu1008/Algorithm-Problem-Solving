@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 10984,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub0b4 \ud559\uc810\uc744 \uad6c\ud574\uc918",
+			"solved_count": 4441,
+			"average_try": 1.558
+		},
+		{
 			"id": 20971,
 			"level": 14,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "TGN",
 			"solved_count": 7382,
 			"average_try": 1.4237
-		},
-		{
-			"id": 2875,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub300\ud68c or \uc778\ud134",
-			"solved_count": 8574,
-			"average_try": 2.3044
 		}
 	],
-	"last_updated": "Tue Dec 27 21:36:25 2022"
+	"last_updated": "Wed Dec 28 21:36:55 2022"
 }
