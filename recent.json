@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 9610,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc0ac\ubd84\uba74",
+			"solved_count": 4788,
+			"average_try": 1.4762
+		},
+		{
 			"id": 10102,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Baseball",
 			"solved_count": 5173,
 			"average_try": 1.9091
-		},
-		{
-			"id": 10103,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc8fc\uc0ac\uc704 \uac8c\uc784",
-			"solved_count": 5371,
-			"average_try": 1.1761
 		}
 	],
-	"last_updated": "Sun Jan  1 21:36:19 2023"
+	"last_updated": "Mon Jan  2 21:36:30 2023"
 }
