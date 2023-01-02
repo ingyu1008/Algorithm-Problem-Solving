@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 9610 | [사분면](https://www.acmicpc.net/problem/9610) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 10102 | [개표](https://www.acmicpc.net/problem/10102) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 9325 | [얼마?](https://www.acmicpc.net/problem/9325) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 2965 | [캥거루 세마리](https://www.acmicpc.net/problem/2965) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 20647 | [Cowntagion](https://www.acmicpc.net/problem/20647) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
 | 10987 | [모음의 개수](https://www.acmicpc.net/problem/10987) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 10214 | [Baseball](https://www.acmicpc.net/problem/10214) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 10103 | [주사위 게임](https://www.acmicpc.net/problem/10103) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 
 
 ---
 
-last updated : Sun Jan  1 21:36:55 2023
+last updated : Mon Jan  2 21:37:04 2023
 
