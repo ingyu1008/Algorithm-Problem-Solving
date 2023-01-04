@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1305,
+		"total_problems": 1306,
 		"total_page": 1,
 		"problems": [
 			{
@@ -3261,6 +3261,15 @@
 				"title": "R2",
 				"solved_count": 22624,
 				"average_try": 1.2754
+			},
+			{
+				"id": 3047,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "ABC",
+				"solved_count": 4435,
+				"average_try": 1.5766
 			},
 			{
 				"id": 3049,
@@ -11751,5 +11760,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Jan  3 21:37:01 2023"
+	"last_updated": "Wed Jan  4 21:36:53 2023"
 }
