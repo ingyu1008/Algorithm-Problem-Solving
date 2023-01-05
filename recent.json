@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 10569,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub2e4\uba74\uccb4",
+			"solved_count": 4340,
+			"average_try": 1.1364
+		},
+		{
 			"id": 3047,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "No Time to Paint",
 			"solved_count": 83,
 			"average_try": 2.3614
-		},
-		{
-			"id": 20647,
-			"level": 13,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Cowntagion",
-			"solved_count": 172,
-			"average_try": 2.1802
 		}
 	],
-	"last_updated": "Wed Jan  4 21:36:53 2023"
+	"last_updated": "Thu Jan  5 21:36:44 2023"
 }
