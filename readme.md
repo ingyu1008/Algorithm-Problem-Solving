@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 10569 | [다면체](https://www.acmicpc.net/problem/10569) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 3047 | [ABC](https://www.acmicpc.net/problem/3047) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 5988 | [홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 9610 | [사분면](https://www.acmicpc.net/problem/9610) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 2720 | [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 10984 | [내 학점을 구해줘](https://www.acmicpc.net/problem/10984) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 20971 | [No Time to Paint](https://www.acmicpc.net/problem/20971) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
-| 20647 | [Cowntagion](https://www.acmicpc.net/problem/20647) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
 
 
 ---
 
-last updated : Wed Jan  4 21:37:31 2023
+last updated : Thu Jan  5 21:37:24 2023
 
