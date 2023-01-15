@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 13752 | [히스토그램](https://www.acmicpc.net/problem/13752) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 27161 | [크레이지 타임](https://www.acmicpc.net/problem/27161) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
 | 27160 | [할리갈리](https://www.acmicpc.net/problem/27160) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
 | 27159 | [노 땡스!](https://www.acmicpc.net/problem/27159) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 4504 | [배수 찾기](https://www.acmicpc.net/problem/4504) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 4458 | [첫 글자를 대문자로](https://www.acmicpc.net/problem/4458) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 3058 | [짝수를 찾아라](https://www.acmicpc.net/problem/3058) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
 
 
 ---
 
-last updated : Sat Jan 14 21:37:08 2023
+last updated : Sun Jan 15 21:36:59 2023
 
