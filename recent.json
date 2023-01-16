@@ -1,6 +1,33 @@
 {
 	"problems": [
 		{
+			"id": 27219,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u0420\u043e\u0431\u0438\u043d\u0437\u043e\u043d \u041a\u0440\u0443\u0437\u043e",
+			"solved_count": 142,
+			"average_try": 1.1056
+		},
+		{
+			"id": 26766,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Serca",
+			"solved_count": 383,
+			"average_try": 1.7755
+		},
+		{
+			"id": 14337,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Helicopter",
+			"solved_count": 203,
+			"average_try": 2.6305
+		},
+		{
 			"id": 13752,
 			"level": 3,
 			"level_locked": 0,
@@ -62,34 +89,7 @@
 			"title": "\uc8fc\uc0ac\uc704",
 			"solved_count": 3883,
 			"average_try": 1.3363
-		},
-		{
-			"id": 4504,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubc30\uc218 \ucc3e\uae30",
-			"solved_count": 4016,
-			"average_try": 1.876
-		},
-		{
-			"id": 4458,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uccab \uae00\uc790\ub97c \ub300\ubb38\uc790\ub85c",
-			"solved_count": 4253,
-			"average_try": 1.9798
-		},
-		{
-			"id": 3058,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc9dd\uc218\ub97c \ucc3e\uc544\ub77c",
-			"solved_count": 4295,
-			"average_try": 1.4151
 		}
 	],
-	"last_updated": "Sun Jan 15 21:36:24 2023"
+	"last_updated": "Mon Jan 16 21:36:43 2023"
 }
