@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 1247 | [부호](https://www.acmicpc.net/problem/1247) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 21638 | [SMS from MCHS](https://www.acmicpc.net/problem/21638) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 27277 | [장기자랑](https://www.acmicpc.net/problem/27277) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 2903 | [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -9,4 +10,3 @@
 | 2959 | [거북이](https://www.acmicpc.net/problem/2959) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 21631 | [Checkers](https://www.acmicpc.net/problem/21631) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 5347 | [LCM](https://www.acmicpc.net/problem/5347) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 1652 | [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |

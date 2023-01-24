@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 1247,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubd80\ud638",
+			"solved_count": 2922,
+			"average_try": 2.7382
+		},
+		{
 			"id": 21638,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "LCM",
 			"solved_count": 2737,
 			"average_try": 1.8407
-		},
-		{
-			"id": 1652,
-			"level": 6,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub204\uc6b8 \uc790\ub9ac\ub97c \ucc3e\uc544\ub77c",
-			"solved_count": 4952,
-			"average_try": 2.419
 		}
 	],
-	"last_updated": "Mon Jan 23 21:36:31 2023"
+	"last_updated": "Tue Jan 24 21:36:52 2023"
 }
