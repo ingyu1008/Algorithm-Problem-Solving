@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1339,
+		"total_problems": 1340,
 		"total_page": 1,
 		"problems": [
 			{
@@ -5118,7 +5118,7 @@
 			},
 			{
 				"id": 10050,
-				"level": 25,
+				"level": 26,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ube14\ub85d",
@@ -9375,7 +9375,7 @@
 			},
 			{
 				"id": 17393,
-				"level": 8,
+				"level": 7,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2e4\uc774\ub098\ubbf9 \ub864\ub7ec",
@@ -11336,6 +11336,15 @@
 				"average_try": 1.5532
 			},
 			{
+				"id": 24183,
+				"level": 2,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "Affischutskicket",
+				"solved_count": 571,
+				"average_try": 1.1979
+			},
+			{
 				"id": 24262,
 				"level": 1,
 				"level_locked": 0,
@@ -12016,8 +12025,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub178 \ub561\uc2a4!",
-				"solved_count": 718,
-				"average_try": 1.1811
+				"solved_count": 721,
+				"average_try": 1.1831
 			},
 			{
 				"id": 27160,
@@ -12043,8 +12052,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u0420\u043e\u0431\u0438\u043d\u0437\u043e\u043d \u041a\u0440\u0443\u0437\u043e",
-				"solved_count": 257,
-				"average_try": 1.1479
+				"solved_count": 271,
+				"average_try": 1.1661
 			},
 			{
 				"id": 27277,
@@ -12052,10 +12061,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc7a5\uae30\uc790\ub791",
-				"solved_count": 112,
-				"average_try": 1.2946
+				"solved_count": 118,
+				"average_try": 1.3305
 			}
 		]
 	},
-	"last_updated": "Tue Jan 24 21:36:52 2023"
+	"last_updated": "Wed Jan 25 21:36:29 2023"
 }
