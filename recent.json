@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 8760,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Schronisko",
+			"solved_count": 559,
+			"average_try": 1.1771
+		},
+		{
 			"id": 24183,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uac70\ubd81\uc774",
 			"solved_count": 3155,
 			"average_try": 1.3658
-		},
-		{
-			"id": 21631,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Checkers",
-			"solved_count": 576,
-			"average_try": 1.5677
 		}
 	],
-	"last_updated": "Wed Jan 25 21:36:29 2023"
+	"last_updated": "Thu Jan 26 21:36:51 2023"
 }
