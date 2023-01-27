@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 25600,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Triathlon",
+			"solved_count": 523,
+			"average_try": 1.1358
+		},
+		{
 			"id": 8760,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc0bc\uac01\ud615\uacfc \uc138 \ubcc0",
 			"solved_count": 2588,
 			"average_try": 1.9061
-		},
-		{
-			"id": 2959,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uac70\ubd81\uc774",
-			"solved_count": 3155,
-			"average_try": 1.3658
 		}
 	],
-	"last_updated": "Thu Jan 26 21:36:51 2023"
+	"last_updated": "Fri Jan 27 21:36:36 2023"
 }
