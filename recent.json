@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 20839,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Betygs\u00e4ttning",
+			"solved_count": 511,
+			"average_try": 2.0881
+		},
+		{
 			"id": 25600,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uace0\uae09 \uc218\ud559",
 			"solved_count": 2040,
 			"average_try": 2.0216
-		},
-		{
-			"id": 5073,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc0bc\uac01\ud615\uacfc \uc138 \ubcc0",
-			"solved_count": 2588,
-			"average_try": 1.9061
 		}
 	],
-	"last_updated": "Fri Jan 27 21:36:36 2023"
+	"last_updated": "Sat Jan 28 21:36:28 2023"
 }
