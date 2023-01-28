@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 20839 | [Betygsättning](https://www.acmicpc.net/problem/20839) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 25600 | [Triathlon](https://www.acmicpc.net/problem/25600) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 8760 | [Schronisko](https://www.acmicpc.net/problem/8760) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 24183 | [Affischutskicket](https://www.acmicpc.net/problem/24183) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 2903 | [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 11966 | [2의 제곱인가?](https://www.acmicpc.net/problem/11966) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 7510 | [고급 수학](https://www.acmicpc.net/problem/7510) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 5073 | [삼각형과 세 변](https://www.acmicpc.net/problem/5073) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 
 
 ---
 
-last updated : Fri Jan 27 21:37:11 2023
+last updated : Sat Jan 28 21:37:14 2023
 
