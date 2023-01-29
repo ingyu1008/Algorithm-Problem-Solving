@@ -10,19 +10,19 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 27331 | [2 桁の整数 (Two-digit Integer)](https://www.acmicpc.net/problem/27331) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 27328 | [三方比較 (Three-Way Comparison)](https://www.acmicpc.net/problem/27328) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 27327 | [時間 (Hour)](https://www.acmicpc.net/problem/27327) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 27324 | [ゾロ目 (Same Numbers)](https://www.acmicpc.net/problem/27324) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 27323 | [長方形 (Rectangle)](https://www.acmicpc.net/problem/27323) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 20833 | [Kuber](https://www.acmicpc.net/problem/20833) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 11257 | [IT Passport Examination](https://www.acmicpc.net/problem/11257) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 20839 | [Betygsättning](https://www.acmicpc.net/problem/20839) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 25600 | [Triathlon](https://www.acmicpc.net/problem/25600) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 8760 | [Schronisko](https://www.acmicpc.net/problem/8760) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 24183 | [Affischutskicket](https://www.acmicpc.net/problem/24183) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 1247 | [부호](https://www.acmicpc.net/problem/1247) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 21638 | [SMS from MCHS](https://www.acmicpc.net/problem/21638) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 27277 | [장기자랑](https://www.acmicpc.net/problem/27277) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
-| 2903 | [중앙 이동 알고리즘](https://www.acmicpc.net/problem/2903) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 11966 | [2의 제곱인가?](https://www.acmicpc.net/problem/11966) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 7510 | [고급 수학](https://www.acmicpc.net/problem/7510) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 
 
 ---
 
-last updated : Sat Jan 28 21:37:14 2023
+last updated : Sun Jan 29 21:36:50 2023
 
