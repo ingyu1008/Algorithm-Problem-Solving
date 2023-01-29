@@ -1,6 +1,69 @@
 {
 	"problems": [
 		{
+			"id": 27331,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "2 \u6841\u306e\u6574\u6570 (Two-digit Integer)",
+			"solved_count": 70,
+			"average_try": 1.0714
+		},
+		{
+			"id": 27328,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u4e09\u65b9\u6bd4\u8f03 (Three-Way Comparison)",
+			"solved_count": 60,
+			"average_try": 1.05
+		},
+		{
+			"id": 27327,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u6642\u9593 (Hour)",
+			"solved_count": 63,
+			"average_try": 1.0476
+		},
+		{
+			"id": 27324,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u30be\u30ed\u76ee (Same Numbers)",
+			"solved_count": 70,
+			"average_try": 1.0714
+		},
+		{
+			"id": 27323,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u9577\u65b9\u5f62 (Rectangle)",
+			"solved_count": 117,
+			"average_try": 1.0769
+		},
+		{
+			"id": 20833,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Kuber",
+			"solved_count": 507,
+			"average_try": 1.1479
+		},
+		{
+			"id": 11257,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "IT Passport Examination",
+			"solved_count": 496,
+			"average_try": 1.6472
+		},
+		{
 			"id": 20839,
 			"level": 2,
 			"level_locked": 0,
@@ -26,70 +89,7 @@
 			"title": "Schronisko",
 			"solved_count": 559,
 			"average_try": 1.1771
-		},
-		{
-			"id": 24183,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Affischutskicket",
-			"solved_count": 571,
-			"average_try": 1.1979
-		},
-		{
-			"id": 1247,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubd80\ud638",
-			"solved_count": 2922,
-			"average_try": 2.7382
-		},
-		{
-			"id": 21638,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "SMS from MCHS",
-			"solved_count": 574,
-			"average_try": 1.6934
-		},
-		{
-			"id": 27277,
-			"level": 7,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc7a5\uae30\uc790\ub791",
-			"solved_count": 69,
-			"average_try": 1.2319
-		},
-		{
-			"id": 2903,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc911\uc559 \uc774\ub3d9 \uc54c\uace0\ub9ac\uc998",
-			"solved_count": 2979,
-			"average_try": 1.5381
-		},
-		{
-			"id": 11966,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "2\uc758 \uc81c\uacf1\uc778\uac00?",
-			"solved_count": 2993,
-			"average_try": 1.5964
-		},
-		{
-			"id": 7510,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uace0\uae09 \uc218\ud559",
-			"solved_count": 2040,
-			"average_try": 2.0216
 		}
 	],
-	"last_updated": "Sat Jan 28 21:36:28 2023"
+	"last_updated": "Sun Jan 29 21:36:14 2023"
 }
