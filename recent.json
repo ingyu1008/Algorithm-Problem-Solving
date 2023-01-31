@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 27294,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uba87\uac1c\uace0?",
+			"solved_count": 629,
+			"average_try": 1.2687
+		},
+		{
 			"id": 27331,
 			"level": 1,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Triathlon",
 			"solved_count": 523,
 			"average_try": 1.1358
-		},
-		{
-			"id": 8760,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Schronisko",
-			"solved_count": 559,
-			"average_try": 1.1771
 		}
 	],
-	"last_updated": "Mon Jan 30 21:37:33 2023"
+	"last_updated": "Tue Jan 31 21:36:50 2023"
 }
