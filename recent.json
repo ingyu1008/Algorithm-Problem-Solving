@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 11121,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Communication Channels",
+			"solved_count": 456,
+			"average_try": 1.8311
+		},
+		{
 			"id": 27294,
 			"level": 1,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Betygs\u00e4ttning",
 			"solved_count": 511,
 			"average_try": 2.0881
-		},
-		{
-			"id": 25600,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Triathlon",
-			"solved_count": 523,
-			"average_try": 1.1358
 		}
 	],
-	"last_updated": "Tue Jan 31 21:36:50 2023"
+	"last_updated": "Wed Feb  1 21:36:49 2023"
 }
