@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 3059,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub4f1\uc7a5\ud558\uc9c0 \uc54a\ub294 \ubb38\uc790\uc758 \ud569",
+			"solved_count": 2809,
+			"average_try": 1.6522
+		},
+		{
 			"id": 10480,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Kuber",
 			"solved_count": 507,
 			"average_try": 1.1479
-		},
-		{
-			"id": 11257,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "IT Passport Examination",
-			"solved_count": 496,
-			"average_try": 1.6472
 		}
 	],
-	"last_updated": "Thu Feb  2 21:36:26 2023"
+	"last_updated": "Fri Feb  3 21:36:31 2023"
 }

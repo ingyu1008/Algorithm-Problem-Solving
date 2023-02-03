@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1353,
+		"total_problems": 1354,
 		"total_page": 1,
 		"problems": [
 			{
@@ -3387,6 +3387,15 @@
 				"title": "\uc9dd\uc218\ub97c \ucc3e\uc544\ub77c",
 				"solved_count": 4394,
 				"average_try": 1.414
+			},
+			{
+				"id": 3059,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ub4f1\uc7a5\ud558\uc9c0 \uc54a\ub294 \ubb38\uc790\uc758 \ud569",
+				"solved_count": 2809,
+				"average_try": 1.6522
 			},
 			{
 				"id": 3067,
@@ -12115,8 +12124,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u0420\u043e\u0431\u0438\u043d\u0437\u043e\u043d \u041a\u0440\u0443\u0437\u043e",
-				"solved_count": 305,
-				"average_try": 1.1541
+				"solved_count": 318,
+				"average_try": 1.1761
 			},
 			{
 				"id": 27277,
@@ -12124,8 +12133,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc7a5\uae30\uc790\ub791",
-				"solved_count": 140,
-				"average_try": 1.3714
+				"solved_count": 141,
+				"average_try": 1.3688
 			},
 			{
 				"id": 27294,
@@ -12133,8 +12142,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uba87\uac1c\uace0?",
-				"solved_count": 728,
-				"average_try": 1.2885
+				"solved_count": 731,
+				"average_try": 1.29
 			},
 			{
 				"id": 27323,
@@ -12142,8 +12151,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u9577\u65b9\u5f62 (Rectangle)",
-				"solved_count": 235,
-				"average_try": 1.1149
+				"solved_count": 241,
+				"average_try": 1.1203
 			},
 			{
 				"id": 27324,
@@ -12151,8 +12160,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30be\u30ed\u76ee (Same Numbers)",
-				"solved_count": 203,
-				"average_try": 1.1429
+				"solved_count": 229,
+				"average_try": 1.1572
 			},
 			{
 				"id": 27327,
@@ -12160,8 +12169,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6642\u9593 (Hour)",
-				"solved_count": 202,
-				"average_try": 1.0545
+				"solved_count": 227,
+				"average_try": 1.0573
 			},
 			{
 				"id": 27328,
@@ -12169,8 +12178,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u4e09\u65b9\u6bd4\u8f03 (Three-Way Comparison)",
-				"solved_count": 188,
-				"average_try": 1.0957
+				"solved_count": 215,
+				"average_try": 1.1256
 			},
 			{
 				"id": 27331,
@@ -12178,10 +12187,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "2 \u6841\u306e\u6574\u6570 (Two-digit Integer)",
-				"solved_count": 188,
-				"average_try": 1.0851
+				"solved_count": 220,
+				"average_try": 1.0773
 			}
 		]
 	},
-	"last_updated": "Thu Feb  2 21:36:26 2023"
+	"last_updated": "Fri Feb  3 21:36:31 2023"
 }
