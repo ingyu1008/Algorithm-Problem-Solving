@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 14720,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc6b0\uc720 \ucd95\uc81c",
+			"solved_count": 2748,
+			"average_try": 1.6266
+		},
+		{
 			"id": 3059,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\u9577\u65b9\u5f62 (Rectangle)",
 			"solved_count": 117,
 			"average_try": 1.0769
-		},
-		{
-			"id": 20833,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Kuber",
-			"solved_count": 507,
-			"average_try": 1.1479
 		}
 	],
-	"last_updated": "Fri Feb  3 21:36:31 2023"
+	"last_updated": "Sat Feb  4 21:36:27 2023"
 }
