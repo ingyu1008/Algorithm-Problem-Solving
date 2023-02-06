@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 27433 | [팩토리얼 2](https://www.acmicpc.net/problem/27433) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 11006 | [남욱이의 닭장](https://www.acmicpc.net/problem/11006) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 14720 | [우유 축제](https://www.acmicpc.net/problem/14720) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 3059 | [등장하지 않는 문자의 합](https://www.acmicpc.net/problem/3059) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 27331 | [2 桁の整数 (Two-digit Integer)](https://www.acmicpc.net/problem/27331) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 27328 | [三方比較 (Three-Way Comparison)](https://www.acmicpc.net/problem/27328) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 27327 | [時間 (Hour)](https://www.acmicpc.net/problem/27327) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
-| 27324 | [ゾロ目 (Same Numbers)](https://www.acmicpc.net/problem/27324) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 
 
 ---
 
-last updated : Sun Feb  5 21:36:57 2023
+last updated : Mon Feb  6 21:37:31 2023
 
