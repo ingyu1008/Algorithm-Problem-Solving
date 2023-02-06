@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 27433,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
+			"solved_count": 106,
+			"average_try": 1.2358
+		},
+		{
 			"id": 11006,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\u6642\u9593 (Hour)",
 			"solved_count": 63,
 			"average_try": 1.0476
-		},
-		{
-			"id": 27324,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u30be\u30ed\u76ee (Same Numbers)",
-			"solved_count": 70,
-			"average_try": 1.0714
 		}
 	],
-	"last_updated": "Sun Feb  5 21:36:22 2023"
+	"last_updated": "Mon Feb  6 21:36:42 2023"
 }
