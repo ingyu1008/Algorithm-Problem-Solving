@@ -1,76 +1,13 @@
 {
 	"problems": [
 		{
-			"id": 27433,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
-			"solved_count": 106,
-			"average_try": 1.2358
-		},
-		{
-			"id": 11006,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub0a8\uc6b1\uc774\uc758 \ub2ed\uc7a5",
-			"solved_count": 2672,
-			"average_try": 1.2624
-		},
-		{
-			"id": 14720,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc6b0\uc720 \ucd95\uc81c",
-			"solved_count": 2748,
-			"average_try": 1.6266
-		},
-		{
-			"id": 3059,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub4f1\uc7a5\ud558\uc9c0 \uc54a\ub294 \ubb38\uc790\uc758 \ud569",
-			"solved_count": 2809,
-			"average_try": 1.6522
-		},
-		{
-			"id": 10480,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Oddities",
-			"solved_count": 442,
-			"average_try": 1.1041
-		},
-		{
-			"id": 11121,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Communication Channels",
-			"solved_count": 456,
-			"average_try": 1.8311
-		},
-		{
-			"id": 27294,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uba87\uac1c\uace0?",
-			"solved_count": 629,
-			"average_try": 1.2687
-		},
-		{
 			"id": 27331,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
 			"title": "2 \u6841\u306e\u6574\u6570 (Two-digit Integer)",
-			"solved_count": 70,
-			"average_try": 1.0714
+			"solved_count": 275,
+			"average_try": 1.0945
 		},
 		{
 			"id": 27328,
@@ -78,8 +15,8 @@
 			"level_locked": 0,
 			"solvable": 1,
 			"title": "\u4e09\u65b9\u6bd4\u8f03 (Three-Way Comparison)",
-			"solved_count": 60,
-			"average_try": 1.05
+			"solved_count": 246,
+			"average_try": 1.1341
 		},
 		{
 			"id": 27327,
@@ -87,9 +24,72 @@
 			"level_locked": 0,
 			"solvable": 1,
 			"title": "\u6642\u9593 (Hour)",
-			"solved_count": 63,
-			"average_try": 1.0476
+			"solved_count": 259,
+			"average_try": 1.0579
+		},
+		{
+			"id": 27324,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u30be\u30ed\u76ee (Same Numbers)",
+			"solved_count": 274,
+			"average_try": 1.1569
+		},
+		{
+			"id": 27323,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u9577\u65b9\u5f62 (Rectangle)",
+			"solved_count": 280,
+			"average_try": 1.1179
+		},
+		{
+			"id": 27294,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uba87\uac1c\uace0?",
+			"solved_count": 845,
+			"average_try": 1.3101
+		},
+		{
+			"id": 27277,
+			"level": 10,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc7a5\uae30\uc790\ub791",
+			"solved_count": 143,
+			"average_try": 1.3776
+		},
+		{
+			"id": 27219,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u0420\u043e\u0431\u0438\u043d\u0437\u043e\u043d \u041a\u0440\u0443\u0437\u043e",
+			"solved_count": 334,
+			"average_try": 1.1766
+		},
+		{
+			"id": 27161,
+			"level": 5,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud06c\ub808\uc774\uc9c0 \ud0c0\uc784",
+			"solved_count": 502,
+			"average_try": 1.253
+		},
+		{
+			"id": 27433,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
+			"solved_count": 106,
+			"average_try": 1.2358
 		}
 	],
-	"last_updated": "Mon Feb  6 21:36:42 2023"
+	"last_updated": "Tue Feb  7 21:36:48 2023"
 }
