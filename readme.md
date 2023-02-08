@@ -10,6 +10,8 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 27434 | [팩토리얼 3](https://www.acmicpc.net/problem/27434) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 27433 | [팩토리얼 2](https://www.acmicpc.net/problem/27433) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 27331 | [2 桁の整数 (Two-digit Integer)](https://www.acmicpc.net/problem/27331) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 27328 | [三方比較 (Three-Way Comparison)](https://www.acmicpc.net/problem/27328) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 27327 | [時間 (Hour)](https://www.acmicpc.net/problem/27327) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
@@ -18,11 +20,9 @@ BOJ Problem Count = 144
 | 27294 | [몇개고?](https://www.acmicpc.net/problem/27294) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 27277 | [장기자랑](https://www.acmicpc.net/problem/27277) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
 | 27219 | [Робинзон Крузо](https://www.acmicpc.net/problem/27219) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
-| 27161 | [크레이지 타임](https://www.acmicpc.net/problem/27161) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
-| 27433 | [팩토리얼 2](https://www.acmicpc.net/problem/27433) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 
 
 ---
 
-last updated : Tue Feb  7 21:37:35 2023
+last updated : Wed Feb  8 21:37:01 2023
 
