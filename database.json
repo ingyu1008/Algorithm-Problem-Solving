@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1359,
+		"total_problems": 1360,
 		"total_page": 1,
 		"problems": [
 			{
@@ -2937,6 +2937,15 @@
 				"title": "\ubd80\ub140\ud68c\uc7a5\uc774 \ub420\ud14c\uc57c",
 				"solved_count": 40837,
 				"average_try": 1.7676
+			},
+			{
+				"id": 2783,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc0bc\uac01 \uae40\ubc25",
+				"solved_count": 2624,
+				"average_try": 1.5377
 			},
 			{
 				"id": 2787,
@@ -12178,8 +12187,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u9577\u65b9\u5f62 (Rectangle)",
-				"solved_count": 309,
-				"average_try": 1.1165
+				"solved_count": 319,
+				"average_try": 1.1223
 			},
 			{
 				"id": 27324,
@@ -12196,8 +12205,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6642\u9593 (Hour)",
-				"solved_count": 298,
-				"average_try": 1.0772
+				"solved_count": 301,
+				"average_try": 1.0764
 			},
 			{
 				"id": 27328,
@@ -12214,8 +12223,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "2 \u6841\u306e\u6574\u6570 (Two-digit Integer)",
-				"solved_count": 306,
-				"average_try": 1.1013
+				"solved_count": 307,
+				"average_try": 1.101
 			},
 			{
 				"id": 27433,
@@ -12223,8 +12232,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
-				"solved_count": 291,
-				"average_try": 1.2955
+				"solved_count": 317,
+				"average_try": 1.3249
 			},
 			{
 				"id": 27434,
@@ -12232,10 +12241,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud329\ud1a0\ub9ac\uc5bc 3",
-				"solved_count": 189,
-				"average_try": 1.6296
+				"solved_count": 213,
+				"average_try": 1.662
 			}
 		]
 	},
-	"last_updated": "Wed Feb  8 21:36:17 2023"
+	"last_updated": "Thu Feb  9 21:36:50 2023"
 }
