@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 14656 | [조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 2783 | [삼각 김밥](https://www.acmicpc.net/problem/2783) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 27434 | [팩토리얼 3](https://www.acmicpc.net/problem/27434) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 27433 | [팩토리얼 2](https://www.acmicpc.net/problem/27433) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
@@ -9,4 +10,3 @@
 | 27324 | [ゾロ目 (Same Numbers)](https://www.acmicpc.net/problem/27324) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 27323 | [長方形 (Rectangle)](https://www.acmicpc.net/problem/27323) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 27294 | [몇개고?](https://www.acmicpc.net/problem/27294) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
-| 27277 | [장기자랑](https://www.acmicpc.net/problem/27277) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |

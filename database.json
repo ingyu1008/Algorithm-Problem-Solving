@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1360,
+		"total_problems": 1361,
 		"total_page": 1,
 		"problems": [
 			{
@@ -8033,6 +8033,15 @@
 				"average_try": 1.5545
 			},
 			{
+				"id": 14656,
+				"level": 3,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc870\uad50\ub294 \uc0c8\ub514\uc2a4\ud2b8\uc57c!!",
+				"solved_count": 2570,
+				"average_try": 1.216
+			},
+			{
 				"id": 14681,
 				"level": 1,
 				"level_locked": 1,
@@ -12187,8 +12196,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u9577\u65b9\u5f62 (Rectangle)",
-				"solved_count": 331,
-				"average_try": 1.1239
+				"solved_count": 342,
+				"average_try": 1.1199
 			},
 			{
 				"id": 27324,
@@ -12196,8 +12205,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u30be\u30ed\u76ee (Same Numbers)",
-				"solved_count": 312,
-				"average_try": 1.1474
+				"solved_count": 324,
+				"average_try": 1.1605
 			},
 			{
 				"id": 27327,
@@ -12205,8 +12214,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u6642\u9593 (Hour)",
-				"solved_count": 301,
-				"average_try": 1.0764
+				"solved_count": 325,
+				"average_try": 1.0738
 			},
 			{
 				"id": 27328,
@@ -12223,8 +12232,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "2 \u6841\u306e\u6574\u6570 (Two-digit Integer)",
-				"solved_count": 323,
-				"average_try": 1.1053
+				"solved_count": 338,
+				"average_try": 1.1095
 			},
 			{
 				"id": 27433,
@@ -12232,8 +12241,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
-				"solved_count": 326,
-				"average_try": 1.3374
+				"solved_count": 386,
+				"average_try": 1.3497
 			},
 			{
 				"id": 27434,
@@ -12241,10 +12250,10 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud329\ud1a0\ub9ac\uc5bc 3",
-				"solved_count": 232,
-				"average_try": 1.7457
+				"solved_count": 252,
+				"average_try": 1.6984
 			}
 		]
 	},
-	"last_updated": "Fri Feb 10 21:36:33 2023"
+	"last_updated": "Sat Feb 11 21:36:27 2023"
 }
