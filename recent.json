@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 17614,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "369",
+			"solved_count": 2476,
+			"average_try": 1.8009
+		},
+		{
 			"id": 5354,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\u30be\u30ed\u76ee (Same Numbers)",
 			"solved_count": 295,
 			"average_try": 1.1559
-		},
-		{
-			"id": 27323,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u9577\u65b9\u5f62 (Rectangle)",
-			"solved_count": 309,
-			"average_try": 1.1165
 		}
 	],
-	"last_updated": "Sun Feb 12 21:36:35 2023"
+	"last_updated": "Mon Feb 13 21:37:03 2023"
 }
