@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 5523,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uacbd\uae30 \uacb0\uacfc",
+			"solved_count": 2458,
+			"average_try": 1.4133
+		},
+		{
+			"id": 5347,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "LCM",
+			"solved_count": 2818,
+			"average_try": 1.83
+		},
+		{
 			"id": 17614,
 			"level": 3,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\u4e09\u65b9\u6bd4\u8f03 (Three-Way Comparison)",
 			"solved_count": 283,
 			"average_try": 1.1272
-		},
-		{
-			"id": 27327,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u6642\u9593 (Hour)",
-			"solved_count": 298,
-			"average_try": 1.0772
-		},
-		{
-			"id": 27324,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u30be\u30ed\u76ee (Same Numbers)",
-			"solved_count": 295,
-			"average_try": 1.1559
 		}
 	],
-	"last_updated": "Mon Feb 13 21:37:03 2023"
+	"last_updated": "Tue Feb 14 21:36:52 2023"
 }
