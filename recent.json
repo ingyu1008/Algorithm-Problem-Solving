@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 27389,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Metronome",
+			"solved_count": 274,
+			"average_try": 1.292
+		},
+		{
 			"id": 5523,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "2 \u6841\u306e\u6574\u6570 (Two-digit Integer)",
 			"solved_count": 306,
 			"average_try": 1.1013
-		},
-		{
-			"id": 27328,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u4e09\u65b9\u6bd4\u8f03 (Three-Way Comparison)",
-			"solved_count": 283,
-			"average_try": 1.1272
 		}
 	],
-	"last_updated": "Tue Feb 14 21:36:52 2023"
+	"last_updated": "Wed Feb 15 21:36:56 2023"
 }
