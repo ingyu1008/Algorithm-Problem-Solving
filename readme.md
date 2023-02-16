@@ -10,6 +10,8 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 6887 | [Squares](https://www.acmicpc.net/problem/6887) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 5347 | [LCM](https://www.acmicpc.net/problem/5347) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 27389 | [Metronome](https://www.acmicpc.net/problem/27389) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 5523 | [경기 결과](https://www.acmicpc.net/problem/5523) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 5347 | [LCM](https://www.acmicpc.net/problem/5347) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
@@ -18,11 +20,9 @@ BOJ Problem Count = 144
 | 14656 | [조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 2783 | [삼각 김밥](https://www.acmicpc.net/problem/2783) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 27434 | [팩토리얼 3](https://www.acmicpc.net/problem/27434) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
-| 27433 | [팩토리얼 2](https://www.acmicpc.net/problem/27433) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
-| 27331 | [2 桁の整数 (Two-digit Integer)](https://www.acmicpc.net/problem/27331) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 
 
 ---
 
-last updated : Wed Feb 15 21:37:40 2023
+last updated : Thu Feb 16 21:37:33 2023
 
