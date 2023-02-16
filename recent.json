@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 6887,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Squares",
+			"solved_count": 281,
+			"average_try": 1.2918
+		},
+		{
+			"id": 5347,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "LCM",
+			"solved_count": 2320,
+			"average_try": 1.8862
+		},
+		{
 			"id": 27389,
 			"level": 1,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\ud329\ud1a0\ub9ac\uc5bc 3",
 			"solved_count": 189,
 			"average_try": 1.6296
-		},
-		{
-			"id": 27433,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
-			"solved_count": 291,
-			"average_try": 1.2955
-		},
-		{
-			"id": 27331,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "2 \u6841\u306e\u6574\u6570 (Two-digit Integer)",
-			"solved_count": 306,
-			"average_try": 1.1013
 		}
 	],
-	"last_updated": "Wed Feb 15 21:36:56 2023"
+	"last_updated": "Thu Feb 16 21:36:47 2023"
 }
