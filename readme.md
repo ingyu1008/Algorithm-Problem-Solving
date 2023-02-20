@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 10409 | [서버](https://www.acmicpc.net/problem/10409) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 2863 | [이게 분수?](https://www.acmicpc.net/problem/2863) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 1837 | [암호제작](https://www.acmicpc.net/problem/1837) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 6887 | [Squares](https://www.acmicpc.net/problem/6887) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 5347 | [LCM](https://www.acmicpc.net/problem/5347) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 17614 | [369](https://www.acmicpc.net/problem/17614) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 5354 | [J박스](https://www.acmicpc.net/problem/5354) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 14656 | [조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 
 
 ---
 
-last updated : Sun Feb 19 21:37:23 2023
+last updated : Mon Feb 20 21:37:12 2023
 
