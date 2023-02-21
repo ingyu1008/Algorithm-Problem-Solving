@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 16673 | [고려대학교에는 공식 와인이 있다](https://www.acmicpc.net/problem/16673) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 10409 | [서버](https://www.acmicpc.net/problem/10409) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 2863 | [이게 분수?](https://www.acmicpc.net/problem/2863) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 1837 | [암호제작](https://www.acmicpc.net/problem/1837) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -9,4 +10,3 @@
 | 5523 | [경기 결과](https://www.acmicpc.net/problem/5523) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 5347 | [LCM](https://www.acmicpc.net/problem/5347) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 17614 | [369](https://www.acmicpc.net/problem/17614) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 5354 | [J박스](https://www.acmicpc.net/problem/5354) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
