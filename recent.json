@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 6321,
+			"level": 3,
+			"level_locked": 1,
+			"solvable": 1,
+			"title": "IBM \ube7c\uae30 1",
+			"solved_count": 2031,
+			"average_try": 2.0281
+		},
+		{
 			"id": 16673,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "LCM",
 			"solved_count": 2818,
 			"average_try": 1.83
-		},
-		{
-			"id": 17614,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "369",
-			"solved_count": 2476,
-			"average_try": 1.8009
 		}
 	],
-	"last_updated": "Tue Feb 21 21:36:44 2023"
+	"last_updated": "Wed Feb 22 21:36:50 2023"
 }
