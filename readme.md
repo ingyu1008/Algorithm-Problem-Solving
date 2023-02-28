@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 9550 | [아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 11586 | [지영 공주님의 마법 거울](https://www.acmicpc.net/problem/11586) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 2997 | [네 번째 수](https://www.acmicpc.net/problem/2997) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 4880 | [다음수](https://www.acmicpc.net/problem/4880) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 10409 | [서버](https://www.acmicpc.net/problem/10409) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 2863 | [이게 분수?](https://www.acmicpc.net/problem/2863) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 1837 | [암호제작](https://www.acmicpc.net/problem/1837) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 6887 | [Squares](https://www.acmicpc.net/problem/6887) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Mon Feb 27 21:37:36 2023
+last updated : Tue Feb 28 21:37:18 2023
 
