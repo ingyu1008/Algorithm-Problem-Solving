@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 27310,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": ":chino_shock:",
+			"solved_count": 908,
+			"average_try": 1.1795
+		},
+		{
 			"id": 10810,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uace0\ub824\ub300\ud559\uad50\uc5d0\ub294 \uacf5\uc2dd \uc640\uc778\uc774 \uc788\ub2e4",
 			"solved_count": 2445,
 			"average_try": 1.2074
-		},
-		{
-			"id": 10409,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc11c\ubc84",
-			"solved_count": 2370,
-			"average_try": 1.9489
 		}
 	],
-	"last_updated": "Thu Mar  2 21:36:53 2023"
+	"last_updated": "Fri Mar  3 21:36:48 2023"
 }
