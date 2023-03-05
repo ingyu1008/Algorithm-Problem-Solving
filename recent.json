@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 2985,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc138 \uc218",
+			"solved_count": 2302,
+			"average_try": 1.8271
+		},
+		{
 			"id": 27310,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "IBM \ube7c\uae30 1",
 			"solved_count": 2031,
 			"average_try": 2.0281
-		},
-		{
-			"id": 16673,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uace0\ub824\ub300\ud559\uad50\uc5d0\ub294 \uacf5\uc2dd \uc640\uc778\uc774 \uc788\ub2e4",
-			"solved_count": 2445,
-			"average_try": 1.2074
 		}
 	],
-	"last_updated": "Sat Mar  4 21:36:37 2023"
+	"last_updated": "Sun Mar  5 21:36:47 2023"
 }
