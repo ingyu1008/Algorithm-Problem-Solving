@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 24751,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Betting",
+			"solved_count": 470,
+			"average_try": 1.083
+		},
+		{
+			"id": 14920,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "3n+1 \uc218\uc5f4",
+			"solved_count": 1940,
+			"average_try": 1.3454
+		},
+		{
 			"id": 2985,
 			"level": 3,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\ub2e4\uc74c\uc218",
 			"solved_count": 2291,
 			"average_try": 1.656
-		},
-		{
-			"id": 4892,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc22b\uc790 \ub9de\ucd94\uae30 \uac8c\uc784",
-			"solved_count": 2309,
-			"average_try": 1.66
-		},
-		{
-			"id": 6321,
-			"level": 3,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "IBM \ube7c\uae30 1",
-			"solved_count": 2031,
-			"average_try": 2.0281
 		}
 	],
-	"last_updated": "Sun Mar  5 21:36:47 2023"
+	"last_updated": "Mon Mar  6 21:36:51 2023"
 }
