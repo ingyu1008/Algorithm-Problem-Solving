@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 9094 | [수학적 호기심](https://www.acmicpc.net/problem/9094) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 10474 | [분수좋아해?](https://www.acmicpc.net/problem/10474) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 3029 | [경고](https://www.acmicpc.net/problem/3029) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 16431 | [베시와 데이지](https://www.acmicpc.net/problem/16431) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -9,4 +10,3 @@
 | 24751 | [Betting](https://www.acmicpc.net/problem/24751) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 14920 | [3n+1 수열](https://www.acmicpc.net/problem/14920) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 2985 | [세 수](https://www.acmicpc.net/problem/2985) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
-| 27310 | [:chino_shock:](https://www.acmicpc.net/problem/27310) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
