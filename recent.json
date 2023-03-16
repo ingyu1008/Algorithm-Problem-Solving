@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 24264,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc54c\uace0\ub9ac\uc998\uc758 \uc218\ud589 \uc2dc\uac04 3",
+			"solved_count": 1431,
+			"average_try": 1.8973
+		},
+		{
 			"id": 5613,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Betting",
 			"solved_count": 470,
 			"average_try": 1.083
-		},
-		{
-			"id": 14920,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "3n+1 \uc218\uc5f4",
-			"solved_count": 1940,
-			"average_try": 1.3454
 		}
 	],
-	"last_updated": "Wed Mar 15 21:36:57 2023"
+	"last_updated": "Thu Mar 16 21:36:52 2023"
 }
