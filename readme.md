@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 24264 | [알고리즘 수업 - 알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 5613 | [계산기 프로그램](https://www.acmicpc.net/problem/5613) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 9094 | [수학적 호기심](https://www.acmicpc.net/problem/9094) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 10474 | [분수좋아해?](https://www.acmicpc.net/problem/10474) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 27866 | [문자와 문자열](https://www.acmicpc.net/problem/27866) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 4493 | [가위 바위 보?](https://www.acmicpc.net/problem/4493) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 | 24751 | [Betting](https://www.acmicpc.net/problem/24751) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 14920 | [3n+1 수열](https://www.acmicpc.net/problem/14920) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
 
 
 ---
 
-last updated : Wed Mar 15 21:37:42 2023
+last updated : Thu Mar 16 21:37:40 2023
 
