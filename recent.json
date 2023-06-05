@@ -6,6 +6,60 @@
 			"level_locked": 1,
 			"solvable": 1,
 			"title": "\ubb38\uc790\uc640 \ubb38\uc790\uc5f4",
+			"solved_count": 11943,
+			"average_try": 1.4414
+		},
+		{
+			"id": 27434,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud329\ud1a0\ub9ac\uc5bc 3",
+			"solved_count": 954,
+			"average_try": 2.0639
+		},
+		{
+			"id": 27433,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
+			"solved_count": 3370,
+			"average_try": 1.9564
+		},
+		{
+			"id": 27328,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u4e09\u65b9\u6bd4\u8f03 (Three-Way Comparison)",
+			"solved_count": 864,
+			"average_try": 1.1829
+		},
+		{
+			"id": 27327,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u6642\u9593 (Hour)",
+			"solved_count": 969,
+			"average_try": 1.0743
+		},
+		{
+			"id": 27323,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc9c1\uc0ac\uac01\ud615",
+			"solved_count": 4678,
+			"average_try": 1.1481
+		},
+		{
+			"id": 27866,
+			"level": 1,
+			"level_locked": 1,
+			"solvable": 1,
+			"title": "\ubb38\uc790\uc640 \ubb38\uc790\uc5f4",
 			"solved_count": 11747,
 			"average_try": 1.4442
 		},
@@ -35,61 +89,7 @@
 			"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
 			"solved_count": 3331,
 			"average_try": 1.9544
-		},
-		{
-			"id": 27389,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Metronome",
-			"solved_count": 784,
-			"average_try": 1.3048
-		},
-		{
-			"id": 27331,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "2 \u6841\u306e\u6574\u6570 (Two-digit Integer)",
-			"solved_count": 955,
-			"average_try": 1.0921
-		},
-		{
-			"id": 27328,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u4e09\u65b9\u6bd4\u8f03 (Three-Way Comparison)",
-			"solved_count": 859,
-			"average_try": 1.1828
-		},
-		{
-			"id": 27327,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u6642\u9593 (Hour)",
-			"solved_count": 967,
-			"average_try": 1.0745
-		},
-		{
-			"id": 27324,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u30be\u30ed\u76ee (Same Numbers)",
-			"solved_count": 885,
-			"average_try": 1.1525
-		},
-		{
-			"id": 27323,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc9c1\uc0ac\uac01\ud615",
-			"solved_count": 4605,
-			"average_try": 1.1472
 		}
 	],
-	"last_updated": "Sun Jun  4 21:36:15 2023"
+	"last_updated": "Mon Jun  5 21:36:12 2023"
 }
