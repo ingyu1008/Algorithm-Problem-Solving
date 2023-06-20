@@ -6,61 +6,7 @@
 			"level_locked": 1,
 			"solvable": 1,
 			"title": "\ubb38\uc790\uc640 \ubb38\uc790\uc5f4",
-			"solved_count": 11943,
-			"average_try": 1.4414
-		},
-		{
-			"id": 27434,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud329\ud1a0\ub9ac\uc5bc 3",
-			"solved_count": 954,
-			"average_try": 2.0639
-		},
-		{
-			"id": 27433,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
-			"solved_count": 3370,
-			"average_try": 1.9564
-		},
-		{
-			"id": 27328,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u4e09\u65b9\u6bd4\u8f03 (Three-Way Comparison)",
-			"solved_count": 864,
-			"average_try": 1.1829
-		},
-		{
-			"id": 27327,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u6642\u9593 (Hour)",
-			"solved_count": 969,
-			"average_try": 1.0743
-		},
-		{
-			"id": 27323,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc9c1\uc0ac\uac01\ud615",
-			"solved_count": 4678,
-			"average_try": 1.1481
-		},
-		{
-			"id": 27866,
-			"level": 1,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "\ubb38\uc790\uc640 \ubb38\uc790\uc5f4",
-			"solved_count": 11747,
+			"solved_count": 13200,
 			"average_try": 1.4442
 		},
 		{
@@ -69,8 +15,8 @@
 			"level_locked": 0,
 			"solvable": 1,
 			"title": "\ud31d\ud540 \uc18c\ub2e4",
-			"solved_count": 216,
-			"average_try": 1.7546
+			"solved_count": 222,
+			"average_try": 1.7523
 		},
 		{
 			"id": 27434,
@@ -78,8 +24,8 @@
 			"level_locked": 0,
 			"solvable": 1,
 			"title": "\ud329\ud1a0\ub9ac\uc5bc 3",
-			"solved_count": 948,
-			"average_try": 2.0696
+			"solved_count": 1007,
+			"average_try": 2.0516
 		},
 		{
 			"id": 27433,
@@ -87,9 +33,63 @@
 			"level_locked": 0,
 			"solvable": 1,
 			"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
-			"solved_count": 3331,
-			"average_try": 1.9544
+			"solved_count": 3653,
+			"average_try": 1.9507
+		},
+		{
+			"id": 27389,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Metronome",
+			"solved_count": 821,
+			"average_try": 1.2972
+		},
+		{
+			"id": 27331,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "2 \u6841\u306e\u6574\u6570 (Two-digit Integer)",
+			"solved_count": 996,
+			"average_try": 1.0934
+		},
+		{
+			"id": 27328,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u4e09\u65b9\u6bd4\u8f03 (Three-Way Comparison)",
+			"solved_count": 905,
+			"average_try": 1.1901
+		},
+		{
+			"id": 27327,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u6642\u9593 (Hour)",
+			"solved_count": 1010,
+			"average_try": 1.0762
+		},
+		{
+			"id": 27324,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u30be\u30ed\u76ee (Same Numbers)",
+			"solved_count": 932,
+			"average_try": 1.1513
+		},
+		{
+			"id": 27323,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc9c1\uc0ac\uac01\ud615",
+			"solved_count": 5056,
+			"average_try": 1.1495
 		}
 	],
-	"last_updated": "Sat Jun 17 21:36:01 2023"
+	"last_updated": "Tue Jun 20 21:35:58 2023"
 }
