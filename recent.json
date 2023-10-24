@@ -1,95 +1,95 @@
 {
 	"problems": [
 		{
-			"id": 27866,
-			"level": 1,
-			"level_locked": 1,
-			"solvable": 1,
-			"title": "\ubb38\uc790\uc640 \ubb38\uc790\uc5f4",
-			"solved_count": 13200,
-			"average_try": 1.4442
-		},
-		{
-			"id": 27724,
-			"level": 9,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud31d\ud540 \uc18c\ub2e4",
-			"solved_count": 222,
-			"average_try": 1.7523
-		},
-		{
-			"id": 27434,
+			"id": 30224,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ud329\ud1a0\ub9ac\uc5bc 3",
-			"solved_count": 1007,
-			"average_try": 2.0516
+			"title": "Lucky 7",
+			"solved_count": 463,
+			"average_try": 1.2138
 		},
 		{
-			"id": 27433,
+			"id": 30214,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
-			"solved_count": 3653,
-			"average_try": 1.9507
+			"title": "An Easy-Peasy Problem",
+			"solved_count": 405,
+			"average_try": 1.4148
 		},
 		{
-			"id": 27389,
+			"id": 30030,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "Metronome",
-			"solved_count": 821,
-			"average_try": 1.2972
+			"title": "\uc2a4\uc704\ud2b8\ucf58 \uac00\uaca9 \uad6c\ud558\uae30",
+			"solved_count": 858,
+			"average_try": 1.3473
 		},
 		{
-			"id": 27331,
+			"id": 30007,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "2 \u6841\u306e\u6574\u6570 (Two-digit Integer)",
-			"solved_count": 996,
-			"average_try": 1.0934
+			"title": "\ub77c\uba74 \uacf5\uc2dd",
+			"solved_count": 912,
+			"average_try": 1.1831
 		},
 		{
-			"id": 27328,
+			"id": 29863,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\u4e09\u65b9\u6bd4\u8f03 (Three-Way Comparison)",
-			"solved_count": 905,
-			"average_try": 1.1901
+			"title": "Arno's Sleep Schedule",
+			"solved_count": 450,
+			"average_try": 1.56
 		},
 		{
-			"id": 27327,
+			"id": 29731,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\u6642\u9593 (Hour)",
-			"solved_count": 1010,
-			"average_try": 1.0762
+			"title": "2033\ub144 \ubc08 \ud22c\ud45c",
+			"solved_count": 781,
+			"average_try": 1.9654
 		},
 		{
-			"id": 27324,
+			"id": 29699,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\u30be\u30ed\u76ee (Same Numbers)",
-			"solved_count": 932,
-			"average_try": 1.1513
+			"title": "Welcome to SMUPC!",
+			"solved_count": 863,
+			"average_try": 1.7891
 		},
 		{
-			"id": 27323,
-			"level": 1,
+			"id": 28426,
+			"level": 11,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc9c1\uc0ac\uac01\ud615",
-			"solved_count": 5056,
-			"average_try": 1.1495
+			"title": "\ub354\ud558\uae30\uc640 \ub098\ub204\uae30",
+			"solved_count": 157,
+			"average_try": 3.5032
+		},
+		{
+			"id": 28305,
+			"level": 14,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc138\ubbf8\ub098 \ubc30\uc815",
+			"solved_count": 159,
+			"average_try": 2.0063
+		},
+		{
+			"id": 28303,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc790\uc11d",
+			"solved_count": 216,
+			"average_try": 1.4907
 		}
 	],
-	"last_updated": "Mon Oct 23 21:36:12 2023"
+	"last_updated": "Tue Oct 24 21:36:09 2023"
 }
