@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 11280,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "2-SAT - 3",
+			"solved_count": 1556,
+			"average_try": 1.9017
+		},
+		{
 			"id": 24060,
 			"level": 8,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\ub354\ud558\uae30\uc640 \ub098\ub204\uae30",
 			"solved_count": 157,
 			"average_try": 3.5032
-		},
-		{
-			"id": 28305,
-			"level": 14,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc138\ubbf8\ub098 \ubc30\uc815",
-			"solved_count": 159,
-			"average_try": 2.0063
 		}
 	],
-	"last_updated": "Mon Nov 13 21:36:20 2023"
+	"last_updated": "Wed Nov 15 21:36:10 2023"
 }
