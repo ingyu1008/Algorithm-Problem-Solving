@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 11280 | [2-SAT - 3](https://www.acmicpc.net/problem/11280) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
 | 24060 | [알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
 | 30224 | [Lucky 7](https://www.acmicpc.net/problem/30224) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 30214 | [An Easy-Peasy Problem](https://www.acmicpc.net/problem/30214) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 29731 | [2033년 밈 투표](https://www.acmicpc.net/problem/29731) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 29699 | [Welcome to SMUPC!](https://www.acmicpc.net/problem/29699) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 28426 | [더하기와 나누기](https://www.acmicpc.net/problem/28426) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
-| 28305 | [세미나 배정](https://www.acmicpc.net/problem/28305) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
 
 
 ---
 
-last updated : Tue Nov 14 21:36:23 2023
+last updated : Wed Nov 15 21:36:46 2023
 
