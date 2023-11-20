@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 3203,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4 Z",
+			"solved_count": 30,
+			"average_try": 5.4667
+		},
+		{
+			"id": 1647,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub3c4\uc2dc \ubd84\ud560 \uacc4\ud68d",
+			"solved_count": 8442,
+			"average_try": 2.0493
+		},
+		{
 			"id": 11280,
 			"level": 17,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "2033\ub144 \ubc08 \ud22c\ud45c",
 			"solved_count": 781,
 			"average_try": 1.9654
-		},
-		{
-			"id": 29699,
-			"level": 1,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Welcome to SMUPC!",
-			"solved_count": 863,
-			"average_try": 1.7891
-		},
-		{
-			"id": 28426,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub354\ud558\uae30\uc640 \ub098\ub204\uae30",
-			"solved_count": 157,
-			"average_try": 3.5032
 		}
 	],
-	"last_updated": "Sun Nov 19 21:35:46 2023"
+	"last_updated": "Mon Nov 20 21:36:54 2023"
 }
