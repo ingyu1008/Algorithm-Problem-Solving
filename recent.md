@@ -1,5 +1,6 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 30880 | [쿼리는 락이 아니다](https://www.acmicpc.net/problem/30880) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
 | 28242 | [수학 선생님의 고민(Hard)](https://www.acmicpc.net/problem/28242) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
 | 28237 | [수학 선생님의 고민(Easy)](https://www.acmicpc.net/problem/28237) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
 | 3203 | [프로그래밍 언어 Z](https://www.acmicpc.net/problem/3203) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
@@ -9,4 +10,3 @@
 | 30224 | [Lucky 7](https://www.acmicpc.net/problem/30224) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 30214 | [An Easy-Peasy Problem](https://www.acmicpc.net/problem/30214) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 | 30030 | [스위트콘 가격 구하기](https://www.acmicpc.net/problem/30030) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
-| 30007 | [라면 공식](https://www.acmicpc.net/problem/30007) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
