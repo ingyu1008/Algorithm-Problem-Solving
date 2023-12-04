@@ -10,19 +10,19 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
-| 30880 | [쿼리는 락이 아니다](https://www.acmicpc.net/problem/30880) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/20.svg"/> |  |
-| 28242 | [수학 선생님의 고민(Hard)](https://www.acmicpc.net/problem/28242) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
-| 28237 | [수학 선생님의 고민(Easy)](https://www.acmicpc.net/problem/28237) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
-| 3203 | [프로그래밍 언어 Z](https://www.acmicpc.net/problem/3203) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
-| 1647 | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 11280 | [2-SAT - 3](https://www.acmicpc.net/problem/11280) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
-| 24060 | [알고리즘 수업 - 병합 정렬 1](https://www.acmicpc.net/problem/24060) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
-| 30224 | [Lucky 7](https://www.acmicpc.net/problem/30224) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
-| 30214 | [An Easy-Peasy Problem](https://www.acmicpc.net/problem/30214) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
-| 30030 | [스위트콘 가격 구하기](https://www.acmicpc.net/problem/30030) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 30894 | [유령의 집 탈출하기](https://www.acmicpc.net/problem/30894) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
+| 30871 | [ChatGPT의 역작](https://www.acmicpc.net/problem/30871) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
+| 30676 | [이 별은 무슨 색일까](https://www.acmicpc.net/problem/30676) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 30664 | [Loteria Falha](https://www.acmicpc.net/problem/30664) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 30328 | [Java Warriors](https://www.acmicpc.net/problem/30328) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 30087 | [진흥원 세미나](https://www.acmicpc.net/problem/30087) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 29790 | [임스의 메이플컵](https://www.acmicpc.net/problem/29790) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 29751 | [삼각형](https://www.acmicpc.net/problem/29751) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
+| 29736 | [브실이와 친구가 되고 싶어 🤸‍♀️](https://www.acmicpc.net/problem/29736) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 29163 | [Счастье Мистера Бина](https://www.acmicpc.net/problem/29163) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/1.svg"/> |  |
 
 
 ---
 
-last updated : Sun Dec  3 21:36:34 2023
+last updated : Mon Dec  4 21:36:55 2023
 
