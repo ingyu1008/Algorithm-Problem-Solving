@@ -1,95 +1,95 @@
 {
 	"problems": [
 		{
-			"id": 30880,
-			"level": 20,
+			"id": 30894,
+			"level": 14,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ucffc\ub9ac\ub294 \ub77d\uc774 \uc544\ub2c8\ub2e4",
-			"solved_count": 4,
-			"average_try": 2.5
+			"title": "\uc720\ub839\uc758 \uc9d1 \ud0c8\ucd9c\ud558\uae30",
+			"solved_count": 31,
+			"average_try": 2.871
 		},
 		{
-			"id": 28242,
-			"level": 9,
+			"id": 30871,
+			"level": 18,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc218\ud559 \uc120\uc0dd\ub2d8\uc758 \uace0\ubbfc(Hard)",
-			"solved_count": 134,
-			"average_try": 1.6716
+			"title": "ChatGPT\uc758 \uc5ed\uc791",
+			"solved_count": 20,
+			"average_try": 3.35
 		},
 		{
-			"id": 28237,
-			"level": 5,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc218\ud559 \uc120\uc0dd\ub2d8\uc758 \uace0\ubbfc(Easy)",
-			"solved_count": 155,
-			"average_try": 1.7871
-		},
-		{
-			"id": 3203,
-			"level": 22,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4 Z",
-			"solved_count": 30,
-			"average_try": 5.4667
-		},
-		{
-			"id": 1647,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub3c4\uc2dc \ubd84\ud560 \uacc4\ud68d",
-			"solved_count": 8442,
-			"average_try": 2.0493
-		},
-		{
-			"id": 11280,
-			"level": 17,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "2-SAT - 3",
-			"solved_count": 1556,
-			"average_try": 1.9017
-		},
-		{
-			"id": 24060,
-			"level": 8,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \ubcd1\ud569 \uc815\ub82c 1",
-			"solved_count": 4716,
-			"average_try": 2.2557
-		},
-		{
-			"id": 30224,
+			"id": 30676,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "Lucky 7",
-			"solved_count": 463,
-			"average_try": 1.2138
+			"title": "\uc774 \ubcc4\uc740 \ubb34\uc2a8 \uc0c9\uc77c\uae4c",
+			"solved_count": 798,
+			"average_try": 1.3772
 		},
 		{
-			"id": 30214,
+			"id": 30664,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "An Easy-Peasy Problem",
-			"solved_count": 405,
-			"average_try": 1.4148
+			"title": "Loteria Falha",
+			"solved_count": 334,
+			"average_try": 1.6287
 		},
 		{
-			"id": 30030,
+			"id": 30328,
 			"level": 1,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc2a4\uc704\ud2b8\ucf58 \uac00\uaca9 \uad6c\ud558\uae30",
-			"solved_count": 858,
-			"average_try": 1.3473
+			"title": "Java Warriors",
+			"solved_count": 639,
+			"average_try": 1.108
+		},
+		{
+			"id": 30087,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc9c4\ud765\uc6d0 \uc138\ubbf8\ub098",
+			"solved_count": 819,
+			"average_try": 1.3272
+		},
+		{
+			"id": 29790,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc784\uc2a4\uc758 \uba54\uc774\ud50c\ucef5",
+			"solved_count": 1056,
+			"average_try": 1.5066
+		},
+		{
+			"id": 29751,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc0bc\uac01\ud615",
+			"solved_count": 1362,
+			"average_try": 1.3722
+		},
+		{
+			"id": 29736,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ube0c\uc2e4\uc774\uc640 \uce5c\uad6c\uac00 \ub418\uace0 \uc2f6\uc5b4 \ud83e\udd38\u200d\u2640\ufe0f",
+			"solved_count": 944,
+			"average_try": 1.7044
+		},
+		{
+			"id": 29163,
+			"level": 1,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u0421\u0447\u0430\u0441\u0442\u044c\u0435 \u041c\u0438\u0441\u0442\u0435\u0440\u0430 \u0411\u0438\u043d\u0430",
+			"solved_count": 622,
+			"average_try": 1.5595
 		}
 	],
-	"last_updated": "Sun Dec  3 21:35:59 2023"
+	"last_updated": "Mon Dec  4 21:36:13 2023"
 }
