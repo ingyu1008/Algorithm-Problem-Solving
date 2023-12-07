@@ -1,6 +1,42 @@
 {
 	"problems": [
 		{
+			"id": 18198,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Basketball One-on-One",
+			"solved_count": 612,
+			"average_try": 1.6176
+		},
+		{
+			"id": 13543,
+			"level": 24,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 2",
+			"solved_count": 86,
+			"average_try": 9.2907
+		},
+		{
+			"id": 2056,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc791\uc5c5",
+			"solved_count": 4712,
+			"average_try": 2.2882
+		},
+		{
+			"id": 1948,
+			"level": 16,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc784\uacc4\uacbd\ub85c",
+			"solved_count": 2674,
+			"average_try": 3.2442
+		},
+		{
 			"id": 30402,
 			"level": 2,
 			"level_locked": 0,
@@ -53,43 +89,7 @@
 			"title": "Goodbye, Code Jam",
 			"solved_count": 764,
 			"average_try": 1.517
-		},
-		{
-			"id": 28453,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Previous Level",
-			"solved_count": 832,
-			"average_try": 1.1887
-		},
-		{
-			"id": 28290,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc548\ubc16? \ubc16\uc548? \uacc4\ub2e8? \uc5ed\uacc4\ub2e8?",
-			"solved_count": 748,
-			"average_try": 1.4773
-		},
-		{
-			"id": 28281,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc120\ubb3c",
-			"solved_count": 800,
-			"average_try": 1.4425
-		},
-		{
-			"id": 27890,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud2b9\ubcc4\ud55c \uc791\uc740 \ubd84\uc218",
-			"solved_count": 705,
-			"average_try": 1.1645
 		}
 	],
-	"last_updated": "Wed Dec  6 21:36:16 2023"
+	"last_updated": "Thu Dec  7 21:36:09 2023"
 }
