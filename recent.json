@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 10188,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Quadrilateral",
+			"solved_count": 583,
+			"average_try": 1.4099
+		},
+		{
 			"id": 18198,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "DKSH \ucc3e\uae30",
 			"solved_count": 784,
 			"average_try": 1.4235
-		},
-		{
-			"id": 29738,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Goodbye, Code Jam",
-			"solved_count": 764,
-			"average_try": 1.517
 		}
 	],
-	"last_updated": "Thu Dec  7 21:36:09 2023"
+	"last_updated": "Fri Dec  8 21:35:59 2023"
 }
