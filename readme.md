@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 26531 | [Simple Sum](https://www.acmicpc.net/problem/26531) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 10188 | [Quadrilateral](https://www.acmicpc.net/problem/10188) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 18198 | [Basketball One-on-One](https://www.acmicpc.net/problem/18198) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 13543 | [수열과 쿼리 2](https://www.acmicpc.net/problem/13543) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 30033 | [Rust Study](https://www.acmicpc.net/problem/30033) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 30031 | [지폐 세기](https://www.acmicpc.net/problem/30031) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 30017 | [치즈버거 만들기](https://www.acmicpc.net/problem/30017) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 29766 | [DKSH 찾기](https://www.acmicpc.net/problem/29766) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Fri Dec  8 21:36:30 2023
+last updated : Sat Dec  9 21:36:35 2023
 
