@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 26531,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Simple Sum",
+			"solved_count": 592,
+			"average_try": 1.1757
+		},
+		{
 			"id": 10188,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uce58\uc988\ubc84\uac70 \ub9cc\ub4e4\uae30",
 			"solved_count": 900,
 			"average_try": 1.5467
-		},
-		{
-			"id": 29766,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "DKSH \ucc3e\uae30",
-			"solved_count": 784,
-			"average_try": 1.4235
 		}
 	],
-	"last_updated": "Fri Dec  8 21:35:59 2023"
+	"last_updated": "Sat Dec  9 21:35:52 2023"
 }
