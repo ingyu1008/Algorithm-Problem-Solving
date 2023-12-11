@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 30501 | [관공... 어찌하여 목만 오셨소...](https://www.acmicpc.net/problem/30501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 9782 | [Median](https://www.acmicpc.net/problem/9782) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 26531 | [Simple Sum](https://www.acmicpc.net/problem/26531) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 10188 | [Quadrilateral](https://www.acmicpc.net/problem/10188) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 1948 | [임계경로](https://www.acmicpc.net/problem/1948) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
 | 30402 | [감마선을 맞은 컴퓨터](https://www.acmicpc.net/problem/30402) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 30033 | [Rust Study](https://www.acmicpc.net/problem/30033) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 30031 | [지폐 세기](https://www.acmicpc.net/problem/30031) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Sun Dec 10 21:36:26 2023
+last updated : Mon Dec 11 21:36:50 2023
 
