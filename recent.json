@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 30501,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uad00\uacf5... \uc5b4\ucc0c\ud558\uc5ec \ubaa9\ub9cc \uc624\uc168\uc18c...",
+			"solved_count": 527,
+			"average_try": 1.1917
+		},
+		{
 			"id": 9782,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Rust Study",
 			"solved_count": 892,
 			"average_try": 1.3655
-		},
-		{
-			"id": 30031,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc9c0\ud3d0 \uc138\uae30",
-			"solved_count": 612,
-			"average_try": 1.1618
 		}
 	],
-	"last_updated": "Sun Dec 10 21:35:59 2023"
+	"last_updated": "Mon Dec 11 21:36:14 2023"
 }
