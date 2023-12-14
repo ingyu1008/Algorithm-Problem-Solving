@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 27541 | [末尾の文字 (Last Letter)](https://www.acmicpc.net/problem/27541) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 4383 | [점프는 즐거워](https://www.acmicpc.net/problem/4383) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 24294 | [ГРАДИНА](https://www.acmicpc.net/problem/24294) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 30501 | [관공... 어찌하여 목만 오셨소...](https://www.acmicpc.net/problem/30501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 18198 | [Basketball One-on-One](https://www.acmicpc.net/problem/18198) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 13543 | [수열과 쿼리 2](https://www.acmicpc.net/problem/13543) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/24.svg"/> |  |
 | 2056 | [작업](https://www.acmicpc.net/problem/2056) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 1948 | [임계경로](https://www.acmicpc.net/problem/1948) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
 
 
 ---
 
-last updated : Wed Dec 13 21:36:58 2023
+last updated : Thu Dec 14 21:36:55 2023
 
