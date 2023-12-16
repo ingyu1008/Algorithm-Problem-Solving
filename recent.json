@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 9466,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud140 \ud504\ub85c\uc81d\ud2b8",
+			"solved_count": 10427,
+			"average_try": 4.1558
+		},
+		{
 			"id": 14215,
 			"level": 3,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Basketball One-on-One",
 			"solved_count": 612,
 			"average_try": 1.6176
-		},
-		{
-			"id": 13543,
-			"level": 24,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 2",
-			"solved_count": 86,
-			"average_try": 9.2907
 		}
 	],
-	"last_updated": "Fri Dec 15 21:36:58 2023"
+	"last_updated": "Sat Dec 16 21:36:20 2023"
 }
