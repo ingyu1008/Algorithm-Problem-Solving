@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 15892,
+			"level": 17,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc0ac\ud0d5 \uc90d\ub294 \ub85c\ubd07",
+			"solved_count": 227,
+			"average_try": 2.6079
+		},
+		{
 			"id": 9466,
 			"level": 13,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Quadrilateral",
 			"solved_count": 583,
 			"average_try": 1.4099
-		},
-		{
-			"id": 18198,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Basketball One-on-One",
-			"solved_count": 612,
-			"average_try": 1.6176
 		}
 	],
-	"last_updated": "Sat Dec 16 21:36:20 2023"
+	"last_updated": "Sun Dec 17 21:35:51 2023"
 }
