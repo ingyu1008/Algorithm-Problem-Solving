@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 27332,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "11 \u6708 (November)",
+			"solved_count": 567,
+			"average_try": 1.1728
+		},
+		{
 			"id": 15892,
 			"level": 17,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Simple Sum",
 			"solved_count": 592,
 			"average_try": 1.1757
-		},
-		{
-			"id": 10188,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Quadrilateral",
-			"solved_count": 583,
-			"average_try": 1.4099
 		}
 	],
-	"last_updated": "Sun Dec 17 21:35:51 2023"
+	"last_updated": "Mon Dec 18 21:36:12 2023"
 }
