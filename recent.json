@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 30468,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud638\ubc18\uc6b0\uac00 \ud559\uad50\uc5d0 \uc9c0\uac01\ud55c \uc774\uc720 1",
+			"solved_count": 519,
+			"average_try": 1.3699
+		},
+		{
 			"id": 27332,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "Median",
 			"solved_count": 462,
 			"average_try": 2.0563
-		},
-		{
-			"id": 26531,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Simple Sum",
-			"solved_count": 592,
-			"average_try": 1.1757
 		}
 	],
-	"last_updated": "Mon Dec 18 21:36:12 2023"
+	"last_updated": "Tue Dec 19 21:35:58 2023"
 }
