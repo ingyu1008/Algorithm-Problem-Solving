@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 11478,
+			"level": 8,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc11c\ub85c \ub2e4\ub978 \ubd80\ubd84 \ubb38\uc790\uc5f4\uc758 \uac1c\uc218",
+			"solved_count": 11941,
+			"average_try": 1.5902
+		},
+		{
+			"id": 1269,
+			"level": 7,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub300\uce6d \ucc28\uc9d1\ud569",
+			"solved_count": 14308,
+			"average_try": 1.5579
+		},
+		{
 			"id": 30468,
 			"level": 2,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\u0413\u0420\u0410\u0414\u0418\u041d\u0410",
 			"solved_count": 585,
 			"average_try": 1.6393
-		},
-		{
-			"id": 30501,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uad00\uacf5... \uc5b4\ucc0c\ud558\uc5ec \ubaa9\ub9cc \uc624\uc168\uc18c...",
-			"solved_count": 527,
-			"average_try": 1.1917
-		},
-		{
-			"id": 9782,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Median",
-			"solved_count": 462,
-			"average_try": 2.0563
 		}
 	],
-	"last_updated": "Tue Dec 19 21:35:58 2023"
+	"last_updated": "Wed Dec 20 21:35:54 2023"
 }

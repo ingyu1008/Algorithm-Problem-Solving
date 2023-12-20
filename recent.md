@@ -1,5 +1,7 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 11478 | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
+| 1269 | [대칭 차집합](https://www.acmicpc.net/problem/1269) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
 | 30468 | [호반우가 학교에 지각한 이유 1](https://www.acmicpc.net/problem/30468) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 27332 | [11 月 (November)](https://www.acmicpc.net/problem/27332) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 15892 | [사탕 줍는 로봇](https://www.acmicpc.net/problem/15892) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
@@ -8,5 +10,3 @@
 | 27541 | [末尾の文字 (Last Letter)](https://www.acmicpc.net/problem/27541) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 4383 | [점프는 즐거워](https://www.acmicpc.net/problem/4383) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 24294 | [ГРАДИНА](https://www.acmicpc.net/problem/24294) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 30501 | [관공... 어찌하여 목만 오셨소...](https://www.acmicpc.net/problem/30501) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 9782 | [Median](https://www.acmicpc.net/problem/9782) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
