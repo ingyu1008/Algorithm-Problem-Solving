@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 16234,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc778\uad6c \uc774\ub3d9",
+			"solved_count": 15643,
+			"average_try": 2.6231
+		},
+		{
+			"id": 1075,
+			"level": 4,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub098\ub204\uae30",
+			"solved_count": 10871,
+			"average_try": 1.7466
+		},
+		{
 			"id": 30993,
 			"level": 6,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "\uc9c4\ubc95 \ubcc0\ud658",
 			"solved_count": 17833,
 			"average_try": 1.9976
-		},
-		{
-			"id": 1766,
-			"level": 14,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubb38\uc81c\uc9d1",
-			"solved_count": 10149,
-			"average_try": 2.0512
-		},
-		{
-			"id": 1543,
-			"level": 6,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubb38\uc11c \uac80\uc0c9",
-			"solved_count": 8796,
-			"average_try": 2.2733
 		}
 	],
-	"last_updated": "Sat Dec 23 21:36:07 2023"
+	"last_updated": "Sun Dec 24 21:36:58 2023"
 }
