@@ -1,12 +1,12 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 15683 | [감시](https://www.acmicpc.net/problem/15683) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
+| 9506 | [약수들의 합](https://www.acmicpc.net/problem/9506) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
+| 7567 | [그릇](https://www.acmicpc.net/problem/7567) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
+| 2573 | [빙산](https://www.acmicpc.net/problem/2573) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
+| 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
+| 1735 | [분수 합](https://www.acmicpc.net/problem/1735) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |  |
+| 1076 | [저항](https://www.acmicpc.net/problem/1076) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
+| 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
 | 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 | 1075 | [나누기](https://www.acmicpc.net/problem/1075) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/나누기/solution.cpp>) |
-| 30993 | [자동차 주차](https://www.acmicpc.net/problem/30993) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 30991 | [ESC](https://www.acmicpc.net/problem/30991) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
-| 30987 | [하루 피부과](https://www.acmicpc.net/problem/30987) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 28279 | [덱 2](https://www.acmicpc.net/problem/28279) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
-| 28278 | [스택 2](https://www.acmicpc.net/problem/28278) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
-| 22966 | [가장 쉬운 문제를 찾는 문제](https://www.acmicpc.net/problem/22966) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
-| 11005 | [진법 변환 2](https://www.acmicpc.net/problem/11005) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
-| 2745 | [진법 변환](https://www.acmicpc.net/problem/2745) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
