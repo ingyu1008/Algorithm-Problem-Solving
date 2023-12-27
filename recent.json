@@ -1,6 +1,51 @@
 {
 	"problems": [
 		{
+			"id": 26087,
+			"level": 16,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud53c\ubcf4\ub098\uce58\uc640 \ub9c8\uc9c0\ub9c9 \uc218\uc5f4\uacfc \ucffc\ub9ac",
+			"solved_count": 86,
+			"average_try": 2.814
+		},
+		{
+			"id": 14725,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uac1c\ubbf8\uad74",
+			"solved_count": 3325,
+			"average_try": 1.4947
+		},
+		{
+			"id": 5052,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc804\ud654\ubc88\ud638 \ubaa9\ub85d",
+			"solved_count": 8629,
+			"average_try": 3.3109
+		},
+		{
+			"id": 4766,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc77c\ubc18 \ud654\ud559 \uc2e4\ud5d8",
+			"solved_count": 2314,
+			"average_try": 1.3971
+		},
+		{
+			"id": 1958,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "LCS 3",
+			"solved_count": 3693,
+			"average_try": 1.9802
+		},
+		{
 			"id": 9063,
 			"level": 3,
 			"level_locked": 0,
@@ -44,52 +89,7 @@
 			"title": "\ube59\uc0b0",
 			"solved_count": 13675,
 			"average_try": 3.8513
-		},
-		{
-			"id": 2470,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub450 \uc6a9\uc561",
-			"solved_count": 12200,
-			"average_try": 3.243
-		},
-		{
-			"id": 1735,
-			"level": 8,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ubd84\uc218 \ud569",
-			"solved_count": 11573,
-			"average_try": 2.1023
-		},
-		{
-			"id": 1076,
-			"level": 4,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc800\ud56d",
-			"solved_count": 12023,
-			"average_try": 2.1663
-		},
-		{
-			"id": 1005,
-			"level": 13,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "ACM Craft",
-			"solved_count": 12950,
-			"average_try": 3.5479
-		},
-		{
-			"id": 16234,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc778\uad6c \uc774\ub3d9",
-			"solved_count": 15643,
-			"average_try": 2.6231
 		}
 	],
-	"last_updated": "Tue Dec 26 21:36:01 2023"
+	"last_updated": "Wed Dec 27 21:36:08 2023"
 }
