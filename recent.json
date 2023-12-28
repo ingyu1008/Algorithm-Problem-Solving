@@ -1,6 +1,33 @@
 {
 	"problems": [
 		{
+			"id": 6131,
+			"level": 3,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc644\uc804 \uc81c\uacf1\uc218",
+			"solved_count": 2164,
+			"average_try": 1.3711
+		},
+		{
+			"id": 2800,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uad04\ud638 \uc81c\uac70",
+			"solved_count": 1854,
+			"average_try": 2.7298
+		},
+		{
+			"id": 2774,
+			"level": 4,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc544\ub984\ub2e4\uc6b4 \uc218",
+			"solved_count": 2681,
+			"average_try": 1.3924
+		},
+		{
 			"id": 26087,
 			"level": 16,
 			"level_locked": 0,
@@ -62,34 +89,7 @@
 			"title": "\uac10\uc2dc",
 			"solved_count": 13643,
 			"average_try": 2.256
-		},
-		{
-			"id": 9506,
-			"level": 5,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc57d\uc218\ub4e4\uc758 \ud569",
-			"solved_count": 15647,
-			"average_try": 1.9135
-		},
-		{
-			"id": 7567,
-			"level": 4,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uadf8\ub987",
-			"solved_count": 10275,
-			"average_try": 1.3699
-		},
-		{
-			"id": 2573,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ube59\uc0b0",
-			"solved_count": 13675,
-			"average_try": 3.8513
 		}
 	],
-	"last_updated": "Wed Dec 27 21:36:08 2023"
+	"last_updated": "Thu Dec 28 21:35:50 2023"
 }
