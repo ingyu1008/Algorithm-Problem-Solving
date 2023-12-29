@@ -1,6 +1,24 @@
 {
 	"problems": [
 		{
+			"id": 17419,
+			"level": 7,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ube44\ud2b8\uac00 \ub118\uccd0\ud758\ub7ec",
+			"solved_count": 635,
+			"average_try": 1.7827
+		},
+		{
+			"id": 13308,
+			"level": 16,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc8fc\uc720\uc18c",
+			"solved_count": 935,
+			"average_try": 4.0353
+		},
+		{
 			"id": 6131,
 			"level": 3,
 			"level_locked": 0,
@@ -71,25 +89,7 @@
 			"title": "LCS 3",
 			"solved_count": 3693,
 			"average_try": 1.9802
-		},
-		{
-			"id": 9063,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub300\uc9c0",
-			"solved_count": 8259,
-			"average_try": 1.534
-		},
-		{
-			"id": 15683,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uac10\uc2dc",
-			"solved_count": 13643,
-			"average_try": 2.256
 		}
 	],
-	"last_updated": "Thu Dec 28 21:35:50 2023"
+	"last_updated": "Fri Dec 29 21:35:57 2023"
 }
