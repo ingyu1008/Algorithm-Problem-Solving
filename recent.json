@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 26561,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Population",
+			"solved_count": 594,
+			"average_try": 1.0993
+		},
+		{
 			"id": 30868,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "\uc804\ud654\ubc88\ud638 \ubaa9\ub85d",
 			"solved_count": 8629,
 			"average_try": 3.3109
-		},
-		{
-			"id": 4766,
-			"level": 3,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc77c\ubc18 \ud654\ud559 \uc2e4\ud5d8",
-			"solved_count": 2314,
-			"average_try": 1.3971
 		}
 	],
-	"last_updated": "Sat Dec 30 21:35:50 2023"
+	"last_updated": "Sun Dec 31 21:35:54 2023"
 }
