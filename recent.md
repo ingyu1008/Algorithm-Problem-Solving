@@ -1,12 +1,12 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 20867 | [Rulltrappa](https://www.acmicpc.net/problem/20867) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 13496 | [The Merchant of Venice](https://www.acmicpc.net/problem/13496) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 7475 | [Factoring a Polynomial](https://www.acmicpc.net/problem/7475) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
+| 7420 | [맹독 방벽](https://www.acmicpc.net/problem/7420) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
+| 2162 | [선분 그룹](https://www.acmicpc.net/problem/2162) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
 | 30999 | [민주주의](https://www.acmicpc.net/problem/30999) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 27907 | [The primes contain arbitrarily long arithmetic progressions](https://www.acmicpc.net/problem/27907) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
 | 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 | 9252 | [LCS 2](https://www.acmicpc.net/problem/9252) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 | 1339 | [단어 수학](https://www.acmicpc.net/problem/1339) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 26561 | [Population](https://www.acmicpc.net/problem/26561) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 30868 | [개표](https://www.acmicpc.net/problem/30868) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 17419 | [비트가 넘쳐흘러](https://www.acmicpc.net/problem/17419) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |  |
-| 13308 | [주유소](https://www.acmicpc.net/problem/13308) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> | [코드](<https://github.com/ingyu1008/Algorithm-Problem-Solving/tree/master/Baekjoon%20Online%20Judge/주유소/solution.cpp>) |
-| 6131 | [완전 제곱수](https://www.acmicpc.net/problem/6131) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> |  |
