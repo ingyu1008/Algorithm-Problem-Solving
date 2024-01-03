@@ -1,6 +1,15 @@
 {
 	"problems": [
 		{
+			"id": 24356,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\u0427\u0410\u0421\u041e\u0412\u041d\u0418\u041a",
+			"solved_count": 581,
+			"average_try": 1.6076
+		},
+		{
 			"id": 20867,
 			"level": 2,
 			"level_locked": 0,
@@ -80,16 +89,7 @@
 			"title": "LCS 2",
 			"solved_count": 10702,
 			"average_try": 2.636
-		},
-		{
-			"id": 1339,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub2e8\uc5b4 \uc218\ud559",
-			"solved_count": 11451,
-			"average_try": 2.187
 		}
 	],
-	"last_updated": "Tue Jan  2 21:36:21 2024"
+	"last_updated": "Wed Jan  3 21:35:57 2024"
 }
