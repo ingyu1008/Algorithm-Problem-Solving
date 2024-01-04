@@ -10,19 +10,19 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 30892 | [상어 키우기](https://www.acmicpc.net/problem/30892) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
+| 30415 | [고양이 리그](https://www.acmicpc.net/problem/30415) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
+| 29725 | [체스 초보 브실이](https://www.acmicpc.net/problem/29725) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 19237 | [어른 상어](https://www.acmicpc.net/problem/19237) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
+| 3111 | [검열](https://www.acmicpc.net/problem/3111) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
+| 1036 | [36진수](https://www.acmicpc.net/problem/1036) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
 | 24356 | [ЧАСОВНИК](https://www.acmicpc.net/problem/24356) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 20867 | [Rulltrappa](https://www.acmicpc.net/problem/20867) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 13496 | [The Merchant of Venice](https://www.acmicpc.net/problem/13496) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 | 7475 | [Factoring a Polynomial](https://www.acmicpc.net/problem/7475) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 7420 | [맹독 방벽](https://www.acmicpc.net/problem/7420) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/17.svg"/> |  |
-| 2162 | [선분 그룹](https://www.acmicpc.net/problem/2162) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
-| 30999 | [민주주의](https://www.acmicpc.net/problem/30999) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 27907 | [The primes contain arbitrarily long arithmetic progressions](https://www.acmicpc.net/problem/27907) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
-| 17144 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 9252 | [LCS 2](https://www.acmicpc.net/problem/9252) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 
 
 ---
 
-last updated : Wed Jan  3 21:36:26 2024
+last updated : Thu Jan  4 21:37:03 2024
 
