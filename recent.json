@@ -1,6 +1,51 @@
 {
 	"problems": [
 		{
+			"id": 30045,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "ZOAC 6",
+			"solved_count": 552,
+			"average_try": 1.3496
+		},
+		{
+			"id": 30008,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc900\uc601\uc774\uc758 \ub4f1\uae09",
+			"solved_count": 556,
+			"average_try": 1.3094
+		},
+		{
+			"id": 28224,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Final Price",
+			"solved_count": 573,
+			"average_try": 1.1012
+		},
+		{
+			"id": 27973,
+			"level": 10,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc9c0\uc5f0 \ud3c9\uac00",
+			"solved_count": 222,
+			"average_try": 1.5721
+		},
+		{
+			"id": 14275,
+			"level": 20,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc9c1\uc0ac\uac01\ud615 \uc0c9\uce60",
+			"solved_count": 28,
+			"average_try": 1.25
+		},
+		{
 			"id": 30892,
 			"level": 10,
 			"level_locked": 0,
@@ -44,52 +89,7 @@
 			"title": "\uac80\uc5f4",
 			"solved_count": 798,
 			"average_try": 4.802
-		},
-		{
-			"id": 1036,
-			"level": 15,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "36\uc9c4\uc218",
-			"solved_count": 980,
-			"average_try": 4.15
-		},
-		{
-			"id": 24356,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u0427\u0410\u0421\u041e\u0412\u041d\u0418\u041a",
-			"solved_count": 581,
-			"average_try": 1.6076
-		},
-		{
-			"id": 20867,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Rulltrappa",
-			"solved_count": 592,
-			"average_try": 1.5372
-		},
-		{
-			"id": 13496,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "The Merchant of Venice",
-			"solved_count": 598,
-			"average_try": 1.6338
-		},
-		{
-			"id": 7475,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Factoring a Polynomial",
-			"solved_count": 11,
-			"average_try": 1.4545
 		}
 	],
-	"last_updated": "Thu Jan  4 21:36:25 2024"
+	"last_updated": "Fri Jan  5 21:36:01 2024"
 }
