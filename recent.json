@@ -1,6 +1,42 @@
 {
 	"problems": [
 		{
+			"id": 16211,
+			"level": 14,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubc31\ucc44\uc6d0",
+			"solved_count": 88,
+			"average_try": 2.3523
+		},
+		{
+			"id": 14524,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "COWBASIC",
+			"solved_count": 15,
+			"average_try": 2.0667
+		},
+		{
+			"id": 12907,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub3d9\ubb3c\uc6d0",
+			"solved_count": 254,
+			"average_try": 3.1339
+		},
+		{
+			"id": 2354,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ube44\uad50\uad50\ud658",
+			"solved_count": 16,
+			"average_try": 2.3125
+		},
+		{
 			"id": 31090,
 			"level": 2,
 			"level_locked": 0,
@@ -53,43 +89,7 @@
 			"title": "H4x0r",
 			"solved_count": 468,
 			"average_try": 1.438
-		},
-		{
-			"id": 26767,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Hurra!",
-			"solved_count": 462,
-			"average_try": 1.4935
-		},
-		{
-			"id": 26736,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Wynik meczu",
-			"solved_count": 528,
-			"average_try": 1.1345
-		},
-		{
-			"id": 26546,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Reverse",
-			"solved_count": 551,
-			"average_try": 1.1633
-		},
-		{
-			"id": 25932,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Find the Twins",
-			"solved_count": 457,
-			"average_try": 1.5908
 		}
 	],
-	"last_updated": "Sun Jan  7 21:36:07 2024"
+	"last_updated": "Mon Jan  8 21:36:06 2024"
 }
