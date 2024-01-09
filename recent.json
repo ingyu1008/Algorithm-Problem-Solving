@@ -1,6 +1,42 @@
 {
 	"problems": [
 		{
+			"id": 27322,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud55c\ubcc4\uc774\uc758 \ud37c\ud399\ud2b8 \uc218\uc5f4\uacfc \ucffc\ub9ac \uad50\uc2e4",
+			"solved_count": 18,
+			"average_try": 4.1667
+		},
+		{
+			"id": 23888,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub4f1\ucc28\uc218\uc5f4\uacfc \ucffc\ub9ac",
+			"solved_count": 338,
+			"average_try": 4.4527
+		},
+		{
+			"id": 21320,
+			"level": 15,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc21c\uac04\uc774\ub3d9 \uc5ec\ud589",
+			"solved_count": 69,
+			"average_try": 2.5942
+		},
+		{
+			"id": 1195,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud0a5\ub2e4\uc6b4",
+			"solved_count": 369,
+			"average_try": 3.1734
+		},
+		{
 			"id": 16211,
 			"level": 14,
 			"level_locked": 0,
@@ -53,43 +89,7 @@
 			"title": "\ud559\ubc88\uc744 \ucc3e\uc544\uc918!",
 			"solved_count": 463,
 			"average_try": 1.8553
-		},
-		{
-			"id": 28960,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u041f\u043b\u0430\u0449 \u043b\u0435\u0432\u0438\u0442\u0430\u0446\u0438\u0438",
-			"solved_count": 145,
-			"average_try": 2.4483
-		},
-		{
-			"id": 28940,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u0414\u043d\u0435\u0432\u043d\u0438\u043a \u0413\u0440\u0430\u0432\u0438\u0442\u0438 \u0424\u043e\u043b\u0437",
-			"solved_count": 143,
-			"average_try": 1.6434
-		},
-		{
-			"id": 27880,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Gahui and Soongsil University station",
-			"solved_count": 520,
-			"average_try": 1.2192
-		},
-		{
-			"id": 26768,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "H4x0r",
-			"solved_count": 468,
-			"average_try": 1.438
 		}
 	],
-	"last_updated": "Mon Jan  8 21:36:06 2024"
+	"last_updated": "Tue Jan  9 21:36:25 2024"
 }
