@@ -1,6 +1,33 @@
 {
 	"problems": [
 		{
+			"id": 30391,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud2b8\ub9ac\uc758 \uc9c0\ub984?",
+			"solved_count": 80,
+			"average_try": 2.0625
+		},
+		{
+			"id": 4044,
+			"level": 14,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub3c4\uc804 24",
+			"solved_count": 28,
+			"average_try": 2.5
+		},
+		{
+			"id": 2045,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ub9c8\ubc29\uc9c4",
+			"solved_count": 149,
+			"average_try": 3.8591
+		},
+		{
 			"id": 14640,
 			"level": 29,
 			"level_locked": 0,
@@ -62,34 +89,7 @@
 			"title": "\ud55c\ubcc4\uc774\uc758 \ud37c\ud399\ud2b8 \uc218\uc5f4\uacfc \ucffc\ub9ac \uad50\uc2e4",
 			"solved_count": 18,
 			"average_try": 4.1667
-		},
-		{
-			"id": 23888,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub4f1\ucc28\uc218\uc5f4\uacfc \ucffc\ub9ac",
-			"solved_count": 338,
-			"average_try": 4.4527
-		},
-		{
-			"id": 21320,
-			"level": 15,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc21c\uac04\uc774\ub3d9 \uc5ec\ud589",
-			"solved_count": 69,
-			"average_try": 2.5942
-		},
-		{
-			"id": 1195,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud0a5\ub2e4\uc6b4",
-			"solved_count": 369,
-			"average_try": 3.1734
 		}
 	],
-	"last_updated": "Thu Jan 11 21:36:29 2024"
+	"last_updated": "Fri Jan 12 21:36:06 2024"
 }
