@@ -1,6 +1,33 @@
 {
 	"problems": [
 		{
+			"id": 30043,
+			"level": 23,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Binding of Isaac",
+			"solved_count": 16,
+			"average_try": 9.9375
+		},
+		{
+			"id": 24487,
+			"level": 22,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Multiple Choice Test",
+			"solved_count": 20,
+			"average_try": 3.65
+		},
+		{
+			"id": 9470,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Strahler \uc21c\uc11c",
+			"solved_count": 1252,
+			"average_try": 2.5272
+		},
+		{
 			"id": 30391,
 			"level": 12,
 			"level_locked": 0,
@@ -62,34 +89,7 @@
 			"title": "\uc9c0\uae08 \ub9cc\ub098\ub7ec \uac11\ub2c8\ub2e4",
 			"solved_count": 317,
 			"average_try": 3.571
-		},
-		{
-			"id": 15319,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ub3d9\ud601\uc774\uc758 \uc0dd\uc77c\uc120\ubb3c",
-			"solved_count": 91,
-			"average_try": 1.8132
-		},
-		{
-			"id": 2541,
-			"level": 14,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc810",
-			"solved_count": 195,
-			"average_try": 4.1949
-		},
-		{
-			"id": 27322,
-			"level": 23,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud55c\ubcc4\uc774\uc758 \ud37c\ud399\ud2b8 \uc218\uc5f4\uacfc \ucffc\ub9ac \uad50\uc2e4",
-			"solved_count": 18,
-			"average_try": 4.1667
 		}
 	],
-	"last_updated": "Fri Jan 12 21:36:06 2024"
+	"last_updated": "Sat Jan 13 21:35:56 2024"
 }
