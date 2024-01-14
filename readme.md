@@ -10,6 +10,7 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 2129 | [드라이브 파이널](https://www.acmicpc.net/problem/2129) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
 | 30043 | [Binding of Isaac](https://www.acmicpc.net/problem/30043) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> |  |
 | 24487 | [Multiple Choice Test](https://www.acmicpc.net/problem/24487) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
 | 9470 | [Strahler 순서](https://www.acmicpc.net/problem/9470) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
@@ -19,10 +20,9 @@ BOJ Problem Count = 144
 | 14640 | [Scenery](https://www.acmicpc.net/problem/14640) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/29.svg"/> |  |
 | 7146 | [데이터 만들기 7](https://www.acmicpc.net/problem/7146) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 | 1229 | [육각수](https://www.acmicpc.net/problem/1229) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 18235 | [지금 만나러 갑니다](https://www.acmicpc.net/problem/18235) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
 
 
 ---
 
-last updated : Sat Jan 13 21:36:37 2024
+last updated : Sun Jan 14 21:36:42 2024
 
