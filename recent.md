@@ -1,12 +1,12 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
-| 2129 | [드라이브 파이널](https://www.acmicpc.net/problem/2129) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
-| 30043 | [Binding of Isaac](https://www.acmicpc.net/problem/30043) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/23.svg"/> |  |
-| 24487 | [Multiple Choice Test](https://www.acmicpc.net/problem/24487) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/22.svg"/> |  |
-| 9470 | [Strahler 순서](https://www.acmicpc.net/problem/9470) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
-| 30391 | [트리의 지름?](https://www.acmicpc.net/problem/30391) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 4044 | [도전 24](https://www.acmicpc.net/problem/4044) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |  |
-| 2045 | [마방진](https://www.acmicpc.net/problem/2045) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
-| 14640 | [Scenery](https://www.acmicpc.net/problem/14640) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/29.svg"/> |  |
-| 7146 | [데이터 만들기 7](https://www.acmicpc.net/problem/7146) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 1229 | [육각수](https://www.acmicpc.net/problem/1229) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
+| 31236 | [볼록볼록](https://www.acmicpc.net/problem/31236) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
+| 31230 | [모비스터디](https://www.acmicpc.net/problem/31230) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 26566 | [Pizza](https://www.acmicpc.net/problem/26566) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 21736 | [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
+| 14940 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
+| 14938 | [서강그라운드](https://www.acmicpc.net/problem/14938) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
+| 13172 | [Σ](https://www.acmicpc.net/problem/13172) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
+| 12851 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
+| 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 2638 | [치즈](https://www.acmicpc.net/problem/2638) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
