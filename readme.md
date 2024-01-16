@@ -10,19 +10,19 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
-| 31236 | [볼록볼록](https://www.acmicpc.net/problem/31236) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
-| 31230 | [모비스터디](https://www.acmicpc.net/problem/31230) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
-| 26566 | [Pizza](https://www.acmicpc.net/problem/26566) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 21736 | [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
-| 14940 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |  |
-| 14938 | [서강그라운드](https://www.acmicpc.net/problem/14938) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 13172 | [Σ](https://www.acmicpc.net/problem/13172) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 12851 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
-| 2638 | [치즈](https://www.acmicpc.net/problem/2638) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 30876 | [Tren del Fin del Mundo](https://www.acmicpc.net/problem/30876) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 28490 | [Area](https://www.acmicpc.net/problem/28490) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 28249 | [Chili Peppers](https://www.acmicpc.net/problem/28249) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 27267 | [Сравнение комнат](https://www.acmicpc.net/problem/27267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 27262 | [Лифт](https://www.acmicpc.net/problem/27262) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 27239 | [Шахматная доска](https://www.acmicpc.net/problem/27239) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 27213 | [Граничные клетки](https://www.acmicpc.net/problem/27213) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 26772 | [Poziome serca](https://www.acmicpc.net/problem/26772) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 26742 | [Skarpetki](https://www.acmicpc.net/problem/26742) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 26731 | [Zagubiona litera](https://www.acmicpc.net/problem/26731) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Mon Jan 15 21:36:48 2024
+last updated : Tue Jan 16 21:36:57 2024
 
