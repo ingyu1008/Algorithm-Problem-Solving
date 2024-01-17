@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"result": {
-		"total_problems": 1634,
+		"total_problems": 1638,
 		"total_page": 1,
 		"problems": [
 			{
@@ -10,8 +10,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "A+B",
-				"solved_count": 276142,
-				"average_try": 2.5352
+				"solved_count": 276329,
+				"average_try": 2.5353
 			},
 			{
 				"id": 1001,
@@ -19,8 +19,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "A-B",
-				"solved_count": 236130,
-				"average_try": 1.4335
+				"solved_count": 236297,
+				"average_try": 1.4334
 			},
 			{
 				"id": 1002,
@@ -28,7 +28,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud130\ub81b",
-				"solved_count": 35652,
+				"solved_count": 35671,
 				"average_try": 4.4505
 			},
 			{
@@ -37,7 +37,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud53c\ubcf4\ub098\uce58 \ud568\uc218",
-				"solved_count": 50390,
+				"solved_count": 50432,
 				"average_try": 3.0341
 			},
 			{
@@ -55,8 +55,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "ACM Craft",
-				"solved_count": 13177,
-				"average_try": 3.5364
+				"solved_count": 13179,
+				"average_try": 3.5362
 			},
 			{
 				"id": 1007,
@@ -64,7 +64,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubca1\ud130 \ub9e4\uce6d",
-				"solved_count": 3222,
+				"solved_count": 3231,
 				"average_try": 2.6682
 			},
 			{
@@ -73,8 +73,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "A/B",
-				"solved_count": 191968,
-				"average_try": 2.8937
+				"solved_count": 192136,
+				"average_try": 2.8935
 			},
 			{
 				"id": 1009,
@@ -82,8 +82,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubd84\uc0b0\ucc98\ub9ac",
-				"solved_count": 19873,
-				"average_try": 4.1119
+				"solved_count": 19893,
+				"average_try": 4.1118
 			},
 			{
 				"id": 1010,
@@ -91,8 +91,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2e4\ub9ac \ub193\uae30",
-				"solved_count": 35241,
-				"average_try": 2.0846
+				"solved_count": 35282,
+				"average_try": 2.0847
 			},
 			{
 				"id": 1011,
@@ -100,8 +100,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Fly me to the Alpha Centauri",
-				"solved_count": 22614,
-				"average_try": 3.1744
+				"solved_count": 22646,
+				"average_try": 3.1735
 			},
 			{
 				"id": 1012,
@@ -109,8 +109,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc720\uae30\ub18d \ubc30\ucd94",
-				"solved_count": 46956,
-				"average_try": 2.6257
+				"solved_count": 47002,
+				"average_try": 2.6256
 			},
 			{
 				"id": 1013,
@@ -136,8 +136,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc81c\uacf1 \u3134\u3134 \uc218",
-				"solved_count": 8251,
-				"average_try": 4.6151
+				"solved_count": 8261,
+				"average_try": 4.6123
 			},
 			{
 				"id": 1017,
@@ -154,8 +154,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uccb4\uc2a4\ud310 \ub2e4\uc2dc \uce60\ud558\uae30",
-				"solved_count": 44802,
-				"average_try": 2.009
+				"solved_count": 44877,
+				"average_try": 2.0092
 			},
 			{
 				"id": 1021,
@@ -163,8 +163,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud68c\uc804\ud558\ub294 \ud050",
-				"solved_count": 20790,
-				"average_try": 1.6337
+				"solved_count": 20793,
+				"average_try": 1.6338
 			},
 			{
 				"id": 1026,
@@ -226,8 +226,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac70\uc9d3\ub9d0",
-				"solved_count": 9700,
-				"average_try": 2.2168
+				"solved_count": 9721,
+				"average_try": 2.2166
 			},
 			{
 				"id": 1057,
@@ -271,8 +271,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b8\ub9ac",
-				"solved_count": 12111,
-				"average_try": 3.4821
+				"solved_count": 12130,
+				"average_try": 3.4809
 			},
 			{
 				"id": 1072,
@@ -280,8 +280,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac8c\uc784",
-				"solved_count": 7496,
-				"average_try": 4.1469
+				"solved_count": 7503,
+				"average_try": 4.1461
 			},
 			{
 				"id": 1074,
@@ -307,8 +307,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc800\ud56d",
-				"solved_count": 12191,
-				"average_try": 2.1595
+				"solved_count": 12207,
+				"average_try": 2.1588
 			},
 			{
 				"id": 1080,
@@ -325,8 +325,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc9c1\uc0ac\uac01\ud615\uc5d0\uc11c \ud0c8\ucd9c",
-				"solved_count": 52788,
-				"average_try": 1.5413
+				"solved_count": 52853,
+				"average_try": 1.5412
 			},
 			{
 				"id": 1094,
@@ -352,7 +352,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub9ac\ubaa8\ucee8",
-				"solved_count": 18413,
+				"solved_count": 18416,
 				"average_try": 4.3096
 			},
 			{
@@ -388,8 +388,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc801\uc5b4\ub3c4 \ub300\ubd80\ubd84\uc758 \ubc30\uc218",
-				"solved_count": 6369,
-				"average_try": 1.596
+				"solved_count": 6380,
+				"average_try": 1.5958
 			},
 			{
 				"id": 1149,
@@ -397,8 +397,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "RGB\uac70\ub9ac",
-				"solved_count": 45078,
-				"average_try": 1.8234
+				"solved_count": 45090,
+				"average_try": 1.8233
 			},
 			{
 				"id": 1150,
@@ -415,8 +415,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ub2e8\uc5b4\uc758 \uac1c\uc218",
-				"solved_count": 94518,
-				"average_try": 3.0542
+				"solved_count": 94521,
+				"average_try": 3.0545
 			},
 			{
 				"id": 1157,
@@ -424,8 +424,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2e8\uc5b4 \uacf5\ubd80",
-				"solved_count": 84803,
-				"average_try": 2.5227
+				"solved_count": 84892,
+				"average_try": 2.5236
 			},
 			{
 				"id": 1158,
@@ -433,8 +433,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc694\uc138\ud478\uc2a4 \ubb38\uc81c",
-				"solved_count": 36601,
-				"average_try": 2.0485
+				"solved_count": 36609,
+				"average_try": 2.0486
 			},
 			{
 				"id": 1167,
@@ -442,8 +442,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b8\ub9ac\uc758 \uc9c0\ub984",
-				"solved_count": 13454,
-				"average_try": 2.9391
+				"solved_count": 13482,
+				"average_try": 2.9387
 			},
 			{
 				"id": 1181,
@@ -451,8 +451,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2e8\uc5b4 \uc815\ub82c",
-				"solved_count": 53616,
-				"average_try": 2.4804
+				"solved_count": 53662,
+				"average_try": 2.4806
 			},
 			{
 				"id": 1182,
@@ -478,8 +478,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubd84\uc218\ucc3e\uae30",
-				"solved_count": 50848,
-				"average_try": 1.9398
+				"solved_count": 50876,
+				"average_try": 1.94
 			},
 			{
 				"id": 1195,
@@ -523,8 +523,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcf4\uc11d \ub3c4\ub451",
-				"solved_count": 10626,
-				"average_try": 4.5101
+				"solved_count": 10634,
+				"average_try": 4.5098
 			},
 			{
 				"id": 1208,
@@ -550,8 +550,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud330\ub9b0\ub4dc\ub86c \ub9cc\ub4e4\uae30",
-				"solved_count": 8314,
-				"average_try": 2.3984
+				"solved_count": 8325,
+				"average_try": 2.3989
 			},
 			{
 				"id": 1222,
@@ -559,8 +559,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud64d\uc900 \ud504\ub85c\uadf8\ub798\ubc0d \ub300\ud68c",
-				"solved_count": 471,
-				"average_try": 4.1359
+				"solved_count": 473,
+				"average_try": 4.1247
 			},
 			{
 				"id": 1229,
@@ -577,7 +577,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc131 \uc9c0\ud0a4\uae30",
-				"solved_count": 5397,
+				"solved_count": 5398,
 				"average_try": 2.3298
 			},
 			{
@@ -595,8 +595,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubd80\ud638",
-				"solved_count": 4600,
-				"average_try": 2.7513
+				"solved_count": 4614,
+				"average_try": 2.7495
 			},
 			{
 				"id": 1251,
@@ -613,8 +613,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud330\ub9b0\ub4dc\ub86c\uc218",
-				"solved_count": 28981,
-				"average_try": 1.7486
+				"solved_count": 29004,
+				"average_try": 1.7498
 			},
 			{
 				"id": 1260,
@@ -622,8 +622,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "DFS\uc640 BFS",
-				"solved_count": 61296,
-				"average_try": 2.6752
+				"solved_count": 61375,
+				"average_try": 2.6751
 			},
 			{
 				"id": 1264,
@@ -649,8 +649,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub300\uce6d \ucc28\uc9d1\ud569",
-				"solved_count": 14845,
-				"average_try": 1.5574
+				"solved_count": 14846,
+				"average_try": 1.5573
 			},
 			{
 				"id": 1271,
@@ -658,8 +658,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5c4\uccad\ub09c \ubd80\uc7902",
-				"solved_count": 17769,
-				"average_try": 2.9025
+				"solved_count": 17791,
+				"average_try": 2.9017
 			},
 			{
 				"id": 1275,
@@ -721,8 +721,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubca0\uc2a4\ud2b8\uc140\ub7ec",
-				"solved_count": 10530,
-				"average_try": 1.8723
+				"solved_count": 10536,
+				"average_try": 1.8721
 			},
 			{
 				"id": 1305,
@@ -748,7 +748,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub3d9\ubb3c\uc6d0",
-				"solved_count": 13108,
+				"solved_count": 13122,
 				"average_try": 2.1219
 			},
 			{
@@ -775,7 +775,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uadf8\ub8f9 \ub2e8\uc5b4 \uccb4\ucee4",
-				"solved_count": 65354,
+				"solved_count": 65357,
 				"average_try": 1.8841
 			},
 			{
@@ -793,8 +793,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ub450 \uc218 \ube44\uad50\ud558\uae30",
-				"solved_count": 168168,
-				"average_try": 2.0144
+				"solved_count": 168302,
+				"average_try": 2.0145
 			},
 			{
 				"id": 1339,
@@ -811,8 +811,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5f0\ub3c4 \uc9c4\ud589\ubc14",
-				"solved_count": 1007,
-				"average_try": 2.2056
+				"solved_count": 1020,
+				"average_try": 2.199
 			},
 			{
 				"id": 1343,
@@ -820,8 +820,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud3f4\ub9ac\uc624\ubbf8\ub178",
-				"solved_count": 6783,
-				"average_try": 1.8868
+				"solved_count": 6801,
+				"average_try": 1.8858
 			},
 			{
 				"id": 1362,
@@ -847,7 +847,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucf00\ube48 \ubca0\uc774\ucee8\uc758 6\ub2e8\uacc4 \ubc95\uce59",
-				"solved_count": 15297,
+				"solved_count": 15331,
 				"average_try": 1.8245
 			},
 			{
@@ -883,8 +883,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5d0\ub514\ud130",
-				"solved_count": 21206,
-				"average_try": 3.7689
+				"solved_count": 21236,
+				"average_try": 3.7685
 			},
 			{
 				"id": 1417,
@@ -910,8 +910,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc18c\ud2b8\uc778\uc0ac\uc774\ub4dc",
-				"solved_count": 48735,
-				"average_try": 1.5266
+				"solved_count": 48768,
+				"average_try": 1.5265
 			},
 			{
 				"id": 1436,
@@ -919,8 +919,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc601\ud654\uac10\ub3c5 \uc20c",
-				"solved_count": 42687,
-				"average_try": 1.7508
+				"solved_count": 42735,
+				"average_try": 1.7502
 			},
 			{
 				"id": 1439,
@@ -946,8 +946,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "1\ub85c \ub9cc\ub4e4\uae30",
-				"solved_count": 62982,
-				"average_try": 3.0426
+				"solved_count": 62985,
+				"average_try": 3.0428
 			},
 			{
 				"id": 1475,
@@ -955,8 +955,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubc29 \ubc88\ud638",
-				"solved_count": 21876,
-				"average_try": 2.2668
+				"solved_count": 21878,
+				"average_try": 2.2669
 			},
 			{
 				"id": 1476,
@@ -982,8 +982,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b9\uc815\ud55c \ucd5c\ub2e8 \uacbd\ub85c",
-				"solved_count": 14559,
-				"average_try": 4.0066
+				"solved_count": 14562,
+				"average_try": 4.0062
 			},
 			{
 				"id": 1517,
@@ -991,8 +991,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubc84\ube14 \uc18c\ud2b8",
-				"solved_count": 5457,
-				"average_try": 3.33
+				"solved_count": 5461,
+				"average_try": 3.3357
 			},
 			{
 				"id": 1520,
@@ -1009,8 +1009,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc548\ub155",
-				"solved_count": 3986,
-				"average_try": 1.8151
+				"solved_count": 3998,
+				"average_try": 1.8134
 			},
 			{
 				"id": 1541,
@@ -1018,8 +1018,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc783\uc5b4\ubc84\ub9b0 \uad04\ud638",
-				"solved_count": 34696,
-				"average_try": 1.8683
+				"solved_count": 34740,
+				"average_try": 1.8682
 			},
 			{
 				"id": 1543,
@@ -1027,8 +1027,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubb38\uc11c \uac80\uc0c9",
-				"solved_count": 8996,
-				"average_try": 2.2682
+				"solved_count": 9022,
+				"average_try": 2.2681
 			},
 			{
 				"id": 1546,
@@ -1036,7 +1036,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud3c9\uade0",
-				"solved_count": 107354,
+				"solved_count": 107362,
 				"average_try": 2.009
 			},
 			{
@@ -1045,8 +1045,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uacf5",
-				"solved_count": 9682,
-				"average_try": 1.3624
+				"solved_count": 9688,
+				"average_try": 1.3622
 			},
 			{
 				"id": 1550,
@@ -1054,8 +1054,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "16\uc9c4\uc218",
-				"solved_count": 15841,
-				"average_try": 1.5411
+				"solved_count": 15865,
+				"average_try": 1.5405
 			},
 			{
 				"id": 1557,
@@ -1072,8 +1072,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub180\uc774 \uacf5\uc6d0",
-				"solved_count": 2068,
-				"average_try": 3.8607
+				"solved_count": 2071,
+				"average_try": 3.858
 			},
 			{
 				"id": 1572,
@@ -1094,13 +1094,22 @@
 				"average_try": 2.2399
 			},
 			{
+				"id": 1612,
+				"level": 11,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uac00\uc9c0\uace0 \ub178\ub294 1",
+				"solved_count": 495,
+				"average_try": 2.7071
+			},
+			{
 				"id": 1620,
 				"level": 7,
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub098\ub294\uc57c \ud3ec\ucf13\ubaac \ub9c8\uc2a4\ud130 \uc774\ub2e4\uc19c",
-				"solved_count": 26737,
-				"average_try": 2.9191
+				"solved_count": 26785,
+				"average_try": 2.9184
 			},
 			{
 				"id": 1626,
@@ -1108,8 +1117,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub450 \ubc88\uc9f8\ub85c \uc791\uc740 \uc2a4\ud328\ub2dd \ud2b8\ub9ac",
-				"solved_count": 621,
-				"average_try": 6.7488
+				"solved_count": 622,
+				"average_try": 6.7444
 			},
 			{
 				"id": 1629,
@@ -1117,8 +1126,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uacf1\uc148",
-				"solved_count": 23276,
-				"average_try": 3.7036
+				"solved_count": 23287,
+				"average_try": 3.7032
 			},
 			{
 				"id": 1644,
@@ -1126,8 +1135,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc18c\uc218\uc758 \uc5f0\uc18d\ud569",
-				"solved_count": 12926,
-				"average_try": 2.423
+				"solved_count": 12941,
+				"average_try": 2.4226
 			},
 			{
 				"id": 1647,
@@ -1135,8 +1144,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub3c4\uc2dc \ubd84\ud560 \uacc4\ud68d",
-				"solved_count": 8834,
-				"average_try": 2.0456
+				"solved_count": 8871,
+				"average_try": 2.0448
 			},
 			{
 				"id": 1648,
@@ -1162,8 +1171,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub79c\uc120 \uc790\ub974\uae30",
-				"solved_count": 32568,
-				"average_try": 4.7061
+				"solved_count": 32587,
+				"average_try": 4.7064
 			},
 			{
 				"id": 1655,
@@ -1171,8 +1180,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc6b4\ub370\ub97c \ub9d0\ud574\uc694",
-				"solved_count": 13391,
-				"average_try": 3.2938
+				"solved_count": 13405,
+				"average_try": 3.2934
 			},
 			{
 				"id": 1662,
@@ -1207,8 +1216,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud329\ud1a0\ub9ac\uc5bc 0\uc758 \uac1c\uc218",
-				"solved_count": 29773,
-				"average_try": 2.1267
+				"solved_count": 29780,
+				"average_try": 2.1268
 			},
 			{
 				"id": 1697,
@@ -1216,7 +1225,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc228\ubc14\uaf2d\uc9c8",
-				"solved_count": 42736,
+				"solved_count": 42757,
 				"average_try": 3.8933
 			},
 			{
@@ -1225,8 +1234,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc81c\uacf1\uc218\uc758 \ud569",
-				"solved_count": 17287,
-				"average_try": 2.5185
+				"solved_count": 17302,
+				"average_try": 2.5186
 			},
 			{
 				"id": 1701,
@@ -1243,8 +1252,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\ubd84 \uadf8\ub798\ud504",
-				"solved_count": 15223,
-				"average_try": 4.1297
+				"solved_count": 15240,
+				"average_try": 4.1275
 			},
 			{
 				"id": 1708,
@@ -1270,8 +1279,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uce74\ub4dc \uc815\ub82c\ud558\uae30",
-				"solved_count": 16434,
-				"average_try": 2.9439
+				"solved_count": 16456,
+				"average_try": 2.9431
 			},
 			{
 				"id": 1717,
@@ -1315,8 +1324,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218 \uc774\uc5b4 \uc4f0\uae30 1",
-				"solved_count": 10889,
-				"average_try": 2.0782
+				"solved_count": 10913,
+				"average_try": 2.079
 			},
 			{
 				"id": 1753,
@@ -1324,8 +1333,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\ub2e8\uacbd\ub85c",
-				"solved_count": 29489,
-				"average_try": 3.939
+				"solved_count": 29504,
+				"average_try": 3.9389
 			},
 			{
 				"id": 1759,
@@ -1333,8 +1342,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc554\ud638 \ub9cc\ub4e4\uae30",
-				"solved_count": 23205,
-				"average_try": 2.2388
+				"solved_count": 23209,
+				"average_try": 2.2387
 			},
 			{
 				"id": 1761,
@@ -1351,8 +1360,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub4e3\ubcf4\uc7a1",
-				"solved_count": 32759,
-				"average_try": 2.4338
+				"solved_count": 32845,
+				"average_try": 2.4335
 			},
 			{
 				"id": 1766,
@@ -1360,8 +1369,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubb38\uc81c\uc9d1",
-				"solved_count": 10301,
-				"average_try": 2.0489
+				"solved_count": 10314,
+				"average_try": 2.048
 			},
 			{
 				"id": 1769,
@@ -1369,8 +1378,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "3\uc758 \ubc30\uc218",
-				"solved_count": 4549,
-				"average_try": 3.2225
+				"solved_count": 4558,
+				"average_try": 3.2242
 			},
 			{
 				"id": 1777,
@@ -1387,7 +1396,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc885\uc774\uc758 \uac1c\uc218",
-				"solved_count": 19785,
+				"solved_count": 19807,
 				"average_try": 1.6841
 			},
 			{
@@ -1396,8 +1405,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucc3e\uae30",
-				"solved_count": 7404,
-				"average_try": 3.3073
+				"solved_count": 7405,
+				"average_try": 3.307
 			},
 			{
 				"id": 1788,
@@ -1405,8 +1414,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud53c\ubcf4\ub098\uce58 \uc218\uc758 \ud655\uc7a5",
-				"solved_count": 3083,
-				"average_try": 3.0519
+				"solved_count": 3090,
+				"average_try": 3.056
 			},
 			{
 				"id": 1789,
@@ -1414,8 +1423,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218\ub4e4\uc758 \ud569",
-				"solved_count": 20019,
-				"average_try": 2.3975
+				"solved_count": 20038,
+				"average_try": 2.397
 			},
 			{
 				"id": 1792,
@@ -1432,8 +1441,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ube44\uc20d",
-				"solved_count": 4346,
-				"average_try": 4.1029
+				"solved_count": 4353,
+				"average_try": 4.1025
 			},
 			{
 				"id": 1806,
@@ -1495,8 +1504,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "K\ubc88\uc9f8 \ucd5c\ub2e8\uacbd\ub85c \ucc3e\uae30",
-				"solved_count": 3334,
-				"average_try": 2.8755
+				"solved_count": 3339,
+				"average_try": 2.8736
 			},
 			{
 				"id": 1865,
@@ -1504,8 +1513,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc6dc\ud640",
-				"solved_count": 6966,
-				"average_try": 4.6358
+				"solved_count": 6975,
+				"average_try": 4.6367
 			},
 			{
 				"id": 1867,
@@ -1531,8 +1540,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2a4\ud0dd \uc218\uc5f4",
-				"solved_count": 40285,
-				"average_try": 2.6426
+				"solved_count": 40317,
+				"average_try": 2.642
 			},
 			{
 				"id": 1890,
@@ -1558,8 +1567,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5f0\uc18d\ud569",
-				"solved_count": 36863,
-				"average_try": 2.7552
+				"solved_count": 36895,
+				"average_try": 2.7545
 			},
 			{
 				"id": 1915,
@@ -1594,8 +1603,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218 \ucc3e\uae30",
-				"solved_count": 49438,
-				"average_try": 3.3475
+				"solved_count": 49454,
+				"average_try": 3.3474
 			},
 			{
 				"id": 1922,
@@ -1612,8 +1621,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "2007\ub144",
-				"solved_count": 36580,
-				"average_try": 2.0182
+				"solved_count": 36610,
+				"average_try": 2.0175
 			},
 			{
 				"id": 1926,
@@ -1621,7 +1630,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uadf8\ub9bc",
-				"solved_count": 11434,
+				"solved_count": 11438,
 				"average_try": 2.3766
 			},
 			{
@@ -1630,8 +1639,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\uc18c \ud799",
-				"solved_count": 28851,
-				"average_try": 2.0399
+				"solved_count": 28889,
+				"average_try": 2.0404
 			},
 			{
 				"id": 1929,
@@ -1639,8 +1648,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc18c\uc218 \uad6c\ud558\uae30",
-				"solved_count": 54638,
-				"average_try": 3.6521
+				"solved_count": 54686,
+				"average_try": 3.6514
 			},
 			{
 				"id": 1931,
@@ -1648,8 +1657,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud68c\uc758\uc2e4 \ubc30\uc815",
-				"solved_count": 45172,
-				"average_try": 3.3024
+				"solved_count": 45201,
+				"average_try": 3.3022
 			},
 			{
 				"id": 1932,
@@ -1657,8 +1666,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc815\uc218 \uc0bc\uac01\ud615",
-				"solved_count": 38950,
-				"average_try": 1.6793
+				"solved_count": 38979,
+				"average_try": 1.679
 			},
 			{
 				"id": 1934,
@@ -1666,7 +1675,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\uc18c\uacf5\ubc30\uc218",
-				"solved_count": 33645,
+				"solved_count": 33646,
 				"average_try": 1.7852
 			},
 			{
@@ -1693,8 +1702,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2e0\uc785 \uc0ac\uc6d0",
-				"solved_count": 14545,
-				"average_try": 3.0469
+				"solved_count": 14561,
+				"average_try": 3.0468
 			},
 			{
 				"id": 1948,
@@ -1702,8 +1711,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc784\uacc4\uacbd\ub85c",
-				"solved_count": 2764,
-				"average_try": 3.2167
+				"solved_count": 2766,
+				"average_try": 3.2155
 			},
 			{
 				"id": 1958,
@@ -1729,7 +1738,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b8\ub9ac\uc758 \uc9c0\ub984",
-				"solved_count": 13386,
+				"solved_count": 13389,
 				"average_try": 2.4374
 			},
 			{
@@ -1738,7 +1747,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "DNA",
-				"solved_count": 4917,
+				"solved_count": 4925,
 				"average_try": 1.7551
 			},
 			{
@@ -1747,8 +1756,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5ec\ud589 \uac00\uc790",
-				"solved_count": 11679,
-				"average_try": 2.6959
+				"solved_count": 11697,
+				"average_try": 2.6979
 			},
 			{
 				"id": 1977,
@@ -1765,8 +1774,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc18c\uc218 \ucc3e\uae30",
-				"solved_count": 73217,
-				"average_try": 2.1232
+				"solved_count": 73278,
+				"average_try": 2.1234
 			},
 			{
 				"id": 1981,
@@ -1783,8 +1792,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc54c\ud30c\ubcb3",
-				"solved_count": 20504,
-				"average_try": 3.5356
+				"solved_count": 20527,
+				"average_try": 3.537
 			},
 			{
 				"id": 1991,
@@ -1792,8 +1801,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b8\ub9ac \uc21c\ud68c",
-				"solved_count": 26626,
-				"average_try": 1.495
+				"solved_count": 26639,
+				"average_try": 1.4949
 			},
 			{
 				"id": 1992,
@@ -1810,7 +1819,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218\ub4e4\uc758 \ud569 2",
-				"solved_count": 17246,
+				"solved_count": 17257,
 				"average_try": 2.0679
 			},
 			{
@@ -1846,7 +1855,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218\ub4e4\uc758 \ud569 5",
-				"solved_count": 6465,
+				"solved_count": 6467,
 				"average_try": 2.0493
 			},
 			{
@@ -1873,7 +1882,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uad6c\uac04 \ud569 \uad6c\ud558\uae30",
-				"solved_count": 11566,
+				"solved_count": 11567,
 				"average_try": 3.9791
 			},
 			{
@@ -1900,8 +1909,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc791\uc5c5",
-				"solved_count": 4851,
-				"average_try": 2.2845
+				"solved_count": 4859,
+				"average_try": 2.283
 			},
 			{
 				"id": 2057,
@@ -1945,7 +1954,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub0b4\ub824\uac00\uae30",
-				"solved_count": 11981,
+				"solved_count": 11987,
 				"average_try": 2.7214
 			},
 			{
@@ -1963,8 +1972,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud1b5\uacc4\ud559",
-				"solved_count": 30111,
-				"average_try": 3.8081
+				"solved_count": 30171,
+				"average_try": 3.807
 			},
 			{
 				"id": 2110,
@@ -2035,8 +2044,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ucd08\ucf5c\ub9bf \uc790\ub974\uae30",
-				"solved_count": 24377,
-				"average_try": 1.4016
+				"solved_count": 24412,
+				"average_try": 1.4019
 			},
 			{
 				"id": 2164,
@@ -2044,8 +2053,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uce74\ub4dc2",
-				"solved_count": 44061,
-				"average_try": 1.9655
+				"solved_count": 44133,
+				"average_try": 1.9658
 			},
 			{
 				"id": 2166,
@@ -2053,8 +2062,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2e4\uac01\ud615\uc758 \uba74\uc801",
-				"solved_count": 7418,
-				"average_try": 3.4149
+				"solved_count": 7428,
+				"average_try": 3.4155
 			},
 			{
 				"id": 2167,
@@ -2080,7 +2089,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubbf8\ub85c \ud0d0\uc0c9",
-				"solved_count": 53989,
+				"solved_count": 54032,
 				"average_try": 2.2855
 			},
 			{
@@ -2089,8 +2098,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd95\uc0ac \ubc30\uc815",
-				"solved_count": 3640,
-				"average_try": 2.0865
+				"solved_count": 3662,
+				"average_try": 2.0836
 			},
 			{
 				"id": 2193,
@@ -2107,8 +2116,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcbd \ubd80\uc218\uace0 \uc774\ub3d9\ud558\uae30",
-				"solved_count": 21648,
-				"average_try": 4.2924
+				"solved_count": 21669,
+				"average_try": 4.2937
 			},
 			{
 				"id": 2217,
@@ -2116,8 +2125,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub85c\ud504",
-				"solved_count": 22275,
-				"average_try": 2.3204
+				"solved_count": 22300,
+				"average_try": 2.3217
 			},
 			{
 				"id": 2225,
@@ -2143,8 +2152,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubd84\ud574\ud569",
-				"solved_count": 52521,
-				"average_try": 2.203
+				"solved_count": 52546,
+				"average_try": 2.2029
 			},
 			{
 				"id": 2237,
@@ -2206,8 +2215,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc218\ub4e4\uc758 \ud569 7",
-				"solved_count": 2763,
-				"average_try": 3.291
+				"solved_count": 2770,
+				"average_try": 3.2906
 			},
 			{
 				"id": 2292,
@@ -2215,8 +2224,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ubc8c\uc9d1",
-				"solved_count": 65052,
-				"average_try": 2.233
+				"solved_count": 65086,
+				"average_try": 2.2329
 			},
 			{
 				"id": 2293,
@@ -2224,8 +2233,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub3d9\uc804 1",
-				"solved_count": 21664,
-				"average_try": 2.1322
+				"solved_count": 21676,
+				"average_try": 2.1319
 			},
 			{
 				"id": 2294,
@@ -2260,8 +2269,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc77c\uacf1 \ub09c\uc7c1\uc774",
-				"solved_count": 39583,
-				"average_try": 2.3935
+				"solved_count": 39629,
+				"average_try": 2.3942
 			},
 			{
 				"id": 2316,
@@ -2287,8 +2296,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uae34\uc790\ub9ac \uacc4\uc0b0",
-				"solved_count": 13917,
-				"average_try": 1.9872
+				"solved_count": 13968,
+				"average_try": 1.9875
 			},
 			{
 				"id": 2343,
@@ -2296,8 +2305,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uae30\ud0c0 \ub808\uc2a8",
-				"solved_count": 7137,
-				"average_try": 3.1435
+				"solved_count": 7144,
+				"average_try": 3.1428
 			},
 			{
 				"id": 2352,
@@ -2404,8 +2413,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc0ac\ud30c\ub9ac\uc6d4\ub4dc",
-				"solved_count": 22745,
-				"average_try": 2.1668
+				"solved_count": 22772,
+				"average_try": 2.1674
 			},
 			{
 				"id": 2437,
@@ -2422,7 +2431,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 1",
-				"solved_count": 158369,
+				"solved_count": 158524,
 				"average_try": 1.6044
 			},
 			{
@@ -2431,7 +2440,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 2",
-				"solved_count": 144714,
+				"solved_count": 144850,
 				"average_try": 1.7836
 			},
 			{
@@ -2440,7 +2449,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 3",
-				"solved_count": 56786,
+				"solved_count": 56793,
 				"average_try": 1.4633
 			},
 			{
@@ -2449,7 +2458,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 4",
-				"solved_count": 51775,
+				"solved_count": 51776,
 				"average_try": 1.3488
 			},
 			{
@@ -2476,8 +2485,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 7",
-				"solved_count": 39971,
-				"average_try": 1.6824
+				"solved_count": 40063,
+				"average_try": 1.6828
 			},
 			{
 				"id": 2445,
@@ -2485,8 +2494,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 8",
-				"solved_count": 24183,
-				"average_try": 1.3716
+				"solved_count": 24202,
+				"average_try": 1.3717
 			},
 			{
 				"id": 2446,
@@ -2503,8 +2512,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 10",
-				"solved_count": 29740,
-				"average_try": 1.8124
+				"solved_count": 29749,
+				"average_try": 1.8126
 			},
 			{
 				"id": 2448,
@@ -2539,8 +2548,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc6a9\uc561",
-				"solved_count": 9612,
-				"average_try": 2.7086
+				"solved_count": 9627,
+				"average_try": 2.7085
 			},
 			{
 				"id": 2468,
@@ -2548,8 +2557,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc548\uc804 \uc601\uc5ed",
-				"solved_count": 24378,
-				"average_try": 2.8995
+				"solved_count": 24408,
+				"average_try": 2.9
 			},
 			{
 				"id": 2470,
@@ -2557,8 +2566,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub450 \uc6a9\uc561",
-				"solved_count": 12412,
-				"average_try": 3.2432
+				"solved_count": 12424,
+				"average_try": 3.2429
 			},
 			{
 				"id": 2475,
@@ -2566,8 +2575,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uac80\uc99d\uc218",
-				"solved_count": 42513,
-				"average_try": 1.3329
+				"solved_count": 42558,
+				"average_try": 1.3327
 			},
 			{
 				"id": 2476,
@@ -2584,8 +2593,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc8fc\uc0ac\uc704 \uc138\uac1c",
-				"solved_count": 81245,
-				"average_try": 2.1198
+				"solved_count": 81379,
+				"average_try": 2.1203
 			},
 			{
 				"id": 2490,
@@ -2602,8 +2611,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud0d1",
-				"solved_count": 15840,
-				"average_try": 3.1066
+				"solved_count": 15863,
+				"average_try": 3.1073
 			},
 			{
 				"id": 2501,
@@ -2611,8 +2620,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc57d\uc218 \uad6c\ud558\uae30",
-				"solved_count": 24476,
-				"average_try": 2.008
+				"solved_count": 24517,
+				"average_try": 2.0083
 			},
 			{
 				"id": 2502,
@@ -2620,8 +2629,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub5a1 \uba39\ub294 \ud638\ub791\uc774",
-				"solved_count": 3851,
-				"average_try": 1.9117
+				"solved_count": 3860,
+				"average_try": 1.9101
 			},
 			{
 				"id": 2504,
@@ -2629,8 +2638,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uad04\ud638\uc758 \uac12",
-				"solved_count": 12029,
-				"average_try": 3.3145
+				"solved_count": 12062,
+				"average_try": 3.3133
 			},
 			{
 				"id": 2506,
@@ -2656,8 +2665,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc608\uc0b0",
-				"solved_count": 14346,
-				"average_try": 2.7919
+				"solved_count": 14369,
+				"average_try": 2.791
 			},
 			{
 				"id": 2515,
@@ -2683,7 +2692,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 12",
-				"solved_count": 17208,
+				"solved_count": 17212,
 				"average_try": 1.1913
 			},
 			{
@@ -2701,8 +2710,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc624\ube10 \uc2dc\uacc4",
-				"solved_count": 83430,
-				"average_try": 2.6109
+				"solved_count": 83567,
+				"average_try": 2.6106
 			},
 			{
 				"id": 2530,
@@ -2710,7 +2719,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc778\uacf5\uc9c0\ub2a5 \uc2dc\uacc4",
-				"solved_count": 17017,
+				"solved_count": 17026,
 				"average_try": 2.1598
 			},
 			{
@@ -2737,8 +2746,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub9c8\uc9c0\ub9c9 \ud329\ud1a0\ub9ac\uc5bc \uc218",
-				"solved_count": 1309,
-				"average_try": 3.1329
+				"solved_count": 1319,
+				"average_try": 3.1342
 			},
 			{
 				"id": 2556,
@@ -2755,8 +2764,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "Hello World",
-				"solved_count": 306854,
-				"average_try": 2.5389
+				"solved_count": 307070,
+				"average_try": 2.5388
 			},
 			{
 				"id": 2558,
@@ -2764,7 +2773,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "A+B - 2",
-				"solved_count": 66438,
+				"solved_count": 66480,
 				"average_try": 1.3792
 			},
 			{
@@ -2773,8 +2782,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218\uc5f4",
-				"solved_count": 14621,
-				"average_try": 2.7813
+				"solved_count": 14656,
+				"average_try": 2.781
 			},
 			{
 				"id": 2562,
@@ -2782,8 +2791,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\ub313\uac12",
-				"solved_count": 113874,
-				"average_try": 2.197
+				"solved_count": 113965,
+				"average_try": 2.1972
 			},
 			{
 				"id": 2563,
@@ -2791,8 +2800,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc0c9\uc885\uc774",
-				"solved_count": 31060,
-				"average_try": 1.5322
+				"solved_count": 31135,
+				"average_try": 1.532
 			},
 			{
 				"id": 2565,
@@ -2800,7 +2809,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uae43\uc904",
-				"solved_count": 13944,
+				"solved_count": 13946,
 				"average_try": 2.1055
 			},
 			{
@@ -2809,8 +2818,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\ub313\uac12",
-				"solved_count": 25990,
-				"average_try": 2.4211
+				"solved_count": 26061,
+				"average_try": 2.4199
 			},
 			{
 				"id": 2573,
@@ -2818,8 +2827,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ube59\uc0b0",
-				"solved_count": 13867,
-				"average_try": 3.8516
+				"solved_count": 13882,
+				"average_try": 3.8501
 			},
 			{
 				"id": 2576,
@@ -2827,8 +2836,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud640\uc218",
-				"solved_count": 16858,
-				"average_try": 1.7837
+				"solved_count": 16895,
+				"average_try": 1.7842
 			},
 			{
 				"id": 2577,
@@ -2836,8 +2845,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc22b\uc790\uc758 \uac1c\uc218",
-				"solved_count": 92204,
-				"average_try": 1.6786
+				"solved_count": 92280,
+				"average_try": 1.6783
 			},
 			{
 				"id": 2579,
@@ -2845,8 +2854,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uacc4\ub2e8 \uc624\ub974\uae30",
-				"solved_count": 44996,
-				"average_try": 2.9493
+				"solved_count": 45038,
+				"average_try": 2.9489
 			},
 			{
 				"id": 2580,
@@ -2854,8 +2863,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2a4\ub3c4\ucfe0",
-				"solved_count": 17644,
-				"average_try": 3.717
+				"solved_count": 17651,
+				"average_try": 3.7168
 			},
 			{
 				"id": 2581,
@@ -2863,8 +2872,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc18c\uc218",
-				"solved_count": 46885,
-				"average_try": 2.5416
+				"solved_count": 46922,
+				"average_try": 2.5413
 			},
 			{
 				"id": 2583,
@@ -2872,8 +2881,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc601\uc5ed \uad6c\ud558\uae30",
-				"solved_count": 19799,
-				"average_try": 1.738
+				"solved_count": 19810,
+				"average_try": 1.7377
 			},
 			{
 				"id": 2587,
@@ -2881,7 +2890,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub300\ud45c\uac122",
-				"solved_count": 23282,
+				"solved_count": 23284,
 				"average_try": 1.605
 			},
 			{
@@ -2890,8 +2899,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uacf1\uc148",
-				"solved_count": 143097,
-				"average_try": 2.1242
+				"solved_count": 143222,
+				"average_try": 2.1244
 			},
 			{
 				"id": 2589,
@@ -2908,8 +2917,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ubc14\uc774\ub7ec\uc2a4",
-				"solved_count": 50458,
-				"average_try": 2.1817
+				"solved_count": 50492,
+				"average_try": 2.1814
 			},
 			{
 				"id": 2609,
@@ -2917,8 +2926,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\ub300\uacf5\uc57d\uc218\uc640 \ucd5c\uc18c\uacf5\ubc30\uc218",
-				"solved_count": 49667,
-				"average_try": 1.7285
+				"solved_count": 49704,
+				"average_try": 1.7282
 			},
 			{
 				"id": 2610,
@@ -2998,8 +3007,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ucd0c\uc218\uacc4\uc0b0",
-				"solved_count": 18716,
-				"average_try": 2.0055
+				"solved_count": 18717,
+				"average_try": 2.0056
 			},
 			{
 				"id": 2661,
@@ -3016,8 +3025,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2e8\uc9c0\ubc88\ud638\ubd99\uc774\uae30",
-				"solved_count": 49258,
-				"average_try": 2.362
+				"solved_count": 49289,
+				"average_try": 2.3617
 			},
 			{
 				"id": 2669,
@@ -3052,8 +3061,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubb38\uc790\uc5f4 \ubc18\ubcf5",
-				"solved_count": 90755,
-				"average_try": 1.9941
+				"solved_count": 90842,
+				"average_try": 1.994
 			},
 			{
 				"id": 2693,
@@ -3061,7 +3070,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "N\ubc88\uc9f8 \ud070 \uc218",
-				"solved_count": 9608,
+				"solved_count": 9617,
 				"average_try": 1.3167
 			},
 			{
@@ -3079,8 +3088,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc138\ud0c1\uc18c \uc0ac\uc7a5 \ub3d9\ud601",
-				"solved_count": 17893,
-				"average_try": 1.402
+				"solved_count": 17931,
+				"average_try": 1.4017
 			},
 			{
 				"id": 2738,
@@ -3088,8 +3097,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ud589\ub82c \ub367\uc148",
-				"solved_count": 32497,
-				"average_try": 1.8614
+				"solved_count": 32520,
+				"average_try": 1.862
 			},
 			{
 				"id": 2739,
@@ -3097,7 +3106,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uad6c\uad6c\ub2e8",
-				"solved_count": 168086,
+				"solved_count": 168241,
 				"average_try": 1.97
 			},
 			{
@@ -3124,7 +3133,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uae30\ucc0d N",
-				"solved_count": 112648,
+				"solved_count": 112652,
 				"average_try": 1.4534
 			},
 			{
@@ -3133,8 +3142,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ub2e8\uc5b4 \uae38\uc774 \uc7ac\uae30",
-				"solved_count": 47734,
-				"average_try": 1.2411
+				"solved_count": 47795,
+				"average_try": 1.2412
 			},
 			{
 				"id": 2744,
@@ -3142,8 +3151,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ub300\uc18c\ubb38\uc790 \ubc14\uafb8\uae30",
-				"solved_count": 17404,
-				"average_try": 1.3111
+				"solved_count": 17418,
+				"average_try": 1.3109
 			},
 			{
 				"id": 2745,
@@ -3151,8 +3160,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc9c4\ubc95 \ubcc0\ud658",
-				"solved_count": 18862,
-				"average_try": 2.0125
+				"solved_count": 18914,
+				"average_try": 2.0128
 			},
 			{
 				"id": 2747,
@@ -3160,7 +3169,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud53c\ubcf4\ub098\uce58 \uc218",
-				"solved_count": 27932,
+				"solved_count": 27937,
 				"average_try": 2.0289
 			},
 			{
@@ -3169,8 +3178,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud53c\ubcf4\ub098\uce58 \uc218 2",
-				"solved_count": 33527,
-				"average_try": 2.4459
+				"solved_count": 33547,
+				"average_try": 2.4458
 			},
 			{
 				"id": 2749,
@@ -3178,8 +3187,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud53c\ubcf4\ub098\uce58 \uc218 3",
-				"solved_count": 8311,
-				"average_try": 2.524
+				"solved_count": 8321,
+				"average_try": 2.5236
 			},
 			{
 				"id": 2750,
@@ -3187,7 +3196,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc218 \uc815\ub82c\ud558\uae30",
-				"solved_count": 76497,
+				"solved_count": 76498,
 				"average_try": 1.7247
 			},
 			{
@@ -3196,8 +3205,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc218 \uc815\ub82c\ud558\uae30 2",
-				"solved_count": 62757,
-				"average_try": 3.2203
+				"solved_count": 62864,
+				"average_try": 3.2209
 			},
 			{
 				"id": 2752,
@@ -3214,7 +3223,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc724\ub144",
-				"solved_count": 152344,
+				"solved_count": 152470,
 				"average_try": 1.9237
 			},
 			{
@@ -3241,8 +3250,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubd80\ub140\ud68c\uc7a5\uc774 \ub420\ud14c\uc57c",
-				"solved_count": 47065,
-				"average_try": 1.746
+				"solved_count": 47070,
+				"average_try": 1.7459
 			},
 			{
 				"id": 2783,
@@ -3286,7 +3295,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ube14\ub799\uc7ad",
-				"solved_count": 63576,
+				"solved_count": 63644,
 				"average_try": 2.0599
 			},
 			{
@@ -3304,8 +3313,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub098\ubb34 \uc790\ub974\uae30",
-				"solved_count": 33922,
-				"average_try": 3.8458
+				"solved_count": 33961,
+				"average_try": 3.8455
 			},
 			{
 				"id": 2810,
@@ -3349,8 +3358,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc0ac\uacfc \ub2f4\uae30 \uac8c\uc784",
-				"solved_count": 4351,
-				"average_try": 1.9733
+				"solved_count": 4354,
+				"average_try": 1.9747
 			},
 			{
 				"id": 2839,
@@ -3358,8 +3367,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc124\ud0d5 \ubc30\ub2ec",
-				"solved_count": 88438,
-				"average_try": 2.7038
+				"solved_count": 88499,
+				"average_try": 2.7037
 			},
 			{
 				"id": 2844,
@@ -3385,8 +3394,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "FBI",
-				"solved_count": 5063,
-				"average_try": 1.9648
+				"solved_count": 5071,
+				"average_try": 1.9645
 			},
 			{
 				"id": 2863,
@@ -3412,8 +3421,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2ec\ud33d\uc774\ub294 \uc62c\ub77c\uac00\uace0 \uc2f6\ub2e4",
-				"solved_count": 59796,
-				"average_try": 3.211
+				"solved_count": 59849,
+				"average_try": 3.2115
 			},
 			{
 				"id": 2873,
@@ -3430,8 +3439,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub300\ud68c or \uc778\ud134",
-				"solved_count": 10196,
-				"average_try": 2.2388
+				"solved_count": 10201,
+				"average_try": 2.2382
 			},
 			{
 				"id": 2884,
@@ -3439,8 +3448,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc54c\ub78c \uc2dc\uacc4",
-				"solved_count": 139508,
-				"average_try": 2.6469
+				"solved_count": 139630,
+				"average_try": 2.6471
 			},
 			{
 				"id": 2887,
@@ -3448,7 +3457,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud589\uc131 \ud130\ub110",
-				"solved_count": 6330,
+				"solved_count": 6337,
 				"average_try": 2.8441
 			},
 			{
@@ -3466,8 +3475,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc911\uc559 \uc774\ub3d9 \uc54c\uace0\ub9ac\uc998",
-				"solved_count": 13397,
-				"average_try": 1.4002
+				"solved_count": 13435,
+				"average_try": 1.4011
 			},
 			{
 				"id": 2908,
@@ -3475,8 +3484,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc0c1\uc218",
-				"solved_count": 81962,
-				"average_try": 1.4433
+				"solved_count": 82036,
+				"average_try": 1.4432
 			},
 			{
 				"id": 2912,
@@ -3502,7 +3511,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc74c\uacc4",
-				"solved_count": 47166,
+				"solved_count": 47167,
 				"average_try": 1.7611
 			},
 			{
@@ -3547,7 +3556,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud06c\ub85c\uc544\ud2f0\uc544 \uc54c\ud30c\ubcb3",
-				"solved_count": 62978,
+				"solved_count": 63044,
 				"average_try": 2.2487
 			},
 			{
@@ -3556,8 +3565,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub098\ub294 \uc694\ub9ac\uc0ac\ub2e4",
-				"solved_count": 13118,
-				"average_try": 1.4816
+				"solved_count": 13136,
+				"average_try": 1.4815
 			},
 			{
 				"id": 2959,
@@ -3574,8 +3583,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5d0\ub77c\ud1a0\uc2a4\ud14c\ub124\uc2a4\uc758 \uccb4",
-				"solved_count": 12549,
-				"average_try": 1.7527
+				"solved_count": 12564,
+				"average_try": 1.7521
 			},
 			{
 				"id": 2965,
@@ -3628,8 +3637,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ud0b9, \ud038, \ub8e9, \ube44\uc20d, \ub098\uc774\ud2b8, \ud3f0",
-				"solved_count": 54473,
-				"average_try": 1.7326
+				"solved_count": 54541,
+				"average_try": 1.7324
 			},
 			{
 				"id": 3004,
@@ -3655,8 +3664,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub124 \ubc88\uc9f8 \uc810",
-				"solved_count": 34400,
-				"average_try": 1.3601
+				"solved_count": 34429,
+				"average_try": 1.3602
 			},
 			{
 				"id": 3015,
@@ -3718,8 +3727,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "R2",
-				"solved_count": 29670,
-				"average_try": 1.3005
+				"solved_count": 29700,
+				"average_try": 1.3009
 			},
 			{
 				"id": 3047,
@@ -3745,8 +3754,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub098\uba38\uc9c0",
-				"solved_count": 96029,
-				"average_try": 1.7348
+				"solved_count": 96123,
+				"average_try": 1.7346
 			},
 			{
 				"id": 3053,
@@ -3844,8 +3853,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubc40",
-				"solved_count": 20059,
-				"average_try": 2.4645
+				"solved_count": 20071,
+				"average_try": 2.4646
 			},
 			{
 				"id": 3203,
@@ -3862,8 +3871,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub450 \uc218\uc758 \ud569",
-				"solved_count": 13169,
-				"average_try": 2.8809
+				"solved_count": 13203,
+				"average_try": 2.8803
 			},
 			{
 				"id": 3392,
@@ -3898,8 +3907,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\uc9c4\uc218",
-				"solved_count": 8076,
-				"average_try": 1.8184
+				"solved_count": 8083,
+				"average_try": 1.8188
 			},
 			{
 				"id": 3611,
@@ -3943,8 +3952,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Shares",
-				"solved_count": 3028,
-				"average_try": 1.8613
+				"solved_count": 3040,
+				"average_try": 1.8595
 			},
 			{
 				"id": 3745,
@@ -4042,8 +4051,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ud070 \uc218 \uc18c\uc778\uc218\ubd84\ud574",
-				"solved_count": 993,
-				"average_try": 6.2165
+				"solved_count": 996,
+				"average_try": 6.2329
 			},
 			{
 				"id": 4150,
@@ -4051,8 +4060,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud53c\ubcf4\ub098\uce58 \uc218",
-				"solved_count": 1883,
-				"average_try": 1.7541
+				"solved_count": 1884,
+				"average_try": 1.7542
 			},
 			{
 				"id": 4153,
@@ -4087,8 +4096,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "AFC \uc714\ube14\ub358",
-				"solved_count": 4614,
-				"average_try": 3.3548
+				"solved_count": 4630,
+				"average_try": 3.3523
 			},
 			{
 				"id": 4344,
@@ -4096,7 +4105,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud3c9\uade0\uc740 \ub118\uaca0\uc9c0",
-				"solved_count": 79991,
+				"solved_count": 80003,
 				"average_try": 2.4848
 			},
 			{
@@ -4186,8 +4195,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc140\ud504 \ub118\ubc84",
-				"solved_count": 69543,
-				"average_try": 2.0435
+				"solved_count": 69560,
+				"average_try": 2.0434
 			},
 			{
 				"id": 4696,
@@ -4222,8 +4231,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc77c\ubc18 \ud654\ud559 \uc2e4\ud5d8",
-				"solved_count": 2329,
-				"average_try": 1.3972
+				"solved_count": 2340,
+				"average_try": 1.3979
 			},
 			{
 				"id": 4781,
@@ -4240,8 +4249,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucea0\ud551",
-				"solved_count": 9940,
-				"average_try": 2.5271
+				"solved_count": 9950,
+				"average_try": 2.5273
 			},
 			{
 				"id": 4811,
@@ -4294,8 +4303,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubca0\ub974\ud2b8\ub791 \uacf5\uc900",
-				"solved_count": 32173,
-				"average_try": 2.6058
+				"solved_count": 32174,
+				"average_try": 2.6057
 			},
 			{
 				"id": 4949,
@@ -4303,8 +4312,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uade0\ud615\uc7a1\ud78c \uc138\uc0c1",
-				"solved_count": 32094,
-				"average_try": 3.0695
+				"solved_count": 32125,
+				"average_try": 3.0698
 			},
 			{
 				"id": 4963,
@@ -4312,8 +4321,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc12c\uc758 \uac1c\uc218",
-				"solved_count": 24026,
-				"average_try": 2.0254
+				"solved_count": 24039,
+				"average_try": 2.0253
 			},
 			{
 				"id": 4999,
@@ -4321,8 +4330,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc544!",
-				"solved_count": 11260,
-				"average_try": 1.5875
+				"solved_count": 11281,
+				"average_try": 1.588
 			},
 			{
 				"id": 5014,
@@ -4348,8 +4357,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\ud654\ubc88\ud638 \ubaa9\ub85d",
-				"solved_count": 8702,
-				"average_try": 3.3043
+				"solved_count": 8747,
+				"average_try": 3.3009
 			},
 			{
 				"id": 5063,
@@ -4366,8 +4375,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc0bc\uac01\ud615\uacfc \uc138 \ubcc0",
-				"solved_count": 12338,
-				"average_try": 2.0558
+				"solved_count": 12344,
+				"average_try": 2.0553
 			},
 			{
 				"id": 5086,
@@ -4375,8 +4384,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubc30\uc218\uc640 \uc57d\uc218",
-				"solved_count": 28980,
-				"average_try": 1.5565
+				"solved_count": 28983,
+				"average_try": 1.5564
 			},
 			{
 				"id": 5217,
@@ -4411,7 +4420,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc6f0\ucef4",
-				"solved_count": 15239,
+				"solved_count": 15262,
 				"average_try": 1.3935
 			},
 			{
@@ -4447,8 +4456,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "LCM",
-				"solved_count": 3282,
-				"average_try": 1.9622
+				"solved_count": 3285,
+				"average_try": 1.9632
 			},
 			{
 				"id": 5354,
@@ -4492,8 +4501,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud050\ube59",
-				"solved_count": 3788,
-				"average_try": 2.5818
+				"solved_count": 3791,
+				"average_try": 2.5811
 			},
 			{
 				"id": 5397,
@@ -4501,7 +4510,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud0a4\ub85c\uac70",
-				"solved_count": 10901,
+				"solved_count": 10918,
 				"average_try": 3.7184
 			},
 			{
@@ -4519,8 +4528,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "AC",
-				"solved_count": 21934,
-				"average_try": 4.9874
+				"solved_count": 21957,
+				"average_try": 4.9883
 			},
 			{
 				"id": 5522,
@@ -4546,8 +4555,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc785\uc2e4 \uad00\ub9ac",
-				"solved_count": 4893,
-				"average_try": 1.2471
+				"solved_count": 4904,
+				"average_try": 1.2467
 			},
 			{
 				"id": 5525,
@@ -4555,8 +4564,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "IOIOI",
-				"solved_count": 8223,
-				"average_try": 3.3372
+				"solved_count": 8240,
+				"average_try": 3.337
 			},
 			{
 				"id": 5532,
@@ -4564,8 +4573,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubc29\ud559 \uc219\uc81c",
-				"solved_count": 10341,
-				"average_try": 1.5634
+				"solved_count": 10377,
+				"average_try": 1.5623
 			},
 			{
 				"id": 5543,
@@ -4609,8 +4618,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uacb0\ud63c\uc2dd",
-				"solved_count": 6780,
-				"average_try": 2.2649
+				"solved_count": 6786,
+				"average_try": 2.2645
 			},
 			{
 				"id": 5573,
@@ -4636,7 +4645,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac70\uc2a4\ub984\ub3c8",
-				"solved_count": 23632,
+				"solved_count": 23633,
 				"average_try": 1.5355
 			},
 			{
@@ -4645,8 +4654,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2dc\ud5d8 \uc810\uc218",
-				"solved_count": 10059,
-				"average_try": 1.2152
+				"solved_count": 10079,
+				"average_try": 1.215
 			},
 			{
 				"id": 5597,
@@ -4654,8 +4663,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uacfc\uc81c \uc548 \ub0b4\uc2e0 \ubd84..?",
-				"solved_count": 46548,
-				"average_try": 1.9159
+				"solved_count": 46632,
+				"average_try": 1.9157
 			},
 			{
 				"id": 5613,
@@ -4681,7 +4690,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2e4\uc774\uc5bc",
-				"solved_count": 64105,
+				"solved_count": 64120,
 				"average_try": 1.7104
 			},
 			{
@@ -4708,8 +4717,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\uc9c4 \uac80\uc0c9 \ud2b8\ub9ac",
-				"solved_count": 11099,
-				"average_try": 2.61
+				"solved_count": 11138,
+				"average_try": 2.6088
 			},
 			{
 				"id": 5676,
@@ -4726,8 +4735,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc0c1\uadfc\uc774\uc758 \uce5c\uad6c\ub4e4",
-				"solved_count": 9188,
-				"average_try": 1.2697
+				"solved_count": 9238,
+				"average_try": 1.2705
 			},
 			{
 				"id": 5719,
@@ -4798,8 +4807,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uce74\uc789 \ub2ec\ub825",
-				"solved_count": 12938,
-				"average_try": 3.7741
+				"solved_count": 12954,
+				"average_try": 3.7727
 			},
 			{
 				"id": 6086,
@@ -4906,8 +4915,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uace8\ub4dc\ubc14\ud750\uc758 \ucd94\uce21",
-				"solved_count": 10584,
-				"average_try": 4.5188
+				"solved_count": 10588,
+				"average_try": 4.5178
 			},
 			{
 				"id": 6594,
@@ -4924,8 +4933,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub85c\ub610",
-				"solved_count": 22394,
-				"average_try": 1.8
+				"solved_count": 22411,
+				"average_try": 1.8001
 			},
 			{
 				"id": 6749,
@@ -4969,8 +4978,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Which Alien?",
-				"solved_count": 2810,
-				"average_try": 1.4516
+				"solved_count": 2821,
+				"average_try": 1.4505
 			},
 			{
 				"id": 6810,
@@ -5050,7 +5059,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ub4f1\ub85d",
-				"solved_count": 53713,
+				"solved_count": 53739,
 				"average_try": 1.9263
 			},
 			{
@@ -5095,8 +5104,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ub098\uc774\ud2b8\uc758 \uc774\ub3d9",
-				"solved_count": 22392,
-				"average_try": 1.9513
+				"solved_count": 22411,
+				"average_try": 1.9511
 			},
 			{
 				"id": 7567,
@@ -5122,8 +5131,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ud1a0\ub9c8\ud1a0",
-				"solved_count": 26039,
-				"average_try": 2.3799
+				"solved_count": 26053,
+				"average_try": 2.3795
 			},
 			{
 				"id": 7576,
@@ -5131,8 +5140,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ud1a0\ub9c8\ud1a0",
-				"solved_count": 43719,
-				"average_try": 2.7469
+				"solved_count": 43756,
+				"average_try": 2.7467
 			},
 			{
 				"id": 7578,
@@ -5167,8 +5176,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\uc911 \uc6b0\uc120\uc21c\uc704 \ud050",
-				"solved_count": 10175,
-				"average_try": 4.588
+				"solved_count": 10189,
+				"average_try": 4.589
 			},
 			{
 				"id": 7681,
@@ -5248,8 +5257,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ud569",
-				"solved_count": 144420,
-				"average_try": 1.5562
+				"solved_count": 144558,
+				"average_try": 1.5563
 			},
 			{
 				"id": 8437,
@@ -5293,8 +5302,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Zadanie pr\u00f3bne",
-				"solved_count": 3147,
-				"average_try": 1.2685
+				"solved_count": 3159,
+				"average_try": 1.2678
 			},
 			{
 				"id": 8558,
@@ -5392,8 +5401,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "OX\ud034\uc988",
-				"solved_count": 90788,
-				"average_try": 1.9731
+				"solved_count": 90809,
+				"average_try": 1.9729
 			},
 			{
 				"id": 8979,
@@ -5401,8 +5410,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc62c\ub9bc\ud53d",
-				"solved_count": 7408,
-				"average_try": 2.5698
+				"solved_count": 7411,
+				"average_try": 2.5693
 			},
 			{
 				"id": 8987,
@@ -5437,8 +5446,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uad04\ud638",
-				"solved_count": 65411,
-				"average_try": 2.1797
+				"solved_count": 65480,
+				"average_try": 2.1801
 			},
 			{
 				"id": 9019,
@@ -5446,8 +5455,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "DSLR",
-				"solved_count": 12083,
-				"average_try": 4.8111
+				"solved_count": 12096,
+				"average_try": 4.8117
 			},
 			{
 				"id": 9020,
@@ -5455,8 +5464,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uace8\ub4dc\ubc14\ud750\uc758 \ucd94\uce21",
-				"solved_count": 26700,
-				"average_try": 2.547
+				"solved_count": 26703,
+				"average_try": 2.5469
 			},
 			{
 				"id": 9063,
@@ -5464,8 +5473,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub300\uc9c0",
-				"solved_count": 8888,
-				"average_try": 1.5404
+				"solved_count": 8904,
+				"average_try": 1.5405
 			},
 			{
 				"id": 9084,
@@ -5491,8 +5500,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ubb38\uc790\uc5f4",
-				"solved_count": 34184,
-				"average_try": 1.5291
+				"solved_count": 34194,
+				"average_try": 1.529
 			},
 			{
 				"id": 9093,
@@ -5518,8 +5527,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "1, 2, 3 \ub354\ud558\uae30",
-				"solved_count": 52145,
-				"average_try": 1.5516
+				"solved_count": 52189,
+				"average_try": 1.5513
 			},
 			{
 				"id": 9158,
@@ -5581,8 +5590,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "LCS",
-				"solved_count": 24571,
-				"average_try": 2.4641
+				"solved_count": 24604,
+				"average_try": 2.4647
 			},
 			{
 				"id": 9252,
@@ -5617,8 +5626,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Hello Judge",
-				"solved_count": 8234,
-				"average_try": 1.5395
+				"solved_count": 8242,
+				"average_try": 1.5393
 			},
 			{
 				"id": 9325,
@@ -5653,8 +5662,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud328\uc158\uc655 \uc2e0\ud574\ube48",
-				"solved_count": 17140,
-				"average_try": 1.816
+				"solved_count": 17141,
+				"average_try": 1.8159
 			},
 			{
 				"id": 9426,
@@ -5671,8 +5680,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud30c\ub3c4\ubc18 \uc218\uc5f4",
-				"solved_count": 35754,
-				"average_try": 2.3105
+				"solved_count": 35755,
+				"average_try": 2.3104
 			},
 			{
 				"id": 9465,
@@ -5680,7 +5689,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2a4\ud2f0\ucee4",
-				"solved_count": 23176,
+				"solved_count": 23177,
 				"average_try": 2.1376
 			},
 			{
@@ -5689,8 +5698,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud140 \ud504\ub85c\uc81d\ud2b8",
-				"solved_count": 10645,
-				"average_try": 4.1555
+				"solved_count": 10664,
+				"average_try": 4.1535
 			},
 			{
 				"id": 9470,
@@ -5716,7 +5725,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc2dc\ud5d8 \uc131\uc801",
-				"solved_count": 174522,
+				"solved_count": 174622,
 				"average_try": 1.8212
 			},
 			{
@@ -5725,8 +5734,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc57d\uc218\ub4e4\uc758 \ud569",
-				"solved_count": 16442,
-				"average_try": 1.9215
+				"solved_count": 16446,
+				"average_try": 1.9213
 			},
 			{
 				"id": 9550,
@@ -5761,8 +5770,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "GCD \ud569",
-				"solved_count": 11765,
-				"average_try": 2.3912
+				"solved_count": 11793,
+				"average_try": 2.3906
 			},
 			{
 				"id": 9625,
@@ -5779,8 +5788,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc2a4\ud0c0\uc6cc\uc988 \ub85c\uace0",
-				"solved_count": 13797,
-				"average_try": 1.3559
+				"solved_count": 13832,
+				"average_try": 1.3558
 			},
 			{
 				"id": 9654,
@@ -5797,8 +5806,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub3cc \uac8c\uc784",
-				"solved_count": 15367,
-				"average_try": 1.4858
+				"solved_count": 15393,
+				"average_try": 1.487
 			},
 			{
 				"id": 9656,
@@ -5806,8 +5815,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub3cc \uac8c\uc784 2",
-				"solved_count": 7216,
-				"average_try": 1.306
+				"solved_count": 7231,
+				"average_try": 1.3074
 			},
 			{
 				"id": 9657,
@@ -5824,8 +5833,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "N-Queen",
-				"solved_count": 33340,
-				"average_try": 2.1482
+				"solved_count": 33377,
+				"average_try": 2.148
 			},
 			{
 				"id": 9772,
@@ -5860,8 +5869,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubb38\uc790\uc5f4 \ud3ed\ubc1c",
-				"solved_count": 13631,
-				"average_try": 3.8374
+				"solved_count": 13654,
+				"average_try": 3.8368
 			},
 			{
 				"id": 9987,
@@ -5878,7 +5887,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc801\ub85d\uc0c9\uc57d",
-				"solved_count": 26906,
+				"solved_count": 26910,
 				"average_try": 1.7745
 			},
 			{
@@ -5932,7 +5941,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc0bc\uac01\ud615 \uc678\uc6b0\uae30",
-				"solved_count": 17873,
+				"solved_count": 17874,
 				"average_try": 1.742
 			},
 			{
@@ -5959,8 +5968,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uacfc\uc790",
-				"solved_count": 15435,
-				"average_try": 1.5995
+				"solved_count": 15455,
+				"average_try": 1.5994
 			},
 			{
 				"id": 10162,
@@ -5968,8 +5977,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc804\uc790\ub808\uc778\uc9c0",
-				"solved_count": 18359,
-				"average_try": 1.6441
+				"solved_count": 18374,
+				"average_try": 1.6442
 			},
 			{
 				"id": 10167,
@@ -5995,8 +6004,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uace0\uc591\uc774",
-				"solved_count": 157705,
-				"average_try": 2.8699
+				"solved_count": 157828,
+				"average_try": 2.8693
 			},
 			{
 				"id": 10172,
@@ -6004,8 +6013,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uac1c",
-				"solved_count": 154850,
-				"average_try": 2.3646
+				"solved_count": 154973,
+				"average_try": 2.3644
 			},
 			{
 				"id": 10178,
@@ -6013,8 +6022,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud560\ub85c\uc708\uc758 \uc0ac\ud0d5",
-				"solved_count": 4705,
-				"average_try": 1.3401
+				"solved_count": 4709,
+				"average_try": 1.3402
 			},
 			{
 				"id": 10179,
@@ -6040,8 +6049,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Hook",
-				"solved_count": 3259,
-				"average_try": 1.1019
+				"solved_count": 3273,
+				"average_try": 1.1017
 			},
 			{
 				"id": 10214,
@@ -6058,7 +6067,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "ACM \ud638\ud154",
-				"solved_count": 52905,
+				"solved_count": 52931,
 				"average_try": 3.0124
 			},
 			{
@@ -6121,8 +6130,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ub098\uba38\uc9c0",
-				"solved_count": 167568,
-				"average_try": 1.9212
+				"solved_count": 167701,
+				"average_try": 1.9213
 			},
 			{
 				"id": 10474,
@@ -6139,8 +6148,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Oddities",
-				"solved_count": 1106,
-				"average_try": 1.2107
+				"solved_count": 1107,
+				"average_try": 1.2105
 			},
 			{
 				"id": 10531,
@@ -6157,8 +6166,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2e4\uba74\uccb4",
-				"solved_count": 5604,
-				"average_try": 1.1342
+				"solved_count": 5617,
+				"average_try": 1.1341
 			},
 			{
 				"id": 10610,
@@ -6166,8 +6175,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "30",
-				"solved_count": 15194,
-				"average_try": 2.523
+				"solved_count": 15202,
+				"average_try": 2.5251
 			},
 			{
 				"id": 10699,
@@ -6175,8 +6184,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc624\ub298 \ub0a0\uc9dc",
-				"solved_count": 26629,
-				"average_try": 1.8057
+				"solved_count": 26662,
+				"average_try": 1.8056
 			},
 			{
 				"id": 10707,
@@ -6229,8 +6238,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ud070 \uc218 A+B",
-				"solved_count": 39534,
-				"average_try": 2.0163
+				"solved_count": 39558,
+				"average_try": 2.0159
 			},
 			{
 				"id": 10768,
@@ -6238,8 +6247,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b9\ubcc4\ud55c \ub0a0",
-				"solved_count": 6428,
-				"average_try": 1.5661
+				"solved_count": 6429,
+				"average_try": 1.5662
 			},
 			{
 				"id": 10773,
@@ -6247,7 +6256,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc81c\ub85c",
-				"solved_count": 47651,
+				"solved_count": 47674,
 				"average_try": 1.4715
 			},
 			{
@@ -6265,7 +6274,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "10\ubd80\uc81c",
-				"solved_count": 16284,
+				"solved_count": 16285,
 				"average_try": 1.2226
 			},
 			{
@@ -6274,7 +6283,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc138\ub85c\uc77d\uae30",
-				"solved_count": 25054,
+				"solved_count": 25118,
 				"average_try": 2.0178
 			},
 			{
@@ -6301,8 +6310,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uce74\ub4dc \uc5ed\ubc30\uce58",
-				"solved_count": 6055,
-				"average_try": 1.5161
+				"solved_count": 6090,
+				"average_try": 1.5184
 			},
 			{
 				"id": 10807,
@@ -6310,8 +6319,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uac1c\uc218 \uc138\uae30",
-				"solved_count": 55806,
-				"average_try": 1.5868
+				"solved_count": 55956,
+				"average_try": 1.5871
 			},
 			{
 				"id": 10808,
@@ -6319,8 +6328,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc54c\ud30c\ubcb3 \uac1c\uc218",
-				"solved_count": 26252,
-				"average_try": 1.4593
+				"solved_count": 26299,
+				"average_try": 1.459
 			},
 			{
 				"id": 10809,
@@ -6328,8 +6337,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc54c\ud30c\ubcb3 \ucc3e\uae30",
-				"solved_count": 92262,
-				"average_try": 1.8811
+				"solved_count": 92340,
+				"average_try": 1.8809
 			},
 			{
 				"id": 10810,
@@ -6337,8 +6346,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uacf5 \ub123\uae30",
-				"solved_count": 29022,
-				"average_try": 1.8779
+				"solved_count": 29128,
+				"average_try": 1.8788
 			},
 			{
 				"id": 10811,
@@ -6346,8 +6355,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubc14\uad6c\ub2c8 \ub4a4\uc9d1\uae30",
-				"solved_count": 24341,
-				"average_try": 1.8631
+				"solved_count": 24438,
+				"average_try": 1.8621
 			},
 			{
 				"id": 10813,
@@ -6355,8 +6364,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uacf5 \ubc14\uafb8\uae30",
-				"solved_count": 28445,
-				"average_try": 1.5385
+				"solved_count": 28534,
+				"average_try": 1.5387
 			},
 			{
 				"id": 10814,
@@ -6364,8 +6373,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub098\uc774\uc21c \uc815\ub82c",
-				"solved_count": 46129,
-				"average_try": 2.2969
+				"solved_count": 46204,
+				"average_try": 2.2971
 			},
 			{
 				"id": 10815,
@@ -6373,8 +6382,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc22b\uc790 \uce74\ub4dc",
-				"solved_count": 31503,
-				"average_try": 2.3374
+				"solved_count": 31537,
+				"average_try": 2.3379
 			},
 			{
 				"id": 10816,
@@ -6382,8 +6391,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc22b\uc790 \uce74\ub4dc 2",
-				"solved_count": 36813,
-				"average_try": 2.6835
+				"solved_count": 36858,
+				"average_try": 2.6826
 			},
 			{
 				"id": 10817,
@@ -6400,8 +6409,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\uc18c, \ucd5c\ub300",
-				"solved_count": 120389,
-				"average_try": 2.2894
+				"solved_count": 120546,
+				"average_try": 2.2893
 			},
 			{
 				"id": 10819,
@@ -6409,8 +6418,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucc28\uc774\ub97c \ucd5c\ub300\ub85c",
-				"solved_count": 14491,
-				"average_try": 1.5205
+				"solved_count": 14499,
+				"average_try": 1.5206
 			},
 			{
 				"id": 10821,
@@ -6445,7 +6454,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uad6d\uc601\uc218",
-				"solved_count": 14169,
+				"solved_count": 14174,
 				"average_try": 1.866
 			},
 			{
@@ -6463,8 +6472,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2a4\ud0dd",
-				"solved_count": 64100,
-				"average_try": 2.6785
+				"solved_count": 64145,
+				"average_try": 2.678
 			},
 			{
 				"id": 10830,
@@ -6472,8 +6481,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud589\ub82c \uc81c\uacf1",
-				"solved_count": 10203,
-				"average_try": 2.889
+				"solved_count": 10217,
+				"average_try": 2.8917
 			},
 			{
 				"id": 10833,
@@ -6490,8 +6499,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc26c\uc6b4 \uacc4\ub2e8 \uc218",
-				"solved_count": 32945,
-				"average_try": 3.2783
+				"solved_count": 32975,
+				"average_try": 3.2782
 			},
 			{
 				"id": 10845,
@@ -6508,8 +6517,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub371",
-				"solved_count": 37086,
-				"average_try": 1.7853
+				"solved_count": 37114,
+				"average_try": 1.7854
 			},
 			{
 				"id": 10867,
@@ -6535,8 +6544,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc0ac\uce59\uc5f0\uc0b0",
-				"solved_count": 191838,
-				"average_try": 2.1864
+				"solved_count": 191990,
+				"average_try": 2.1865
 			},
 			{
 				"id": 10870,
@@ -6544,7 +6553,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud53c\ubcf4\ub098\uce58 \uc218 5",
-				"solved_count": 55503,
+				"solved_count": 55509,
 				"average_try": 1.6324
 			},
 			{
@@ -6553,8 +6562,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "X\ubcf4\ub2e4 \uc791\uc740 \uc218",
-				"solved_count": 130596,
-				"average_try": 1.8404
+				"solved_count": 130693,
+				"average_try": 1.8407
 			},
 			{
 				"id": 10872,
@@ -6562,7 +6571,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ud329\ud1a0\ub9ac\uc5bc",
-				"solved_count": 72423,
+				"solved_count": 72424,
 				"average_try": 1.8418
 			},
 			{
@@ -6580,7 +6589,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "??!",
-				"solved_count": 103016,
+				"solved_count": 103155,
 				"average_try": 1.9732
 			},
 			{
@@ -6625,7 +6634,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "A+B - 3",
-				"solved_count": 140615,
+				"solved_count": 140765,
 				"average_try": 1.7137
 			},
 			{
@@ -6634,7 +6643,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "A+B - 4",
-				"solved_count": 112280,
+				"solved_count": 112410,
 				"average_try": 2.7844
 			},
 			{
@@ -6643,8 +6652,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "A+B - 5",
-				"solved_count": 122521,
-				"average_try": 1.9117
+				"solved_count": 122658,
+				"average_try": 1.9116
 			},
 			{
 				"id": 10953,
@@ -6652,8 +6661,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "A+B - 6",
-				"solved_count": 25039,
-				"average_try": 1.4588
+				"solved_count": 25054,
+				"average_try": 1.4585
 			},
 			{
 				"id": 10954,
@@ -6670,8 +6679,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc678\ud310\uc6d0 \uc21c\ud68c 2",
-				"solved_count": 11985,
-				"average_try": 2.9365
+				"solved_count": 12009,
+				"average_try": 2.9377
 			},
 			{
 				"id": 10974,
@@ -6688,8 +6697,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub0b4 \ud559\uc810\uc744 \uad6c\ud574\uc918",
-				"solved_count": 5506,
-				"average_try": 1.5894
+				"solved_count": 5509,
+				"average_try": 1.5892
 			},
 			{
 				"id": 10987,
@@ -6697,8 +6706,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubaa8\uc74c\uc758 \uac1c\uc218",
-				"solved_count": 7648,
-				"average_try": 1.1969
+				"solved_count": 7655,
+				"average_try": 1.1967
 			},
 			{
 				"id": 10988,
@@ -6706,8 +6715,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud330\ub9b0\ub4dc\ub86c\uc778\uc9c0 \ud655\uc778\ud558\uae30",
-				"solved_count": 33044,
-				"average_try": 1.6128
+				"solved_count": 33139,
+				"average_try": 1.6131
 			},
 			{
 				"id": 10989,
@@ -6715,8 +6724,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc218 \uc815\ub82c\ud558\uae30 3",
-				"solved_count": 49338,
-				"average_try": 4.2165
+				"solved_count": 49391,
+				"average_try": 4.2175
 			},
 			{
 				"id": 10990,
@@ -6724,7 +6733,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 15",
-				"solved_count": 7254,
+				"solved_count": 7255,
 				"average_try": 1.3329
 			},
 			{
@@ -6733,7 +6742,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 16",
-				"solved_count": 13128,
+				"solved_count": 13142,
 				"average_try": 1.2681
 			},
 			{
@@ -6742,8 +6751,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 17",
-				"solved_count": 11872,
-				"average_try": 1.49
+				"solved_count": 11886,
+				"average_try": 1.4894
 			},
 			{
 				"id": 10995,
@@ -6751,8 +6760,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 20",
-				"solved_count": 7907,
-				"average_try": 1.2135
+				"solved_count": 7926,
+				"average_try": 1.2133
 			},
 			{
 				"id": 10996,
@@ -6769,8 +6778,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "A\u00d7B",
-				"solved_count": 194367,
-				"average_try": 1.295
+				"solved_count": 194512,
+				"average_try": 1.2951
 			},
 			{
 				"id": 10999,
@@ -6805,8 +6814,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\uc19f\uac12 \ucc3e\uae30",
-				"solved_count": 6721,
-				"average_try": 3.2839
+				"solved_count": 6732,
+				"average_try": 3.2834
 			},
 			{
 				"id": 11004,
@@ -6823,8 +6832,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc9c4\ubc95 \ubcc0\ud658 2",
-				"solved_count": 16661,
-				"average_try": 2.1179
+				"solved_count": 16703,
+				"average_try": 2.1182
 			},
 			{
 				"id": 11006,
@@ -6832,8 +6841,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub0a8\uc6b1\uc774\uc758 \ub2ed\uc7a5",
-				"solved_count": 3235,
-				"average_try": 1.281
+				"solved_count": 3236,
+				"average_try": 1.2809
 			},
 			{
 				"id": 11014,
@@ -6841,8 +6850,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucee8\ub2dd 2",
-				"solved_count": 770,
-				"average_try": 2.2857
+				"solved_count": 775,
+				"average_try": 2.2787
 			},
 			{
 				"id": 11021,
@@ -6850,7 +6859,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "A+B - 7",
-				"solved_count": 117253,
+				"solved_count": 117379,
 				"average_try": 2.0377
 			},
 			{
@@ -6859,8 +6868,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "A+B - 8",
-				"solved_count": 113723,
-				"average_try": 1.4589
+				"solved_count": 113844,
+				"average_try": 1.4587
 			},
 			{
 				"id": 11023,
@@ -6877,8 +6886,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub354\ud558\uae30 4",
-				"solved_count": 2213,
-				"average_try": 1.4889
+				"solved_count": 2220,
+				"average_try": 1.4874
 			},
 			{
 				"id": 11047,
@@ -6886,8 +6895,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub3d9\uc804 0",
-				"solved_count": 56124,
-				"average_try": 1.9121
+				"solved_count": 56140,
+				"average_try": 1.9119
 			},
 			{
 				"id": 11048,
@@ -6913,8 +6922,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\ud56d \uacc4\uc218 1",
-				"solved_count": 33975,
-				"average_try": 1.5448
+				"solved_count": 33980,
+				"average_try": 1.5449
 			},
 			{
 				"id": 11051,
@@ -6922,8 +6931,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\ud56d \uacc4\uc218 2",
-				"solved_count": 17420,
-				"average_try": 2.6315
+				"solved_count": 17451,
+				"average_try": 2.6314
 			},
 			{
 				"id": 11052,
@@ -6931,8 +6940,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uce74\ub4dc \uad6c\ub9e4\ud558\uae30",
-				"solved_count": 22893,
-				"average_try": 1.6305
+				"solved_count": 22917,
+				"average_try": 1.6307
 			},
 			{
 				"id": 11053,
@@ -6940,7 +6949,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4",
-				"solved_count": 41184,
+				"solved_count": 41210,
 				"average_try": 2.639
 			},
 			{
@@ -6949,8 +6958,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc7a5 \uae34 \ubc14\uc774\ud1a0\ub2c9 \ubd80\ubd84 \uc218\uc5f4",
-				"solved_count": 20588,
-				"average_try": 1.9637
+				"solved_count": 20613,
+				"average_try": 1.964
 			},
 			{
 				"id": 11055,
@@ -6958,8 +6967,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc7a5 \ud070 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4",
-				"solved_count": 18163,
-				"average_try": 2.2528
+				"solved_count": 18169,
+				"average_try": 2.2527
 			},
 			{
 				"id": 11057,
@@ -6967,7 +6976,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc624\ub974\ub9c9 \uc218",
-				"solved_count": 20001,
+				"solved_count": 20014,
 				"average_try": 2.0928
 			},
 			{
@@ -6994,8 +7003,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Communication Channels",
-				"solved_count": 758,
-				"average_try": 1.8193
+				"solved_count": 761,
+				"average_try": 1.8213
 			},
 			{
 				"id": 11170,
@@ -7039,7 +7048,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\ub300 \ud799",
-				"solved_count": 27364,
+				"solved_count": 27365,
 				"average_try": 2.0539
 			},
 			{
@@ -7066,8 +7075,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc808\ub313\uac12 \ud799",
-				"solved_count": 22652,
-				"average_try": 1.7714
+				"solved_count": 22702,
+				"average_try": 1.7711
 			},
 			{
 				"id": 11365,
@@ -7093,8 +7102,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5f4\ud608\uac15\ud638 2",
-				"solved_count": 2490,
-				"average_try": 2.2112
+				"solved_count": 2510,
+				"average_try": 2.2171
 			},
 			{
 				"id": 11377,
@@ -7120,8 +7129,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uaf2c\ub9c8 \uc815\ubbfc",
-				"solved_count": 57873,
-				"average_try": 2.4264
+				"solved_count": 58031,
+				"average_try": 2.4267
 			},
 			{
 				"id": 11385,
@@ -7138,8 +7147,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "ATM",
-				"solved_count": 57111,
-				"average_try": 1.4623
+				"solved_count": 57165,
+				"average_try": 1.4622
 			},
 			{
 				"id": 11401,
@@ -7147,8 +7156,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\ud56d \uacc4\uc218 3",
-				"solved_count": 7462,
-				"average_try": 2.5009
+				"solved_count": 7484,
+				"average_try": 2.5013
 			},
 			{
 				"id": 11403,
@@ -7156,8 +7165,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uacbd\ub85c \ucc3e\uae30",
-				"solved_count": 20843,
-				"average_try": 1.6347
+				"solved_count": 20869,
+				"average_try": 1.6343
 			},
 			{
 				"id": 11404,
@@ -7165,7 +7174,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud50c\ub85c\uc774\ub4dc",
-				"solved_count": 19523,
+				"solved_count": 19544,
 				"average_try": 2.3931
 			},
 			{
@@ -7201,8 +7210,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "LCA",
-				"solved_count": 5541,
-				"average_try": 2.4631
+				"solved_count": 5544,
+				"average_try": 2.4636
 			},
 			{
 				"id": 11438,
@@ -7210,8 +7219,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "LCA 2",
-				"solved_count": 6147,
-				"average_try": 3.06
+				"solved_count": 6149,
+				"average_try": 3.0595
 			},
 			{
 				"id": 11440,
@@ -7246,8 +7255,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud53c\ubcf4\ub098\uce58 \uc218 6",
-				"solved_count": 7607,
-				"average_try": 2.0816
+				"solved_count": 7609,
+				"average_try": 2.0817
 			},
 			{
 				"id": 11478,
@@ -7255,8 +7264,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc11c\ub85c \ub2e4\ub978 \ubd80\ubd84 \ubb38\uc790\uc5f4\uc758 \uac1c\uc218",
-				"solved_count": 12416,
-				"average_try": 1.5846
+				"solved_count": 12422,
+				"average_try": 1.5844
 			},
 			{
 				"id": 11497,
@@ -7318,8 +7327,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc88c\ud45c \uc815\ub82c\ud558\uae30",
-				"solved_count": 49144,
-				"average_try": 2.0837
+				"solved_count": 49189,
+				"average_try": 2.0844
 			},
 			{
 				"id": 11651,
@@ -7327,8 +7336,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc88c\ud45c \uc815\ub82c\ud558\uae30 2",
-				"solved_count": 41126,
-				"average_try": 1.4964
+				"solved_count": 41138,
+				"average_try": 1.4965
 			},
 			{
 				"id": 11653,
@@ -7336,8 +7345,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc18c\uc778\uc218\ubd84\ud574",
-				"solved_count": 44364,
-				"average_try": 1.8813
+				"solved_count": 44415,
+				"average_try": 1.8811
 			},
 			{
 				"id": 11654,
@@ -7345,7 +7354,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc544\uc2a4\ud0a4 \ucf54\ub4dc",
-				"solved_count": 102249,
+				"solved_count": 102356,
 				"average_try": 1.2381
 			},
 			{
@@ -7354,8 +7363,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "ROT13",
-				"solved_count": 12641,
-				"average_try": 1.6474
+				"solved_count": 12659,
+				"average_try": 1.6492
 			},
 			{
 				"id": 11656,
@@ -7390,7 +7399,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uad6c\uac04 \ud569 \uad6c\ud558\uae30 4",
-				"solved_count": 31074,
+				"solved_count": 31125,
 				"average_try": 2.5635
 			},
 			{
@@ -7399,8 +7408,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uad6c\uac04 \ud569 \uad6c\ud558\uae30 5",
-				"solved_count": 21341,
-				"average_try": 2.266
+				"solved_count": 21373,
+				"average_try": 2.2659
 			},
 			{
 				"id": 11687,
@@ -7417,8 +7426,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "GCD(n, k) = 1",
-				"solved_count": 3315,
-				"average_try": 2.5373
+				"solved_count": 3316,
+				"average_try": 2.5368
 			},
 			{
 				"id": 11694,
@@ -7435,8 +7444,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uadf8\ub300\ub85c \ucd9c\ub825\ud558\uae30",
-				"solved_count": 56537,
-				"average_try": 3.0341
+				"solved_count": 56614,
+				"average_try": 3.0328
 			},
 			{
 				"id": 11719,
@@ -7453,8 +7462,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc22b\uc790\uc758 \ud569",
-				"solved_count": 108736,
-				"average_try": 1.7972
+				"solved_count": 108861,
+				"average_try": 1.7971
 			},
 			{
 				"id": 11721,
@@ -7462,7 +7471,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc5f4 \uac1c\uc529 \ub04a\uc5b4 \ucd9c\ub825\ud558\uae30",
-				"solved_count": 34849,
+				"solved_count": 34850,
 				"average_try": 1.8136
 			},
 			{
@@ -7480,8 +7489,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc9d1\ud569",
-				"solved_count": 21564,
-				"average_try": 3.4133
+				"solved_count": 21598,
+				"average_try": 3.4124
 			},
 			{
 				"id": 11724,
@@ -7489,8 +7498,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc5f0\uacb0 \uc694\uc18c\uc758 \uac1c\uc218",
-				"solved_count": 35649,
-				"average_try": 2.3744
+				"solved_count": 35678,
+				"average_try": 2.3742
 			},
 			{
 				"id": 11725,
@@ -7498,8 +7507,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ud2b8\ub9ac\uc758 \ubd80\ubaa8 \ucc3e\uae30",
-				"solved_count": 23666,
-				"average_try": 2.3535
+				"solved_count": 23674,
+				"average_try": 2.3533
 			},
 			{
 				"id": 11726,
@@ -7507,8 +7516,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "2\u00d7n \ud0c0\uc77c\ub9c1",
-				"solved_count": 46562,
-				"average_try": 2.7323
+				"solved_count": 46567,
+				"average_try": 2.7322
 			},
 			{
 				"id": 11727,
@@ -7516,7 +7525,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "2\u00d7n \ud0c0\uc77c\ub9c1 2",
-				"solved_count": 34071,
+				"solved_count": 34080,
 				"average_try": 1.6989
 			},
 			{
@@ -7552,8 +7561,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\uc18c\ube44\uc6a9 \uad6c\ud558\uae30 2",
-				"solved_count": 8104,
-				"average_try": 2.7322
+				"solved_count": 8126,
+				"average_try": 2.7312
 			},
 			{
 				"id": 11780,
@@ -7579,8 +7588,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc694\uc138\ud478\uc2a4 \ubb38\uc81c 0",
-				"solved_count": 34073,
-				"average_try": 1.7706
+				"solved_count": 34133,
+				"average_try": 1.7707
 			},
 			{
 				"id": 11868,
@@ -7624,8 +7633,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218 \uc815\ub82c\ud558\uae30 4",
-				"solved_count": 6863,
-				"average_try": 1.8276
+				"solved_count": 6881,
+				"average_try": 1.8284
 			},
 			{
 				"id": 11933,
@@ -7714,8 +7723,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "2048 (Easy)",
-				"solved_count": 14744,
-				"average_try": 3.7853
+				"solved_count": 14746,
+				"average_try": 3.7849
 			},
 			{
 				"id": 12728,
@@ -7786,7 +7795,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc228\ubc14\uaf2d\uc9c8 2",
-				"solved_count": 9849,
+				"solved_count": 9850,
 				"average_try": 3.8972
 			},
 			{
@@ -7804,8 +7813,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ud3c9\ubc94\ud55c \ubc30\ub0ad",
-				"solved_count": 29112,
-				"average_try": 2.7984
+				"solved_count": 29113,
+				"average_try": 2.7983
 			},
 			{
 				"id": 12895,
@@ -7894,8 +7903,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubcc4 \ucc0d\uae30 - 23",
-				"solved_count": 2205,
-				"average_try": 1.5066
+				"solved_count": 2214,
+				"average_try": 1.5077
 			},
 			{
 				"id": 13034,
@@ -7939,8 +7948,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubc30\uc5f4",
-				"solved_count": 219,
-				"average_try": 5.8356
+				"solved_count": 220,
+				"average_try": 5.85
 			},
 			{
 				"id": 13161,
@@ -8002,8 +8011,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd5c\uc18c\uacf5\ubc30\uc218",
-				"solved_count": 9444,
-				"average_try": 1.5677
+				"solved_count": 9459,
+				"average_try": 1.568
 			},
 			{
 				"id": 13257,
@@ -8065,8 +8074,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud0c0\uc77c \uc7a5\uc2dd\ubb3c",
-				"solved_count": 5189,
-				"average_try": 1.946
+				"solved_count": 5211,
+				"average_try": 1.9484
 			},
 			{
 				"id": 13305,
@@ -8137,8 +8146,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uad6c\uc2ac \ud0c8\ucd9c 2",
-				"solved_count": 14929,
-				"average_try": 3.5968
+				"solved_count": 14941,
+				"average_try": 3.5967
 			},
 			{
 				"id": 13496,
@@ -8272,8 +8281,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 0",
-				"solved_count": 503,
-				"average_try": 4.0934
+				"solved_count": 511,
+				"average_try": 4.0744
 			},
 			{
 				"id": 13546,
@@ -8281,8 +8290,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218\uc5f4\uacfc \ucffc\ub9ac 4",
-				"solved_count": 595,
-				"average_try": 5.8975
+				"solved_count": 596,
+				"average_try": 5.9312
 			},
 			{
 				"id": 13547,
@@ -8308,8 +8317,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc228\ubc14\uaf2d\uc9c8 3",
-				"solved_count": 16059,
-				"average_try": 4.1267
+				"solved_count": 16077,
+				"average_try": 4.126
 			},
 			{
 				"id": 13550,
@@ -8497,8 +8506,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 4",
-				"solved_count": 11909,
-				"average_try": 2.532
+				"solved_count": 11924,
+				"average_try": 2.5321
 			},
 			{
 				"id": 14003,
@@ -8506,8 +8515,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\uc7a5 \uae34 \uc99d\uac00\ud558\ub294 \ubd80\ubd84 \uc218\uc5f4 5",
-				"solved_count": 7449,
-				"average_try": 2.925
+				"solved_count": 7456,
+				"average_try": 2.9252
 			},
 			{
 				"id": 14038,
@@ -8551,8 +8560,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc138 \ub9c9\ub300",
-				"solved_count": 8668,
-				"average_try": 1.4577
+				"solved_count": 8669,
+				"average_try": 1.4576
 			},
 			{
 				"id": 14226,
@@ -8560,8 +8569,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\ubaa8\ud2f0\ucf58",
-				"solved_count": 6514,
-				"average_try": 2.9306
+				"solved_count": 6527,
+				"average_try": 2.9317
 			},
 			{
 				"id": 14235,
@@ -8668,7 +8677,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubb38\uc790\uc5f4 \uc9d1\ud569",
-				"solved_count": 18720,
+				"solved_count": 18751,
 				"average_try": 1.8639
 			},
 			{
@@ -8749,8 +8758,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc18c\uac00 \uae38\uc744 \uac74\ub108\uac04 \uc774\uc720 5",
-				"solved_count": 1637,
-				"average_try": 2.1429
+				"solved_count": 1638,
+				"average_try": 2.1435
 			},
 			{
 				"id": 14467,
@@ -8839,8 +8848,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud14c\ud2b8\ub85c\ubbf8\ub178",
-				"solved_count": 21415,
-				"average_try": 2.7567
+				"solved_count": 21418,
+				"average_try": 2.7566
 			},
 			{
 				"id": 14501,
@@ -8857,8 +8866,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5f0\uad6c\uc18c",
-				"solved_count": 29993,
-				"average_try": 1.8236
+				"solved_count": 30015,
+				"average_try": 1.8241
 			},
 			{
 				"id": 14503,
@@ -8866,8 +8875,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub85c\ubd07 \uccad\uc18c\uae30",
-				"solved_count": 21925,
-				"average_try": 1.8622
+				"solved_count": 21929,
+				"average_try": 1.8621
 			},
 			{
 				"id": 14504,
@@ -8974,8 +8983,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc0ac\ubd84\uba74 \uace0\ub974\uae30",
-				"solved_count": 130297,
-				"average_try": 1.6357
+				"solved_count": 130414,
+				"average_try": 1.6356
 			},
 			{
 				"id": 14720,
@@ -9046,8 +9055,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2a4\ud0c0\ud2b8\uc640 \ub9c1\ud06c",
-				"solved_count": 27214,
-				"average_try": 2.1718
+				"solved_count": 27237,
+				"average_try": 2.1716
 			},
 			{
 				"id": 14891,
@@ -9055,8 +9064,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud1b1\ub2c8\ubc14\ud034",
-				"solved_count": 14699,
-				"average_try": 1.8213
+				"solved_count": 14708,
+				"average_try": 1.8211
 			},
 			{
 				"id": 14897,
@@ -9091,8 +9100,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac70\uc2a4\ub984\ub3c8",
-				"solved_count": 8539,
-				"average_try": 2.1245
+				"solved_count": 8545,
+				"average_try": 2.1242
 			},
 			{
 				"id": 14920,
@@ -9109,8 +9118,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud3f0 \ub178\uc774\ub9cc\uacfc \ud30c\ub9ac",
-				"solved_count": 3959,
-				"average_try": 1.2233
+				"solved_count": 3962,
+				"average_try": 1.2231
 			},
 			{
 				"id": 14928,
@@ -9136,8 +9145,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc11c\uac15\uadf8\ub77c\uc6b4\ub4dc",
-				"solved_count": 5636,
-				"average_try": 2.0051
+				"solved_count": 5645,
+				"average_try": 2.0044
 			},
 			{
 				"id": 14939,
@@ -9154,8 +9163,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc26c\uc6b4 \ucd5c\ub2e8\uac70\ub9ac",
-				"solved_count": 6588,
-				"average_try": 2.6749
+				"solved_count": 6604,
+				"average_try": 2.6746
 			},
 			{
 				"id": 15000,
@@ -9181,8 +9190,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "M\u00e1quina de caf\u00e9",
-				"solved_count": 1081,
-				"average_try": 1.5301
+				"solved_count": 1097,
+				"average_try": 1.5333
 			},
 			{
 				"id": 15059,
@@ -9226,8 +9235,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uce5c\uad6c \ud330\ub9b0\ub4dc\ub86c 2",
-				"solved_count": 102,
-				"average_try": 1.9314
+				"solved_count": 103,
+				"average_try": 1.9709
 			},
 			{
 				"id": 15316,
@@ -9253,8 +9262,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud070 \uc218 A+B (2)",
-				"solved_count": 2355,
-				"average_try": 1.8399
+				"solved_count": 2361,
+				"average_try": 1.8429
 			},
 			{
 				"id": 15372,
@@ -9271,8 +9280,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ubca0\ub77c\uc758 \ud328\uc158",
-				"solved_count": 9138,
-				"average_try": 1.15
+				"solved_count": 9139,
+				"average_try": 1.1501
 			},
 			{
 				"id": 15474,
@@ -9325,8 +9334,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ube60\ub978 A+B",
-				"solved_count": 109249,
-				"average_try": 2.1931
+				"solved_count": 109384,
+				"average_try": 2.1929
 			},
 			{
 				"id": 15576,
@@ -9361,8 +9370,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud53c\ubcf4\ub098\uce58 \uc218 7",
-				"solved_count": 2677,
-				"average_try": 1.9727
+				"solved_count": 2683,
+				"average_try": 1.9739
 			},
 			{
 				"id": 15638,
@@ -9388,8 +9397,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "N\uacfc M (1)",
-				"solved_count": 41765,
-				"average_try": 1.5932
+				"solved_count": 41771,
+				"average_try": 1.5933
 			},
 			{
 				"id": 15650,
@@ -9397,8 +9406,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "N\uacfc M (2)",
-				"solved_count": 38481,
-				"average_try": 1.35
+				"solved_count": 38510,
+				"average_try": 1.3501
 			},
 			{
 				"id": 15651,
@@ -9406,8 +9415,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "N\uacfc M (3)",
-				"solved_count": 32328,
-				"average_try": 1.4903
+				"solved_count": 32356,
+				"average_try": 1.4901
 			},
 			{
 				"id": 15652,
@@ -9424,7 +9433,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "N\uacfc M (5)",
-				"solved_count": 19901,
+				"solved_count": 19904,
 				"average_try": 1.3721
 			},
 			{
@@ -9433,8 +9442,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "N\uacfc M (6)",
-				"solved_count": 13960,
-				"average_try": 1.1838
+				"solved_count": 14017,
+				"average_try": 1.1842
 			},
 			{
 				"id": 15656,
@@ -9460,8 +9469,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "N\uacfc M (9)",
-				"solved_count": 14000,
-				"average_try": 2.0258
+				"solved_count": 14018,
+				"average_try": 2.0251
 			},
 			{
 				"id": 15666,
@@ -9469,7 +9478,7 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "N\uacfc M (12)",
-				"solved_count": 11960,
+				"solved_count": 11961,
 				"average_try": 1.2372
 			},
 			{
@@ -9478,8 +9487,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5f0\uc138\uc6cc\ud130\ud30c\ud06c",
-				"solved_count": 906,
-				"average_try": 2.2417
+				"solved_count": 915,
+				"average_try": 2.2393
 			},
 			{
 				"id": 15680,
@@ -9487,8 +9496,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc5f0\uc138\ub300\ud559\uad50",
-				"solved_count": 9663,
-				"average_try": 1.3191
+				"solved_count": 9677,
+				"average_try": 1.3188
 			},
 			{
 				"id": 15681,
@@ -9505,8 +9514,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac10\uc2dc",
-				"solved_count": 13780,
-				"average_try": 2.2511
+				"solved_count": 13791,
+				"average_try": 2.2505
 			},
 			{
 				"id": 15686,
@@ -9541,8 +9550,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774\uce59\uc5f0\uc0b0",
-				"solved_count": 3992,
-				"average_try": 3.2217
+				"solved_count": 3994,
+				"average_try": 3.2211
 			},
 			{
 				"id": 15727,
@@ -9550,8 +9559,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc870\ubcc4\uacfc\uc81c\ub97c \ud558\ub824\ub294\ub370 \uc870\uc7a5\uc774 \uc0ac\ub77c\uc84c\ub2e4",
-				"solved_count": 7792,
-				"average_try": 1.6283
+				"solved_count": 7793,
+				"average_try": 1.6285
 			},
 			{
 				"id": 15733,
@@ -9586,8 +9595,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Calculate! 2",
-				"solved_count": 240,
-				"average_try": 1.9792
+				"solved_count": 241,
+				"average_try": 1.9793
 			},
 			{
 				"id": 15792,
@@ -9595,8 +9604,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "A/B - 2",
-				"solved_count": 1596,
-				"average_try": 2.703
+				"solved_count": 1597,
+				"average_try": 2.7032
 			},
 			{
 				"id": 15829,
@@ -9604,8 +9613,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Hashing",
-				"solved_count": 13969,
-				"average_try": 3.283
+				"solved_count": 13997,
+				"average_try": 3.2824
 			},
 			{
 				"id": 15873,
@@ -9640,8 +9649,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc218\ud559\uc740 \uccb4\uc721\uacfc\ubaa9 \uc785\ub2c8\ub2e4",
-				"solved_count": 16124,
-				"average_try": 1.8143
+				"solved_count": 16152,
+				"average_try": 1.8149
 			},
 			{
 				"id": 15903,
@@ -9694,8 +9703,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "CASIO",
-				"solved_count": 6514,
-				"average_try": 1.539
+				"solved_count": 6527,
+				"average_try": 1.5388
 			},
 			{
 				"id": 15964,
@@ -9703,8 +9712,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc774\uc0c1\ud55c \uae30\ud638",
-				"solved_count": 13281,
-				"average_try": 1.7636
+				"solved_count": 13295,
+				"average_try": 1.7637
 			},
 			{
 				"id": 15967,
@@ -9766,8 +9775,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "#15164\ubc88_\uc81c\ubcf4",
-				"solved_count": 481,
-				"average_try": 2.5759
+				"solved_count": 484,
+				"average_try": 2.5868
 			},
 			{
 				"id": 16170,
@@ -9829,8 +9838,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc778\uad6c \uc774\ub3d9",
-				"solved_count": 15821,
-				"average_try": 2.6146
+				"solved_count": 15845,
+				"average_try": 2.6136
 			},
 			{
 				"id": 16236,
@@ -9838,8 +9847,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc544\uae30 \uc0c1\uc5b4",
-				"solved_count": 18443,
-				"average_try": 2.3257
+				"solved_count": 18462,
+				"average_try": 2.3252
 			},
 			{
 				"id": 16264,
@@ -9955,8 +9964,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud070 \uc218 \ub9cc\ub4e4\uae30",
-				"solved_count": 1809,
-				"average_try": 3.3886
+				"solved_count": 1820,
+				"average_try": 3.3846
 			},
 			{
 				"id": 16563,
@@ -10013,6 +10022,15 @@
 				"average_try": 2.0587
 			},
 			{
+				"id": 16726,
+				"level": 18,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\uc601\uacfc\uc77c \ud559\ud68c\ubc29",
+				"solved_count": 104,
+				"average_try": 2.2212
+			},
+			{
 				"id": 16727,
 				"level": 2,
 				"level_locked": 0,
@@ -10054,8 +10072,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud54c\ubc84",
-				"solved_count": 402,
-				"average_try": 2.8383
+				"solved_count": 411,
+				"average_try": 2.8394
 			},
 			{
 				"id": 16879,
@@ -10171,8 +10189,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "A \u2192 B",
-				"solved_count": 15640,
-				"average_try": 2.5164
+				"solved_count": 15674,
+				"average_try": 2.5175
 			},
 			{
 				"id": 16975,
@@ -10243,8 +10261,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Winning Score",
-				"solved_count": 2445,
-				"average_try": 1.2605
+				"solved_count": 2448,
+				"average_try": 1.2602
 			},
 			{
 				"id": 17010,
@@ -10261,8 +10279,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud30c\uc774\ud504 \uc62e\uae30\uae30 1",
-				"solved_count": 12146,
-				"average_try": 2.1747
+				"solved_count": 12166,
+				"average_try": 2.176
 			},
 			{
 				"id": 17081,
@@ -10324,8 +10342,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubbf8\uc138\uba3c\uc9c0 \uc548\ub155!",
-				"solved_count": 13771,
-				"average_try": 1.8323
+				"solved_count": 13789,
+				"average_try": 1.8321
 			},
 			{
 				"id": 17173,
@@ -10360,8 +10378,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ube44\ubc00\ubc88\ud638 \ucc3e\uae30",
-				"solved_count": 12414,
-				"average_try": 1.4182
+				"solved_count": 12429,
+				"average_try": 1.4181
 			},
 			{
 				"id": 17256,
@@ -10603,8 +10621,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2e8\uc5b4 \ub4a4\uc9d1\uae30 2",
-				"solved_count": 12720,
-				"average_try": 1.7597
+				"solved_count": 12736,
+				"average_try": 1.7602
 			},
 			{
 				"id": 17419,
@@ -10648,8 +10666,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud30c\ub9ac\ucc44 \ub9cc\ub4e4\uae30",
-				"solved_count": 64,
-				"average_try": 2.375
+				"solved_count": 67,
+				"average_try": 2.3731
 			},
 			{
 				"id": 17473,
@@ -10720,8 +10738,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218\uc5f4\uacfc \uc2dc\ud504\ud2b8 \ucffc\ub9ac",
-				"solved_count": 391,
-				"average_try": 2.4731
+				"solved_count": 406,
+				"average_try": 2.4507
 			},
 			{
 				"id": 17520,
@@ -10792,8 +10810,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Four Squares",
-				"solved_count": 8945,
-				"average_try": 2.2818
+				"solved_count": 8966,
+				"average_try": 2.2817
 			},
 			{
 				"id": 17633,
@@ -10810,8 +10828,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "FYI",
-				"solved_count": 2180,
-				"average_try": 1.2592
+				"solved_count": 2200,
+				"average_try": 1.2577
 			},
 			{
 				"id": 17874,
@@ -10918,8 +10936,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "1998\ub144\uc0dd\uc778 \ub0b4\uac00 \ud0dc\uad6d\uc5d0\uc11c\ub294 2541\ub144\uc0dd?!",
-				"solved_count": 96612,
-				"average_try": 1.5571
+				"solved_count": 96755,
+				"average_try": 1.5573
 			},
 			{
 				"id": 18110,
@@ -10927,8 +10945,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "solved.ac",
-				"solved_count": 5339,
-				"average_try": 3.9062
+				"solved_count": 5354,
+				"average_try": 3.9066
 			},
 			{
 				"id": 18111,
@@ -10936,7 +10954,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub9c8\uc778\ud06c\ub798\ud504\ud2b8",
-				"solved_count": 11689,
+				"solved_count": 11709,
 				"average_try": 4.1981
 			},
 			{
@@ -11030,6 +11048,15 @@
 				"average_try": 3.571
 			},
 			{
+				"id": 18239,
+				"level": 13,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "\ud3b8\uc548\ud55c \uc218\uc5f4 \ub9cc\ub4e4\uae30",
+				"solved_count": 135,
+				"average_try": 3.837
+			},
+			{
 				"id": 18253,
 				"level": 23,
 				"level_locked": 0,
@@ -11044,8 +11071,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud050 2",
-				"solved_count": 23209,
-				"average_try": 3.0871
+				"solved_count": 23271,
+				"average_try": 3.0874
 			},
 			{
 				"id": 18265,
@@ -11125,8 +11152,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "3 \u3064\u306e\u6574\u6570 (Three Integers)",
-				"solved_count": 1624,
-				"average_try": 1.2044
+				"solved_count": 1628,
+				"average_try": 1.2045
 			},
 			{
 				"id": 18409,
@@ -11332,8 +11359,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc88c\ud45c \uc555\ucd95",
-				"solved_count": 26759,
-				"average_try": 2.5167
+				"solved_count": 26780,
+				"average_try": 2.5181
 			},
 			{
 				"id": 18879,
@@ -11449,8 +11476,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc218\ud559\uc740 \ube44\ub300\uba74\uac15\uc758\uc785\ub2c8\ub2e4",
-				"solved_count": 12461,
-				"average_try": 1.9368
+				"solved_count": 12478,
+				"average_try": 1.9373
 			},
 			{
 				"id": 19535,
@@ -11611,8 +11638,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud5db\uac04 \uccad\uc57d",
-				"solved_count": 3042,
-				"average_try": 1.6483
+				"solved_count": 3063,
+				"average_try": 1.6533
 			},
 			{
 				"id": 19939,
@@ -11620,8 +11647,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubc15 \ud130\ub728\ub9ac\uae30",
-				"solved_count": 3296,
-				"average_try": 2.6596
+				"solved_count": 3314,
+				"average_try": 2.6605
 			},
 			{
 				"id": 19944,
@@ -11845,8 +11872,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Archivist",
-				"solved_count": 1121,
-				"average_try": 1.2355
+				"solved_count": 1126,
+				"average_try": 1.2353
 			},
 			{
 				"id": 20233,
@@ -11863,8 +11890,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Site Score",
-				"solved_count": 4156,
-				"average_try": 1.0999
+				"solved_count": 4160,
+				"average_try": 1.1
 			},
 			{
 				"id": 20297,
@@ -12232,8 +12259,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud5cc\ub0b4\uae30\ub294 \uce5c\uad6c\uac00 \ud544\uc694\ud574",
-				"solved_count": 3924,
-				"average_try": 1.633
+				"solved_count": 3944,
+				"average_try": 1.6377
 			},
 			{
 				"id": 21756,
@@ -12340,8 +12367,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uad04\ud638\uc758 \uac12 \ube44\uad50",
-				"solved_count": 246,
-				"average_try": 4.3862
+				"solved_count": 247,
+				"average_try": 4.3765
 			},
 			{
 				"id": 22351,
@@ -12412,8 +12439,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "5\uc758 \uc218\ub09c",
-				"solved_count": 2985,
-				"average_try": 1.193
+				"solved_count": 2999,
+				"average_try": 1.1921
 			},
 			{
 				"id": 23234,
@@ -12493,8 +12520,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc0ac\uc7a5\ub2d8 \ub3c4\ubc15\uc740 \uc7ac\ubbf8\ub85c \ud558\uc154\uc57c \ud569\ub2c8\ub2e4",
-				"solved_count": 2964,
-				"average_try": 1.2436
+				"solved_count": 2966,
+				"average_try": 1.2434
 			},
 			{
 				"id": 23825,
@@ -12529,8 +12556,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub4f1\ucc28\uc218\uc5f4\uacfc \ucffc\ub9ac",
-				"solved_count": 359,
-				"average_try": 4.4457
+				"solved_count": 365,
+				"average_try": 4.4247
 			},
 			{
 				"id": 23972,
@@ -12673,8 +12700,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "G\u00f6mda ord",
-				"solved_count": 404,
-				"average_try": 1.245
+				"solved_count": 405,
+				"average_try": 1.2444
 			},
 			{
 				"id": 24262,
@@ -12682,8 +12709,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc54c\uace0\ub9ac\uc998\uc758 \uc218\ud589 \uc2dc\uac04 1",
-				"solved_count": 11341,
-				"average_try": 1.3037
+				"solved_count": 11371,
+				"average_try": 1.304
 			},
 			{
 				"id": 24263,
@@ -12691,7 +12718,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc54c\uace0\ub9ac\uc998\uc758 \uc218\ud589 \uc2dc\uac04 2",
-				"solved_count": 8987,
+				"solved_count": 9014,
 				"average_try": 1.2563
 			},
 			{
@@ -12700,8 +12727,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc54c\uace0\ub9ac\uc998\uc758 \uc218\ud589 \uc2dc\uac04 3",
-				"solved_count": 8164,
-				"average_try": 1.9248
+				"solved_count": 8181,
+				"average_try": 1.9242
 			},
 			{
 				"id": 24265,
@@ -12709,8 +12736,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc54c\uace0\ub9ac\uc998\uc758 \uc218\ud589 \uc2dc\uac04 4",
-				"solved_count": 7692,
-				"average_try": 1.925
+				"solved_count": 7723,
+				"average_try": 1.9232
 			},
 			{
 				"id": 24266,
@@ -12718,7 +12745,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc54c\uace0\ub9ac\uc998\uc758 \uc218\ud589 \uc2dc\uac04 5",
-				"solved_count": 7532,
+				"solved_count": 7533,
 				"average_try": 1.3441
 			},
 			{
@@ -12772,7 +12799,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \ud53c\ubcf4\ub098\uce58 \uc218 1",
-				"solved_count": 9252,
+				"solved_count": 9254,
 				"average_try": 1.7072
 			},
 			{
@@ -12952,8 +12979,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uae4a\uc774 \uc6b0\uc120 \ud0d0\uc0c9 4",
-				"solved_count": 568,
-				"average_try": 1.4384
+				"solved_count": 587,
+				"average_try": 1.4378
 			},
 			{
 				"id": 24483,
@@ -13033,8 +13060,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub179\uc0c9\uac70\ud0d1",
-				"solved_count": 6316,
-				"average_try": 1.4788
+				"solved_count": 6329,
+				"average_try": 1.4781
 			},
 			{
 				"id": 24736,
@@ -13105,8 +13132,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\uc0c8\uc2f9",
-				"solved_count": 54278,
-				"average_try": 1.9065
+				"solved_count": 54355,
+				"average_try": 1.9068
 			},
 			{
 				"id": 25191,
@@ -13132,8 +13159,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub108\uc758 \ud3c9\uc810\uc740",
-				"solved_count": 16609,
-				"average_try": 2.2224
+				"solved_count": 16689,
+				"average_try": 2.225
 			},
 			{
 				"id": 25208,
@@ -13177,8 +13204,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uac00\ud76c\uc640 \ubc29\uc5b4\uc728 \ubb34\uc2dc",
-				"solved_count": 3880,
-				"average_try": 1.9716
+				"solved_count": 3894,
+				"average_try": 1.973
 			},
 			{
 				"id": 25304,
@@ -13186,8 +13213,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc601\uc218\uc99d",
-				"solved_count": 54462,
-				"average_try": 1.7803
+				"solved_count": 54604,
+				"average_try": 1.7804
 			},
 			{
 				"id": 25305,
@@ -13195,7 +13222,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucee4\ud2b8\ub77c\uc778",
-				"solved_count": 18523,
+				"solved_count": 18546,
 				"average_try": 1.5128
 			},
 			{
@@ -13213,8 +13240,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucf54\ub529\uc740 \uccb4\uc721\uacfc\ubaa9 \uc785\ub2c8\ub2e4",
-				"solved_count": 37319,
-				"average_try": 1.5373
+				"solved_count": 37436,
+				"average_try": 1.5376
 			},
 			{
 				"id": 25345,
@@ -13249,8 +13276,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Inverzije",
-				"solved_count": 32,
-				"average_try": 1.6563
+				"solved_count": 33,
+				"average_try": 1.6364
 			},
 			{
 				"id": 25494,
@@ -13258,7 +13285,7 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ub2e8\uc21c\ud55c \ubb38\uc81c (Small)",
-				"solved_count": 1812,
+				"solved_count": 1816,
 				"average_try": 1.2544
 			},
 			{
@@ -13267,8 +13294,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc7ac\uadc0\uc758 \uadc0\uc7ac",
-				"solved_count": 9693,
-				"average_try": 1.8224
+				"solved_count": 9717,
+				"average_try": 1.8229
 			},
 			{
 				"id": 25556,
@@ -13276,8 +13303,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud3ec\uc2a4\ud0dd",
-				"solved_count": 581,
-				"average_try": 2.6403
+				"solved_count": 587,
+				"average_try": 2.6491
 			},
 			{
 				"id": 25591,
@@ -13285,8 +13312,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud478\uc559\uc774\uc640 \uc885\uc724\uc774",
-				"solved_count": 1266,
-				"average_try": 1.2362
+				"solved_count": 1271,
+				"average_try": 1.236
 			},
 			{
 				"id": 25600,
@@ -13384,8 +13411,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Divide the Cash",
-				"solved_count": 532,
-				"average_try": 1.1748
+				"solved_count": 536,
+				"average_try": 1.1754
 			},
 			{
 				"id": 25871,
@@ -13582,8 +13609,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Acres",
-				"solved_count": 442,
-				"average_try": 1.2172
+				"solved_count": 443,
+				"average_try": 1.2167
 			},
 			{
 				"id": 26545,
@@ -13681,8 +13708,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Wynik meczu",
-				"solved_count": 528,
-				"average_try": 1.1345
+				"solved_count": 535,
+				"average_try": 1.1402
 			},
 			{
 				"id": 26742,
@@ -13690,8 +13717,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Skarpetki",
-				"solved_count": 435,
-				"average_try": 1.1724
+				"solved_count": 442,
+				"average_try": 1.1697
 			},
 			{
 				"id": 26766,
@@ -13726,8 +13753,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Poziome serca",
-				"solved_count": 378,
-				"average_try": 1.455
+				"solved_count": 382,
+				"average_try": 1.4529
 			},
 			{
 				"id": 27110,
@@ -13798,8 +13825,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\u041b\u0438\u0444\u0442",
-				"solved_count": 406,
-				"average_try": 1.2463
+				"solved_count": 407,
+				"average_try": 1.2457
 			},
 			{
 				"id": 27267,
@@ -13852,8 +13879,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc9c1\uc0ac\uac01\ud615",
-				"solved_count": 12276,
-				"average_try": 1.149
+				"solved_count": 12325,
+				"average_try": 1.1487
 			},
 			{
 				"id": 27324,
@@ -13915,8 +13942,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud329\ud1a0\ub9ac\uc5bc 2",
-				"solved_count": 8497,
-				"average_try": 2.0573
+				"solved_count": 8536,
+				"average_try": 2.0594
 			},
 			{
 				"id": 27434,
@@ -13924,8 +13951,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud329\ud1a0\ub9ac\uc5bc 3",
-				"solved_count": 1710,
-				"average_try": 2.0421
+				"solved_count": 1747,
+				"average_try": 2.0487
 			},
 			{
 				"id": 27475,
@@ -13987,8 +14014,8 @@
 				"level_locked": 1,
 				"solvable": 1,
 				"title": "\ubb38\uc790\uc640 \ubb38\uc790\uc5f4",
-				"solved_count": 32380,
-				"average_try": 1.4614
+				"solved_count": 32516,
+				"average_try": 1.4609
 			},
 			{
 				"id": 27880,
@@ -13996,8 +14023,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "Gahui and Soongsil University station",
-				"solved_count": 532,
-				"average_try": 1.218
+				"solved_count": 533,
+				"average_try": 1.2176
 			},
 			{
 				"id": 27889,
@@ -14005,8 +14032,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ud2b9\ubcc4\ud55c \ud559\uad50 \uc774\ub984",
-				"solved_count": 2389,
-				"average_try": 1.3956
+				"solved_count": 2416,
+				"average_try": 1.3936
 			},
 			{
 				"id": 27890,
@@ -14041,8 +14068,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucd08\ucf54\ubc14",
-				"solved_count": 2928,
-				"average_try": 1.4153
+				"solved_count": 2946,
+				"average_try": 1.4158
 			},
 			{
 				"id": 27973,
@@ -14077,8 +14104,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubaa8\ubc94\uc0dd \ud3ec\ub2c9\uc2a4",
-				"solved_count": 1014,
-				"average_try": 1.2387
+				"solved_count": 1017,
+				"average_try": 1.2389
 			},
 			{
 				"id": 28113,
@@ -14088,6 +14115,15 @@
 				"title": "\uc815\ubcf4\uc12c\uc758 \ub300\uc911\uad50\ud1b5",
 				"solved_count": 1665,
 				"average_try": 1.5922
+			},
+			{
+				"id": 28131,
+				"level": 15,
+				"level_locked": 0,
+				"solvable": 1,
+				"title": "K-\uc9c0\ud3d0",
+				"solved_count": 68,
+				"average_try": 1.9853
 			},
 			{
 				"id": 28224,
@@ -14140,8 +14176,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc2a4\ud0dd 2",
-				"solved_count": 5406,
-				"average_try": 2.6478
+				"solved_count": 5427,
+				"average_try": 2.6466
 			},
 			{
 				"id": 28279,
@@ -14221,8 +14257,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "10!",
-				"solved_count": 1142,
-				"average_try": 1.2391
+				"solved_count": 1145,
+				"average_try": 1.2384
 			},
 			{
 				"id": 28426,
@@ -14239,8 +14275,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc591\ub9d0 \uc9dd \ub9de\ucd94\uae30",
-				"solved_count": 1628,
-				"average_try": 1.5424
+				"solved_count": 1646,
+				"average_try": 1.5425
 			},
 			{
 				"id": 28444,
@@ -14401,8 +14437,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc784\uc2a4\uc758 \uba54\uc774\ud50c\ucef5",
-				"solved_count": 1109,
-				"average_try": 1.5095
+				"solved_count": 1120,
+				"average_try": 1.5045
 			},
 			{
 				"id": 29807,
@@ -14590,8 +14626,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\uc774 \ubcc4\uc740 \ubb34\uc2a8 \uc0c9\uc77c\uae4c",
-				"solved_count": 1202,
-				"average_try": 1.4118
+				"solved_count": 1222,
+				"average_try": 1.4124
 			},
 			{
 				"id": 30868,
@@ -14626,8 +14662,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ucffc\ub9ac\ub294 \ub77d\uc774 \uc544\ub2c8\ub2e4",
-				"solved_count": 27,
-				"average_try": 4.5185
+				"solved_count": 28,
+				"average_try": 4.3929
 			},
 			{
 				"id": 30892,
@@ -14662,8 +14698,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "ESC",
-				"solved_count": 156,
-				"average_try": 1.0962
+				"solved_count": 157,
+				"average_try": 1.1019
 			},
 			{
 				"id": 30993,
@@ -14680,8 +14716,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubbfc\uc8fc\uc8fc\uc758",
-				"solved_count": 670,
-				"average_try": 1.2627
+				"solved_count": 700,
+				"average_try": 1.2771
 			},
 			{
 				"id": 31090,
@@ -14698,8 +14734,8 @@
 				"level_locked": 0,
 				"solvable": 1,
 				"title": "\ubaa8\ube44\uc2a4\ud130\ub514",
-				"solved_count": 118,
-				"average_try": 2.5085
+				"solved_count": 119,
+				"average_try": 2.4958
 			},
 			{
 				"id": 31236,
@@ -14712,5 +14748,5 @@
 			}
 		]
 	},
-	"last_updated": "Tue Jan 16 21:36:08 2024"
+	"last_updated": "Wed Jan 17 21:36:26 2024"
 }
