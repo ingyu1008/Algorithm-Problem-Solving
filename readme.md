@@ -10,19 +10,19 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
+| 14890 | [경사로](https://www.acmicpc.net/problem/14890) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 10820 | [문자열 분석](https://www.acmicpc.net/problem/10820) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
+| 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
+| 3055 | [탈출](https://www.acmicpc.net/problem/3055) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
+| 2636 | [치즈](https://www.acmicpc.net/problem/2636) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
+| 1852 | [수 묶기](https://www.acmicpc.net/problem/1852) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
+| 1373 | [2진수 8진수](https://www.acmicpc.net/problem/1373) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
+| 1300 | [K번째 수](https://www.acmicpc.net/problem/1300) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
+| 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
 | 28131 | [K-지폐](https://www.acmicpc.net/problem/28131) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
-| 18239 | [편안한 수열 만들기](https://www.acmicpc.net/problem/18239) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
-| 16726 | [영과일 학회방](https://www.acmicpc.net/problem/16726) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
-| 1612 | [가지고 노는 1](https://www.acmicpc.net/problem/1612) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
-| 30876 | [Tren del Fin del Mundo](https://www.acmicpc.net/problem/30876) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 28490 | [Area](https://www.acmicpc.net/problem/28490) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 28249 | [Chili Peppers](https://www.acmicpc.net/problem/28249) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 27267 | [Сравнение комнат](https://www.acmicpc.net/problem/27267) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 27262 | [Лифт](https://www.acmicpc.net/problem/27262) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
-| 27239 | [Шахматная доска](https://www.acmicpc.net/problem/27239) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
 
 
 ---
 
-last updated : Wed Jan 17 21:37:08 2024
+last updated : Thu Jan 18 21:37:24 2024
 
