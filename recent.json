@@ -1,6 +1,87 @@
 {
 	"problems": [
 		{
+			"id": 14890,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uacbd\uc0ac\ub85c",
+			"solved_count": 11473,
+			"average_try": 1.7602
+		},
+		{
+			"id": 10820,
+			"level": 4,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ubb38\uc790\uc5f4 \ubd84\uc11d",
+			"solved_count": 10638,
+			"average_try": 2.4332
+		},
+		{
+			"id": 3085,
+			"level": 9,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc0ac\ud0d5 \uac8c\uc784",
+			"solved_count": 10628,
+			"average_try": 2.9867
+		},
+		{
+			"id": 3055,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud0c8\ucd9c",
+			"solved_count": 12132,
+			"average_try": 3.0385
+		},
+		{
+			"id": 2636,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uce58\uc988",
+			"solved_count": 11232,
+			"average_try": 1.8249
+		},
+		{
+			"id": 1852,
+			"level": 16,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc218 \ubb36\uae30",
+			"solved_count": 62,
+			"average_try": 2.9355
+		},
+		{
+			"id": 1373,
+			"level": 5,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "2\uc9c4\uc218 8\uc9c4\uc218",
+			"solved_count": 10608,
+			"average_try": 2.4354
+		},
+		{
+			"id": 1300,
+			"level": 15,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "K\ubc88\uc9f8 \uc218",
+			"solved_count": 10907,
+			"average_try": 2.653
+		},
+		{
+			"id": 1261,
+			"level": 12,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc54c\uace0\uc2a4\ud31f",
+			"solved_count": 11597,
+			"average_try": 2.3607
+		},
+		{
 			"id": 28131,
 			"level": 15,
 			"level_locked": 0,
@@ -8,88 +89,7 @@
 			"title": "K-\uc9c0\ud3d0",
 			"solved_count": 68,
 			"average_try": 1.9853
-		},
-		{
-			"id": 18239,
-			"level": 13,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud3b8\uc548\ud55c \uc218\uc5f4 \ub9cc\ub4e4\uae30",
-			"solved_count": 135,
-			"average_try": 3.837
-		},
-		{
-			"id": 16726,
-			"level": 18,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc601\uacfc\uc77c \ud559\ud68c\ubc29",
-			"solved_count": 104,
-			"average_try": 2.2212
-		},
-		{
-			"id": 1612,
-			"level": 11,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uac00\uc9c0\uace0 \ub178\ub294 1",
-			"solved_count": 495,
-			"average_try": 2.7071
-		},
-		{
-			"id": 30876,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Tren del Fin del Mundo",
-			"solved_count": 426,
-			"average_try": 1.2793
-		},
-		{
-			"id": 28490,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Area",
-			"solved_count": 404,
-			"average_try": 1.1337
-		},
-		{
-			"id": 28249,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "Chili Peppers",
-			"solved_count": 399,
-			"average_try": 1.1529
-		},
-		{
-			"id": 27267,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u0421\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u043a\u043e\u043c\u043d\u0430\u0442",
-			"solved_count": 432,
-			"average_try": 1.1644
-		},
-		{
-			"id": 27262,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u041b\u0438\u0444\u0442",
-			"solved_count": 406,
-			"average_try": 1.2463
-		},
-		{
-			"id": 27239,
-			"level": 2,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\u0428\u0430\u0445\u043c\u0430\u0442\u043d\u0430\u044f \u0434\u043e\u0441\u043a\u0430",
-			"solved_count": 393,
-			"average_try": 1.4275
 		}
 	],
-	"last_updated": "Wed Jan 17 21:36:26 2024"
+	"last_updated": "Thu Jan 18 21:36:34 2024"
 }
