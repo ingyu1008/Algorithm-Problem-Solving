@@ -1,95 +1,95 @@
 {
 	"problems": [
 		{
-			"id": 14890,
+			"id": 27315,
+			"level": 15,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ud2c0\ub9ac\ub294 \uac74 \uc2eb\uc73c\ub2c8\uae4c \uc26c\uc6b4 \ubb38\uc81c\uc5d0 \uc62c\uc778\ud558\ub824\uace0 \ud569\ub2c8\ub2e4",
+			"solved_count": 78,
+			"average_try": 4.141
+		},
+		{
+			"id": 26350,
+			"level": 2,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "Good Coin Denomination",
+			"solved_count": 373,
+			"average_try": 1.9357
+		},
+		{
+			"id": 25368,
 			"level": 13,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uacbd\uc0ac\ub85c",
-			"solved_count": 11473,
-			"average_try": 1.7602
+			"title": "\uc0ac\uacfc\ub97c \ub354 \ub9ce\uc774 \uba39\uc790",
+			"solved_count": 12,
+			"average_try": 2.75
 		},
 		{
-			"id": 10820,
+			"id": 24313,
+			"level": 6,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc54c\uace0\ub9ac\uc998 \uc218\uc5c5 - \uc810\uadfc\uc801 \ud45c\uae30 1",
+			"solved_count": 6479,
+			"average_try": 2.9288
+		},
+		{
+			"id": 16404,
+			"level": 18,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\uc8fc\uc2dd\ud68c\uc0ac \uc2b9\ubc94\uc774\ub124",
+			"solved_count": 760,
+			"average_try": 1.7237
+		},
+		{
+			"id": 14618,
+			"level": 13,
+			"level_locked": 0,
+			"solvable": 1,
+			"title": "\ucd1d\uae61 \ucd1d\uae61",
+			"solved_count": 188,
+			"average_try": 3.1702
+		},
+		{
+			"id": 7579,
+			"level": 13,
+			"level_locked": 1,
+			"solvable": 1,
+			"title": "\uc571",
+			"solved_count": 6824,
+			"average_try": 2.9112
+		},
+		{
+			"id": 6255,
+			"level": 11,
+			"level_locked": 0,
+			"solvable": 0,
+			"title": "Harvesting a Farm",
+			"solved_count": 20,
+			"average_try": 1.05
+		},
+		{
+			"id": 2605,
 			"level": 4,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\ubb38\uc790\uc5f4 \ubd84\uc11d",
-			"solved_count": 10638,
-			"average_try": 2.4332
+			"title": "\uc904 \uc138\uc6b0\uae30",
+			"solved_count": 7467,
+			"average_try": 1.4411
 		},
 		{
-			"id": 3085,
-			"level": 9,
+			"id": 2473,
+			"level": 13,
 			"level_locked": 0,
 			"solvable": 1,
-			"title": "\uc0ac\ud0d5 \uac8c\uc784",
-			"solved_count": 10628,
-			"average_try": 2.9867
-		},
-		{
-			"id": 3055,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\ud0c8\ucd9c",
-			"solved_count": 12132,
-			"average_try": 3.0385
-		},
-		{
-			"id": 2636,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uce58\uc988",
-			"solved_count": 11232,
-			"average_try": 1.8249
-		},
-		{
-			"id": 1852,
-			"level": 16,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc218 \ubb36\uae30",
-			"solved_count": 62,
-			"average_try": 2.9355
-		},
-		{
-			"id": 1373,
-			"level": 5,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "2\uc9c4\uc218 8\uc9c4\uc218",
-			"solved_count": 10608,
-			"average_try": 2.4354
-		},
-		{
-			"id": 1300,
-			"level": 15,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "K\ubc88\uc9f8 \uc218",
-			"solved_count": 10907,
-			"average_try": 2.653
-		},
-		{
-			"id": 1261,
-			"level": 12,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "\uc54c\uace0\uc2a4\ud31f",
-			"solved_count": 11597,
-			"average_try": 2.3607
-		},
-		{
-			"id": 28131,
-			"level": 15,
-			"level_locked": 0,
-			"solvable": 1,
-			"title": "K-\uc9c0\ud3d0",
-			"solved_count": 68,
-			"average_try": 1.9853
+			"title": "\uc138 \uc6a9\uc561",
+			"solved_count": 5987,
+			"average_try": 3.7191
 		}
 	],
-	"last_updated": "Thu Jan 18 21:36:34 2024"
+	"last_updated": "Fri Jan 19 21:36:13 2024"
 }
