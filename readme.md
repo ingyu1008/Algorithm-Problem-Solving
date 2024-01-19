@@ -10,19 +10,19 @@ BOJ Problem Count = 144
 ## 최근 푼 문제 (BaekJoon)
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 코드 |
 | --- | --- | --- | --- |
-| 14890 | [경사로](https://www.acmicpc.net/problem/14890) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
-| 10820 | [문자열 분석](https://www.acmicpc.net/problem/10820) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
-| 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |  |
-| 3055 | [탈출](https://www.acmicpc.net/problem/3055) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 2636 | [치즈](https://www.acmicpc.net/problem/2636) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 1852 | [수 묶기](https://www.acmicpc.net/problem/1852) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/16.svg"/> |  |
-| 1373 | [2진수 8진수](https://www.acmicpc.net/problem/1373) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/5.svg"/> |  |
-| 1300 | [K번째 수](https://www.acmicpc.net/problem/1300) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
-| 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  |
-| 28131 | [K-지폐](https://www.acmicpc.net/problem/28131) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
+| 27315 | [틀리는 건 싫으니까 쉬운 문제에 올인하려고 합니다](https://www.acmicpc.net/problem/27315) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |  |
+| 26350 | [Good Coin Denomination](https://www.acmicpc.net/problem/26350) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> |  |
+| 25368 | [사과를 더 많이 먹자](https://www.acmicpc.net/problem/25368) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 24313 | [알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |  |
+| 16404 | [주식회사 승범이네](https://www.acmicpc.net/problem/16404) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/18.svg"/> |  |
+| 14618 | [총깡 총깡](https://www.acmicpc.net/problem/14618) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 7579 | [앱](https://www.acmicpc.net/problem/7579) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
+| 6255 | [Harvesting a Farm](https://www.acmicpc.net/problem/6255) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |  |
+| 2605 | [줄 세우기](https://www.acmicpc.net/problem/2605) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> |  |
+| 2473 | [세 용액](https://www.acmicpc.net/problem/2473) | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |  |
 
 
 ---
 
-last updated : Thu Jan 18 21:37:24 2024
+last updated : Fri Jan 19 21:36:55 2024
 
